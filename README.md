@@ -2,6 +2,8 @@
 
 ![BnF fr 20124 fol. 154](http://expositions.bnf.fr/homere/images/3/fr_20124_154.jpg)
 
+## Présentation du projet
+
 La recherche envisagée se propose d’étudier les caractéristiques du genre de l’histoire universelle pour contribuer à notre connaissance des pratiques littéraires spécifiques à la fin du Moyen Âge, longtemps négligées au profit des formes narratives plus anciennes ou plus récentes. Ce projet s’inscrit plus largement dans le cadre des recherches récentes visant à repenser l’évolution des pratiques littéraires entre Moyen Âge et Renaissance au-delà du discours militant des humanistes du XVI<sup>e</sup> siècle. Si le genre de l’histoire, et surtout de l’histoire antique, est l’une des voies de prédilection de l’écriture des humanistes, il n’en demeure pas moins que leurs œuvres s’inscrivent dans une longue tradition d’histoires originales rédigées en français au XV<sup>e</sup> siècle, succédant aux histoires universelles latines des siècles précédents.
 
 L’objectif de ce projet est d’abord philologique, mais aussi théorique puisqu’il concerne le contenu et la forme de ces histoires universelles, autour de la question du rapport à la chronologie et de la narration des différents temps successifs, et en particulier de l’Antiquité. Le second volet concerne la question de la vulgarisation de la culture historique, c’est-à-dire, au sens étymologique, la transmission en langue vulgaire, en français, de la culture historique jusque-là transmise en latin, avec à l’horizon, une réflexion sur l’émergence de l’humanisme en français.
