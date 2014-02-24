@@ -9,3 +9,7 @@ L’objectif de ce projet est d’abord philologique, mais aussi théorique puis
 Ce travail a comme visée concrète de fournir des descriptions et des transcriptions de textes inexplorés mais ayant connu un important succès, ainsi que des descriptions de nombreux manuscrits inédits par la création d’une base de donnée accessible en ligne.
 
 Ce projet est rendu possible par une subvention du Conseil de la Recherche en Sciences Humaines du Canada, dans le cadre du concours *Subvention de développement Savoir*.
+
+## Licence
+
+Ce projet est publié sous licence [Creative Commons Attribution, Partage dans les mêmes conditions 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.fr).
