@@ -1,6 +1,6 @@
 # Culture historique et lectures de l’Antiquité dans les Histoires universelles en français au XV<sup>e</sup> siècle
 
-![BnF fr 20124 fol. 154](http://expositions.bnf.fr/homere/images/3/fr_20124_154.jpg)
+![BnF fr 20124 fol. 154](./img/bnf-fr-20124-fol-154.png)
 
 ## Présentation du projet
 
@@ -8,7 +8,7 @@ La recherche envisagée se propose d’étudier les caractéristiques du genre d
 
 L’objectif de ce projet est d’abord philologique, mais aussi théorique puisqu’il concerne le contenu et la forme de ces histoires universelles, autour de la question du rapport à la chronologie et de la narration des différents temps successifs, et en particulier de l’Antiquité. Le second volet concerne la question de la vulgarisation de la culture historique, c’est-à-dire, au sens étymologique, la transmission en langue vulgaire, en français, de la culture historique jusque-là transmise en latin, avec à l’horizon, une réflexion sur l’émergence de l’humanisme en français.
 
-Ce travail a comme visée concrète de fournir des descriptions et des transcriptions de textes inexplorés mais ayant connu un important succès, ainsi que des descriptions de nombreux manuscrits inédits par la création d’une base de donnée accessible en ligne.
+Ce travail a comme visée concrète de fournir des descriptions et des transcriptions de textes inexplorés mais ayant connu un important succès, ainsi que des descriptions de nombreux manuscrits inédits par la création d’une base de données accessible en ligne.
 
 Ce projet est rendu possible par une subvention du Conseil de la Recherche en Sciences Humaines du Canada, dans le cadre du concours *Subvention de développement Savoir*.
 
