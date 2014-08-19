@@ -54,7 +54,6 @@ html {
         -webkit-hyphens: none;
         -moz-hyphens: none;
         hyphens: none;
-        display: inline-block;
     }
 
     blockquote {
@@ -204,4 +203,20 @@ h2 ~ p:first-of-type:first-letter {
     text-transform: uppercase;
     font-size: 3.0em;
     color: #c0c0c0;
+}
+
+nav {
+    display: flex;
+}
+
+nav p {
+    flex: 1;
+    padding: 1ex;
+    border: 1pt outset gray;
+    margin: 1ex;
+}
+
+nav p a {
+    display: inline-block;
+    margin: 1ex auto;
 }
