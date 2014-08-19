@@ -54,6 +54,7 @@ html {
         -webkit-hyphens: none;
         -moz-hyphens: none;
         hyphens: none;
+        display: inline-block;
     }
 
     blockquote {
