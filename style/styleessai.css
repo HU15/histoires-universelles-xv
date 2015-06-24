@@ -3,7 +3,7 @@ html {
 	margin: 0;
 	padding: 0;
 	}
-body {font:8pt georgia, serif; color:#333; background:#fff url(bordure.png); margin:0; border:1px solid #000;}
+body {font:8pt georgia, serif; color:#333; margin:0; border:1px solid #000;}
 	
 p {font:8pt georgia, serif; margin:0 0 12px 0; text-align:justify;}
 h3 {font:bold 12pt georgia, serif; margin-bottom:0;}
@@ -29,7 +29,7 @@ a:hover, a:active {text-decoration:underline; color:#c00;}
 	.summary {clear:both; margin:0 0 6px 0; width:600px; height:73px; background:url(bordure2.png) 0 0 no-repeat;}
 		.summary p:first-child {display:none;}
 		.summary p:last-child {position:absolute; top:129px; left:430px; padding:0; font-size:8pt; z-index:10; font-weight:bold; width:150px; text-align:left;}			
-	.preamble {padding:210px 0 0 20px; margin:0 188px 0 0; background:url(Mare.jpg) 13px 0 no-repeat; width:392px;}
+	.preamble {padding:210px 0 0 20px; margin:0 188px 0 0; background:url(Capture d’écran 2015-05-29 à 15.52.15.png) 13px 0 no-repeat; width:392px;}
 		.preamble h3 {background:url(bordure2.png) -9px 0 no-repeat; height:41px; width:392px; margin:0; padding:0;
 			text-indent: 100%;
 			white-space: nowrap;
