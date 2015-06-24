@@ -16,7 +16,7 @@ a:hover, a:active {text-decoration:underline; color:#c00;}
 .page-wrapper {width:604px; padding:0; margin:80px auto 80px 80px; border:2px solid #333;
 	 position:relative; background:#f8f8f8 2px 100% no-repeat;}
 	
-.intro {background:url(Capture d’écran 2015-05-29 à 15.52.15.png) no-repeat; width:600px;}
+.intro {background:url(Capture d’écran 2015-05-29 à 15.52.15.png) no-repeat;}
 	header {margin-bottom:0; height:30px;}
 		header h1, header h2 {margin:17px 0 0 0; padding:0; height:30px;}
 	
@@ -25,26 +25,15 @@ a:hover, a:active {text-decoration:underline; color:#c00;}
 		.summary p:last-child {position:absolute; top:129px; left:430px; padding:0; font-size:8pt; z-index:10; font-weight:bold; width:150px; text-align:left;}			
 	.preamble {padding:210px 0 0 20px; margin:0 188px 0 0; background:url(Capture d’écran 2015-05-29 à 15.52.15.png) 13px 0 no-repeat; width:392px;}
 		.preamble h3 {margin:0; padding:0;
-			text-indent: 100%;
-			white-space: nowrap;
-			overflow: hidden;
 		}
 	
 .supporting {margin:0 8px 50px 20px; width:390px;}
 	.supporting h3 {height:41px; width:392px;
-		text-indent: 100%;
 	}
 	.explanation h3 {height:41px; width:392px;
-		text-indent: 100%;
-		white-space: nowrap;
 	}
 	
 .sidebar {width:170px; position:absolute; top:170px; left:422px; padding-bottom:200px; font:7.5pt georgia, serif; padding-left:7px;} 
-	.sidebar h3 {
-		text-indent: 100%;
-		white-space: nowrap;
-		overflow: hidden;
-	}
 	.sidebar h3 {width:165px; height:15px; margin:0;}
 	.sidebar ul {margin:0 0 17px 0; padding:0;}
 	.sidebar li {line-height:1.2em; list-style-type:none; display:block; padding-top:5px; margin-left:0;}
