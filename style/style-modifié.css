@@ -26,7 +26,7 @@ p {
 	text-align: justify;
 	}
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.4em EB Garamond, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #7D775C;
@@ -99,7 +99,7 @@ header {
 	float: left;
 	}
 .summary p {
-	font: italic 1.1em/2.2 georgia; 
+	font: italic 1.1em/2.2 EB Garamond; 
 	text-align: center;
 	}
 
@@ -126,13 +126,13 @@ footer a:link, footer a:visited {
 	right: 0;
 	}
 .sidebar .wrapper { 
-	font: 10px verdana, sans-serif; 
-	background: transparent url(paper-bg.jpg) top left repeat-y; 
+	font: 10px EB Garamond, serif; 
+	background: transparent url(bordure2.jpg) top left repeat-y; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
 	}
-.sidebar h3.select { 
+.sidebar h3.menu { 
 	background: transparent url(bordure2.png) no-repeat top left; 
 	margin: 10px 0 5px 0; 
 	width: 97px; 
@@ -152,24 +152,14 @@ footer a:link, footer a:visited {
 	white-space: nowrap;
 	overflow: hidden;
 	}
-.sidebar h3.resources { 
-	background: transparent url(bordure2.png) no-repeat top left; 
-	margin: 25px 0 5px 0; 
-	width:63px; 
-	height: 10px; 
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	}
 
 
 .sidebar ul {
-	margin: 0;
+	margin: 0 0 17px 0;
 	padding: 0;
 	}
 .sidebar li {
-	line-height: 1.3em; 
+	line-height: 1.2em; 
 	background: transparent url(bordure2.png) no-repeat top center; 
 	display: block; 
 	padding-top: 5px; 
@@ -177,10 +167,10 @@ footer a:link, footer a:visited {
 	list-style-type: none;
 	}
 .sidebar li a:link {
-	color: #988F5E;
+	color: navy;
 	}
 .sidebar li a:visited {
-	color: #B3AE94;
+	color: red;
 	}
 
 
