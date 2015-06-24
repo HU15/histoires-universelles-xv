@@ -47,6 +47,7 @@ html {
         -webkit-hyphens: auto;
         -moz-hyphens: auto;
         hyphens: auto;
+        text-align: justify;
     }
 
     nav p {
