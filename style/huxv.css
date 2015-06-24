@@ -13,7 +13,7 @@ This stylesheet provides the design for all of the XML namespaces which are used
 html {
     font-family: "EB Garamond", serif;
     font-size: 170%;
-    color: #484848;
+    color: #000000;
     line-height: 130%;
     -moz-font-feature-settings: "liga" 1;
     -ms-font-feature-settings: "liga" 1;
@@ -88,10 +88,11 @@ section {
 }
 
 h1 {
-    font-size: 1.88rem;
+    font-size: 2rem;
     margin-top: 4em;
     margin-bottom: 2em;
     line-height: 120%;
+    color:mediumblue;
 }
 
 h2 {
@@ -99,7 +100,7 @@ h2 {
     margin-bottom: 1em;
     font-size: 1.57rem;
     line-height: 110%;
-    color: #642828;
+    color:darkred;
 }
 
 h3 {
