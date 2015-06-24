@@ -47,7 +47,6 @@ html {
         -webkit-hyphens: auto;
         -moz-hyphens: auto;
         hyphens: auto;
-        text-align:justify;
     }
 
     nav p {
@@ -181,7 +180,7 @@ figcaption {
 }
 
 figcaption p {
-    text-align: left;
+    text-align: justify;
     margin: 0;
 }
 
