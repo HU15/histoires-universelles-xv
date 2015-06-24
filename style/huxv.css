@@ -80,6 +80,8 @@ body {
     background-color:white;
     margin: 0;
 }
+.page-wrapper {width:604px; padding:0; margin:80px auto 80px 80px; border:2px solid #333;
+	 position:relative; background:#f8f8f8;}
 
 section {
     margin: 1em auto;
