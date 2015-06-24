@@ -79,12 +79,6 @@ abbr {
 	}
 	.explanation h3 {background:url(explanation.gif) -9px 0 no-repeat;}
 
-footer { 
-	text-align: center; 
-	}
-footer a:link, footer a:visited { 
-	margin-right: 20px; 
-	}
 
 .sidebar {
 	margin-left: 600px; 
