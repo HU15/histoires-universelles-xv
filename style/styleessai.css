@@ -16,7 +16,7 @@ a:hover, a:active {text-decoration:underline; color:#c00;}
 .page-wrapper {width:604px; padding:0; margin:80px auto 80px 80px; border:2px solid #333;
 	 position:relative; background:#f8f8f8 2px 100% no-repeat;}
 	
-.intro {background:url(Capture d’écran 2015-05-29 à 15.52.15.png) no-repeat;}
+.intro
 	header {margin-bottom:0; height:30px;}
 		header h1, header h2 {margin:17px 0 0 0; padding:0; height:30px;}
 	
