@@ -51,66 +51,36 @@ abbr {
 
 
 /* specific divs */
-.page-wrapper { 
-	background: url(Mare.jpg) no-repeat top left; 
-	padding: 0 175px 0 110px;  
-	margin: 0; 
-	position: relative;
-	}
+.page-wrapper {width:604px; padding:0; margin:80px auto 80px 80px; border:2px solid #333;
+	 position:relative; background:#f8f8f8 url(bordure.gif) 2px 100% no-repeat;}
 
-.intro { 
-	min-width: 470px;
-	width: 100%;
-	}
+.intro {background:url(bordure2.png) no-repeat; width:600px;}
+	header {margin-bottom:0; height:30px;}
+		header h1, header h2 {margin:17px 0 0 0; padding:0; height:30px;}
+		header h1 {background:transparent url(bordure2.png) no-repeat; width:223px; float:left;}
+		header h2 {background:transparent url(bordure2.png) no-repeat; width:377px; float:right;}
+		h1, h2 {
+			text-indent: 100%;
+			white-space: nowrap;
+			overflow: hidden;
+		}			
+	.preamble {padding:210px 0 0 20px; margin:0 188px 0 0; background:url(mainImage.gif) 13px 0 no-repeat; width:392px;}
+		.preamble h3 {background:url(preAmble.gif) -9px 0 no-repeat; height:41px; width:392px; margin:0; padding:0;
+			text-indent: 100%;
+			white-space: nowrap;
+			overflow: hidden;
+		}
 
-header h1 { 
-	background: transparent url(bordure2.png) no-repeat top left;
-	margin-top: 10px;
-	display: block;
-	width: 219px;
-	height: 87px;
-	float: left;
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
+.supporting {margin:0 8px 50px 20px; width:390px;}
+	.supporting h3 {height:41px; width:392px;
+		text-indent: 100%;
+		white-space: nowrap;
+		overflow: hidden;
 	}
-header h2 { 
-	background: transparent url(bordure2.png) no-repeat top left; 
-	margin-top: 58px; 
-	margin-bottom: 40px; 
-	width: 200px; 
-	height: 18px; 
-	float: right;
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	}
-header {
-	padding-top: 20px;
-	height: 87px;
-}
-
-.summary {
-	clear: both; 
-	margin: 20px 20px 20px 10px; 
-	width: 160px; 
-	float: left;
-	}
-.summary p {
-	font: italic 1.1em/2.2 EB Garamond; 
-	text-align: center;
-	}
-
-.preamble {
-	clear: right; 
-	padding: 0px 10px 0 10px;
-	}
-.supporting {	
-	padding-left: 10px; 
-	margin-bottom: 40px;
-	}
+	.explanation h3 {background:url(explanation.gif) -9px 0 no-repeat;}
+	.participation h3 {background:url(participation.gif) -9px 0 no-repeat;}
+	.benefits h3 {background:url(benefits.gif) -9px 0 no-repeat;}
+	.requirements h3 {background:url(requirements.gif) -9px 0 no-repeat;}
 
 footer { 
 	text-align: center; 
@@ -132,26 +102,16 @@ footer a:link, footer a:visited {
 	margin-top: 150px; 
 	width: 130px; 
 	}
-.sidebar h3.menu { 
-	background: transparent url(bordure2.png) no-repeat top left; 
-	margin: 10px 0 5px 0; 
-	width: 97px; 
-	height: 16px; 
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
+.sidebar {width:170px; position:absolute; top:170px; left:422px; background:url(bordure.png) 0 100% no-repeat; padding-bottom:200px; font:7.5pt EB Garamond, serif; padding-left:7px;} 
+	.sidebar h3 {
+		text-indent: 100%;
+		white-space: nowrap;
+		overflow: hidden;
 	}
-.sidebar h3.archives { 
-	background: transparent url(bordure2.png) no-repeat top left; 
-	margin: 25px 0 5px 0; 
-	width:57px; 
-	height: 14px; 
+	.sidebar h3 {width:165px; height:15px; margin:0;}
+	.sidebar h3.menu {background:url(bordure2.png) no-repeat;}
+	.sidebar h3.archives {background:url(bordure2.png) no-repeat;}
 
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	}
 
 
 .sidebar ul {
