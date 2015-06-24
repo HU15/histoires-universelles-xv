@@ -22,6 +22,7 @@ html {
     font-feature-settings: "liga";
 }
 
+
 @media (min-width: 481px) and (max-width: 960px) {
     html {
         font-size: 140%; 
