@@ -78,9 +78,6 @@ abbr {
 		overflow: hidden;
 	}
 	.explanation h3 {background:url(explanation.gif) -9px 0 no-repeat;}
-	.participation h3 {background:url(participation.gif) -9px 0 no-repeat;}
-	.benefits h3 {background:url(benefits.gif) -9px 0 no-repeat;}
-	.requirements h3 {background:url(requirements.gif) -9px 0 no-repeat;}
 
 footer { 
 	text-align: center; 
