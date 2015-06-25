@@ -365,8 +365,8 @@ hr {
 
 	#sidebar
 	{
-		float: right;
-		width: auto;
+		float: auto;
+		width: 30%;
 	}
 	
 	#sidebar .title h2
