@@ -381,6 +381,11 @@ hr {
 /* Copyright                                                                     */
 /*********************************************************************************/
 
+#copyright-wrapper
+{
+	background: blue;
+}
+
 	#copyright
 	{
 		overflow: hidden;
