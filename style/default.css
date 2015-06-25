@@ -210,7 +210,7 @@ hr {
 }
 
 .container {
-	width: 1024px;
+	width: 1010px;
     margin: 0px auto;
 }
 
@@ -355,7 +355,7 @@ hr {
 #content
 {
 	float: left;
-	width: 65%;
+	width: 790px;
 }
 
 /*********************************************************************************/
@@ -365,7 +365,7 @@ hr {
 	#sidebar
 	{
 		float: right;
-		width: 25%;
+		width: 345px;
 	}
 	
 	#sidebar .title h2
