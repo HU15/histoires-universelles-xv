@@ -356,7 +356,7 @@ hr {
 #content
 {
 	float: left;
-	width: 700px;
+	width: auto;
 }
 
 /*********************************************************************************/
@@ -366,7 +366,7 @@ hr {
 	#sidebar
 	{
 		float: right;
-		width: 300px;
+		width: auto;
 	}
 	
 	#sidebar .title h2
