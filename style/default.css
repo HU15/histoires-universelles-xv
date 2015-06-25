@@ -7,7 +7,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background: #16a085;
-	font-family: 'EB Garamond', serif;
+	font-family: 'Georgia', serif;
 	font-size: 11pt;
 	font-weight: 400;
 	color: black;
@@ -229,6 +229,7 @@ hr {
 {
 	overflow: hidden;
     height: 100px;
+    padding: 2em 0em 2em 0em;
 	background: navy;
 }
 
