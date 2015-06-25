@@ -310,6 +310,7 @@ hr {
 	list-style: none;
 	line-height: normal;
 	text-align: center;
+    width:auto
 }
 
 #menu li {
@@ -337,22 +338,6 @@ hr {
 	background: Gray;
 }
 
-#nav {
-    display: table;
-    height: 87px;
-    width: 100%;
-}
-
-#nav li {
-    display: table-cell;
-    height: 87px;
-    width: 16.666666667%;  /* (100 / numItems)% */
-    line-height: 87px;
-    text-align: center;
-    background: #ddd;
-    border-right: 1px solid #fff;
-    white-space: nowrap;
-}
 
 /** PAGE */
 
