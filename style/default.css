@@ -24,6 +24,7 @@ p, ol, ul {
 
 p {
 	line-height: 190%;
+    text-align: justify
 }
 
 strong {
