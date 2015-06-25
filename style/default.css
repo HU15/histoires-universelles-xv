@@ -228,7 +228,7 @@ hr {
 	background: url(images/bg01.png) repeat;
 	background-size: 100%;
 	padding: 6em 0em 2em 0em;
-	background: gold;
+	background: navy;
 }
 
 
@@ -295,7 +295,7 @@ hr {
 
 #menu-wrapper
 {
-	background: navy;
+	background: darkred;
 }
 
 #menu {
