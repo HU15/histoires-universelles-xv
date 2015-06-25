@@ -228,7 +228,7 @@ hr {
 #header-wrapper
 {
 	overflow: hidden;
-    height: 150px;
+    height: 100px;
 	background: navy;
 }
 
@@ -242,7 +242,7 @@ hr {
 		position: relative;
 		overflow: hidden;
 		text-align: center;
-        height:150px
+        height:100px
 	}
 
 /*********************************************************************************/
