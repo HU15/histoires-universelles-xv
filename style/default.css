@@ -226,9 +226,10 @@ hr {
 #header-wrapper
 {
 	overflow: hidden;
+    height: 300px
 	background: url(images/bg01.png) repeat;
 	background-size: 100%;
-	padding: 2em 0em 2em 0em;
+	padding: 6em 0em 2em 0em;
 	background: navy;
 }
 
@@ -242,7 +243,6 @@ hr {
 		position: relative;
 		overflow: hidden;
 		text-align: center;
-        height: 300px
 	}
 
 /*********************************************************************************/
@@ -251,7 +251,7 @@ hr {
 
 	#logo 
 	{
-		width: 300px;
+		width: 500px;
 		height: 100px;
 		margin: 0 auto;
 		padding: 2em 0em;
