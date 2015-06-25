@@ -6,10 +6,10 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background: #16a085;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'EB Garamond', serif;
 	font-size: 11pt;
 	font-weight: 400;
-	color: #363636;
+	color: black;
 }
 
 
@@ -179,14 +179,13 @@ hr {
 	.title
 	{
 		margin-bottom: 2em;
-		text-transform: uppercase;
 	}
 
 	.title h2
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: #16a085;
+		color: darkred;
 	}
 	
 	.title .byline
@@ -195,7 +194,7 @@ hr {
 		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 0.90em;
-		color: #6F6F6F;
+		color: navy;
 	}
 
 /** WRAPPER */
@@ -206,7 +205,7 @@ hr {
 
 #footer-wrapper
 {
-	background: #0F0F0F;
+	background: black;
 }
 
 .container {
@@ -229,7 +228,7 @@ hr {
 	background: url(images/bg01.png) repeat;
 	background-size: 100%;
 	padding: 6em 0em 2em 0em;
-	background: #333333;
+	background: gold;
 }
 
 
@@ -296,7 +295,7 @@ hr {
 
 #menu-wrapper
 {
-	background: #16a085;
+	background: navy;
 }
 
 #menu {
