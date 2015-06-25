@@ -385,7 +385,8 @@ hr {
 
 #copyright-wrapper
 {
-	background: blue;
+	background: white;
+    width:100%
 }
 
 	#copyright
@@ -535,6 +536,7 @@ hr {
 		overflow: hidden;
 		padding: 5em 0em;
 		background: #1E1B1A;
+        width:100%
 	}
 
 	#footer
