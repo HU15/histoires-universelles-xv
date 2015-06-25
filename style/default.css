@@ -355,7 +355,7 @@ hr {
 #content
 {
 	float: left;
-	width: 69%;
+	width: 65%;
 }
 
 /*********************************************************************************/
@@ -365,7 +365,7 @@ hr {
 	#sidebar
 	{
 		float: right;
-		width: 30%;
+		width: 25%;
 	}
 	
 	#sidebar .title h2
