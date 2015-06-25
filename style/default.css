@@ -185,7 +185,7 @@ hr {
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: darkred;
+		color: navy;
 	}
 	
 	.title .byline
@@ -194,7 +194,7 @@ hr {
 		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 0.90em;
-		color: navy;
+		color: darkred;
 	}
 
 /** WRAPPER */
@@ -333,7 +333,7 @@ hr {
 }
 
 #menu .current_page_item a {
-	background: #1abc9c;
+	background: darkblue;
 }
 
 /** PAGE */
