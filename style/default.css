@@ -311,8 +311,8 @@ hr {
 	padding: 0px 0px 0px 0px;
 	list-style: none;
 	line-height: normal;
-	text-align: center;
-    width:auto
+	text-align: left;
+    width:100%
 }
 
 #menu li {
