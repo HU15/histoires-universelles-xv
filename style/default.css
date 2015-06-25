@@ -430,7 +430,6 @@ hr {
 	#welcome h2
 	{
 		letter-spacing: 0.20em;
-		text-transform: uppercase;
 		font-size: 2.6em;
 	}
 	
@@ -444,7 +443,6 @@ hr {
 		display: block;
 		padding: 0em 0em 1.5em 0em;
 		letter-spacing: 0.15em;
-		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 1.2em;
 		color: #6F6F6F;
