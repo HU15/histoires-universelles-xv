@@ -210,7 +210,8 @@ hr {
 }
 
 .container {
-	margin: 0px auto;
+	width: 1200px;
+    margin: 0px auto;
 }
 
 .clearfix {
