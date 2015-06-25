@@ -299,6 +299,8 @@ hr {
 #menu-wrapper
 {
 	background: black;
+    position: absolute;
+    width: 100%;
 }
 
 #menu {
