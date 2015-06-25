@@ -285,6 +285,7 @@ hr {
 		overflow: hidden;
 		height: 500px;
 		background: url(Capture.jpg) no-repeat center;
+        	background-attachment: fixed;
 		background-size: cover;
 	}
 	
