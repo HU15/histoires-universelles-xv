@@ -5,16 +5,11 @@ html, body {
 body {
 	margin: 0px;
 	padding: 0px;
-	background: white ;
-	font-family: 'EB Garamond', serif;
+	background: #16a085;
+	font-family: 'Raleway', sans-serif;
 	font-size: 11pt;
 	font-weight: 400;
-     -moz-font-feature-settings: "liga" 1;
-    -ms-font-feature-settings: "liga" 1;
-    -webkit-font-feature-settings: "liga";
-    -o-font-feature-settings: "liga";
-    font-feature-settings: "liga";
-	color: black;
+	color: #363636;
 }
 
 
@@ -162,12 +157,12 @@ hr {
 	ul.contact li a:before
 	{
 		display: inline-block;
-		background: yellow;
+		background: #3f3f3f;
 		width: 40px;
 		height: 40px;
 		line-height: 40px;
 		text-align: center;
-		color: black;
+		color: #FFFFFF;
 	}
 	
 	ul.contact li a.icon-twitter:before { background: #2DAAE4; }
@@ -191,7 +186,7 @@ hr {
 	{
 		font-weight: 400;
 		font-size: 2em;
-		color: darkred;
+		color: #16a085;
 	}
 	
 	.title .byline
@@ -200,7 +195,7 @@ hr {
 		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 0.90em;
-		color: navy;
+		color: #6F6F6F;
 	}
 
 /** WRAPPER */
@@ -288,7 +283,7 @@ hr {
 	{
 		overflow: hidden;
 		height: 500px;
-		background: url(Capture.jpg) no-repeat center;
+		background: url(images/pic01.jpg) no-repeat center;
 		background-size: cover;
 	}
 	
