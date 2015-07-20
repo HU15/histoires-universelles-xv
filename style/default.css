@@ -227,10 +227,10 @@ hr {
 
 #header-wrapper
 {
-	overflow: hidden;
-    height: 100px;
+    overflow: hidden;
+    height: 128px;
     padding: 2em 0em 2em 0em;
-	background: navy;
+    background: navy;
 }
 
 
@@ -238,13 +238,13 @@ hr {
 /* Header                                                                        */
 /*********************************************************************************/
 
-	#header 
-	{
-		position: relative;
-		overflow: hidden;
-		text-align: center;
-        height: 100px;
-	}
+#header 
+{
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    height: 128px;
+}
 
 /*********************************************************************************/
 /* Logo                                                                          */
