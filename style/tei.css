@@ -1,0 +1,87 @@
+/* @namespace tei "http://www.tei-c.org/ns/1.0"; */
+
+tei {
+    display: block;
+    margin: 1em auto;
+    width: 32em;
+    max-width: 90%;
+}
+
+title {
+    display: block;
+    margin: 1em auto;
+    padding: 1em;
+    font-size: 2em;
+}
+
+rubric {
+    display: block;
+    color: brown;
+}
+
+hi {
+    display: block;
+    font-size: 1.5em;
+    color: brown;
+}
+
+figure::before {
+    display: block;
+    content: '·Figure·';
+    font-family: serif;
+}
+
+figDesc {
+    display: block;
+    font-family: serif;
+}
+
+num {
+    display: inline;
+}
+
+note {
+    display: none;
+}
+
+pb::before {
+    display: block;
+    margin-top: 0.5em;
+    border-top: 0.1pt solid gray;
+    padding-top: 0.5em;
+    content: attr(n);
+    font-family: 'TeX Gyre Chorus',
+                 'Zapf Chancery',
+                 'Lucida Calligraphy',
+                 'Apple Chancery',
+                  cursive;
+    color: gray;
+}
+
+cb::before {
+    display: block;
+    max-width: 6em;
+    margin-top: 0.5em;
+    border-top: 0.1pt solid gray;
+    padding-top: 0.5em;
+    content: attr(n);
+    font-family: 'TeX Gyre Chorus',
+                 'Zapf Chancery',
+                 'Lucida Calligraphy',
+                 'Apple Chancery',
+                  cursive;
+    color: gray;
+}
+
+lb::before {
+    display: block;
+    content: '·';
+}
+
+expan {
+    display: inline;
+}
+
+ex {
+    display: inline;
+}
