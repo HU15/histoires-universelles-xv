@@ -3,8 +3,8 @@
 tei {
     display: block;
     margin: 1em auto;
-    width: 32em;
-    max-width: 90%;
+    max-width: 32em;
+	white-space: pre-wrap;
 }
 
 title {
@@ -28,12 +28,10 @@ hi {
 figure::before {
     display: block;
     content: '·Figure·';
-    font-family: serif;
 }
 
 figDesc {
     display: block;
-    font-family: serif;
 }
 
 num {
@@ -45,9 +43,8 @@ note {
 }
 
 pb::before {
-    display: block;
+    display: inline-block;
     margin-top: 0.5em;
-    border-top: 0.1pt solid gray;
     padding-top: 0.5em;
     content: attr(n);
     font-family: 'TeX Gyre Chorus',
@@ -59,10 +56,9 @@ pb::before {
 }
 
 cb::before {
-    display: block;
+    display: inline-block;
     max-width: 6em;
     margin-top: 0.5em;
-    border-top: 0.1pt solid gray;
     padding-top: 0.5em;
     content: attr(n);
     font-family: 'TeX Gyre Chorus',
