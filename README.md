@@ -1,6 +1,6 @@
 # Culture historique et lectures de l’Antiquité dans les Histoires universelles en français au XV<sup>e</sup> siècle
 
-![BnF fr 20124 fol. 154](./img/bnf-fr-20124-fol-154.png)
+[Site Web du projet](http://hu15.github.io/histoires-universelles-xv/index.xhtml)
 
 ## Présentation du projet
 
