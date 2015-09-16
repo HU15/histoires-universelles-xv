@@ -81,3 +81,7 @@ expan {
 ex {
     display: inline;
 }
+
+note {
+    display: none;
+}

@@ -2,18 +2,19 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
-<title>Histoires universelles en français au XVe siècle: Miroir du Monde</title>
+<title>Histoires universelles en français au XVe siècle: [Partie spécifique]</title>
 <meta charset="utf-8" />
 <meta name="description" content="Histoires universelles en français au XVe siècle" />
-<link href="../style/default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="../style/fonts.css" rel="stylesheet" type="text/css" media="all" />    
+<link href="../../style/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../../style/fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../../style/tei.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
 <div id="wrapper">
 	<div id="menu-wrapper">
 		<div id="menu" class="container">
 			<ul>
-				<li class="current_page_item"><a href="../index.xhtml">Accueil</a></li>
+				<li class="current_page_item"><a href="../../index.xhtml">Accueil</a></li>
 				<li><a href="#">Textes</a></li>
 				<li><a href="#">Manuscrits</a></li>
 				<li><a href="#">Rubriques</a></li>
@@ -33,25 +34,18 @@
 	<div id="page" class="container">
 		<div id="content">
 			<div class="title">
-				<h2>Miroir du Monde</h2>
-
+				<h2>[Titre spécifique pour le document actuel]</h2>
 			</div>
 <!-- Début: section écrite à la main -->
-<h3>Présentation du texte</h3>
-<h3>Manuscrits</h3>
-<h3>Table des rubriques</h3>
-<p><a href="./bnf-fr-328/rubriques-bnf-fr-328.xhtml">BnF fr 328</a></p>
-<h3>Table des enluminures</h3>
-<h3>Bibliographie</h3>
-<h3>Transcription diplomatique</h3>
-<p><a href="bnf-fr-684/trans-bnf-fr-684.xhtml">BnF fr 684</a></p>
-<h3>Transcription ponctuée</h3>
+<tei xmlns="http://www.tei-c.org/ns/1.0/">
+
+</tei>
+            <p>[Auteur de la présente fiche ou transcription]</p>
 <!-- Fin: section écrite à la main -->
 		</div>
 	</div>
-</div> 
-    
- <div id="footer-wrapper">
+</div>
+<div id="footer-wrapper">
 	<div id="footer" class="container">
 		<div id="box1">
 			<div class="title">
@@ -76,14 +70,15 @@
 				<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
 				<li><a href="#" class="icon icon-facebook"><span>Facebook</span></a></li>
 			</ul>
-				<a href="#" class="button">Pour en savoir plus</a> </div>
-		</div>
-	</div>
-     <div id="copyright-wrapper">
+				<a href="#" class="button">Pour en savoir plus</a>
+        </div>
+    </div>
+</div>
+<div id="copyright-wrapper">
 <div id="copyright" class="container">
 	<p>Ce projet est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons Attribution, Partage dans les mêmes conditions 4.0</a>.</p>
     <p>Photo: détail, <a href="http://fotogrph.com/">BnF, fr. 328, fol. 32r</a> | Design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
 </div>   
 </div>   
 </body>
-</html>   
+</html>
