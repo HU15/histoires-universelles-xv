@@ -1,0 +1,53 @@
+list {
+    display: block;
+    margin: 1em auto;
+    max-width: 32em;
+	white-space: pre-wrap;
+}
+
+item {
+    display: block;
+}
+
+msDesc{
+    display: block;
+}
+
+msIdenfifier{
+    display: block;
+}
+settlement{
+    display: block;
+}
+
+repository{
+    display: block;
+}
+
+collection{
+    display: block;
+}
+
+idno{
+    display: block;
+}
+
+altIdentifier{
+    display: block;
+}
+
+bibl{
+    display: block;
+}
+
+publisher{
+    display: block;
+}
+
+pubPlace{
+    display: block;
+}
+
+date{
+    display: block;
+}
