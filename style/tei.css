@@ -15,7 +15,7 @@ title {
 }
 
 rubric {
-    display: inline;
+    display: inline-block;
     color: brown;
 }
 
