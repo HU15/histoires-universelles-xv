@@ -20,7 +20,7 @@ rubric {
 }
 
 hi {
-    display: block;
+    display: inline;
     font-size: 1.5em;
     color: brown;
 }
