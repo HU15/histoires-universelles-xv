@@ -8,7 +8,18 @@ Ce templet de page Web peut être copié et utilisé pour toute page du site
 contenant du TEI ou une fiche convertie à partir d’un document Markdown.
 
 Vous devez mettre votre contenu balisé entre les commentaires
-«Début: contenu effectif» et «Fin: contenu effectif».
+«Début: contenu effectif» et «Fin: contenu effectif». Entre ces deux
+commentaires, le templet contient des balises de document TEI:
+  <tei>
+  ...
+  </tei>
+Ce n’est qu’à titre indicatif. Si votre contenu est effectivement du
+TEI sans HTML, ces balises doivent être présentes à cet endroit,
+mais si vous avez plutôt du HTML (contenant possiblement des fragments
+TEI imbriqués), il faut retirer ces deux balises TEI et copier votre
+contenu tel que vous l’avez balisé. Si votre HTML contient des fragments
+TEI, donnez à chacun de ces fragments imbriqués leurs propres balises
+<tei>...</tei>.
 
 Prière de retirer le présent commentaire quand vous copiez le templet
 pour l’utiliser dans une nouvelle page. Pour «spécialiser» la page,
