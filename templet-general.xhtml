@@ -13,7 +13,9 @@ Vous devez mettre votre contenu balisé entre les commentaires
 Prière de retirer le présent commentaire quand vous copiez le templet
 pour l’utiliser dans une nouvelle page. Pour «spécialiser» la page,
 il faut aussi spécifier [le contenu entre crochets] aux différents
-endroits (titre, auteur etc.) et changer les cibles des liens du menu.
+endroits (titre, auteur etc.) et changer les cibles des liens du menu
+et, dans la liste du menu, déplacer l’attribut de classe `current-page-item`
+sur la rubrique principale dans laquelle on se trouve.
 -->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
@@ -21,20 +23,20 @@ endroits (titre, auteur etc.) et changer les cibles des liens du menu.
 <title>Histoires universelles en français au XVe siècle: [Partie spécifique]</title>
 <meta charset="utf-8" />
 <meta name="description" content="Histoires universelles en français au XVe siècle" />
-<link href="../../style/default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="../../style/fonts.css" rel="stylesheet" type="text/css" media="all" />
-<link href="../../style/tei.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./style/fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
 <div id="wrapper">
 	<div id="menu-wrapper">
 		<div id="menu" class="container">
 			<ul>
-				<li class="current_page_item"><a href="../../index.xhtml">Accueil</a></li>
-				<li><a href="#">Textes</a></li>
-				<li><a href="#">Manuscrits</a></li>
-				<li><a href="#">Rubriques</a></li>
-                <li><a href="#">Table des illustrations</a></li>
+				<li class="current_page_item"><a href="./index.xhtml">Accueil</a></li>
+				<li><a href="./Textes.xhtml">Textes</a></li>
+				<li><a href="./manuscrits.xhtml">Manuscrits</a></li>
+				<li><a href="./rubriques.xhtml">Rubriques</a></li>
+                <li><a href="./illustrations.xhtml">Table des illustrations</a></li>
 			</ul>
 		</div>
 		<!-- end #menu --> 
