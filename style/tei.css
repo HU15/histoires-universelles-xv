@@ -2,7 +2,7 @@
 
 tei {
     display: block;
-    margin: 1em;
+    margin: 0.5em;
     max-width: 32em;
 	white-space: pre-wrap;
 }
@@ -90,45 +90,112 @@ note {
 
 /* Règles concernant la description des corpus */
 
-msDesc{
+msDesc {
     display: block;
 }
 
-msIdenfifier{
-    display: block;
+msDesc::before {
+    display: inline-block;
+    content: '· Description: ';
+    color: gray;
 }
-settlement{
+
+msIdenfifier {
     display: block;
 }
 
-repository{
+msIdentifier::before {
+    display: inline-block;
+    content: '· Identifiant: ';
+    color: gray;
+}
+
+settlement {
     display: block;
 }
 
-collection{
+settlement::before {
+    display: inline-block;
+    content: '· Localité: ';
+    color: gray;
+}
+
+repository {
     display: block;
 }
 
-idno{
+repository::before {
+    display: inline-block;
+    content: '· Dépôt: ';
+    color: gray;
+}
+
+collection {
     display: block;
 }
 
-altIdentifier{
+collection::before {
+    display: inline-block;
+    content: '· Collection: ';
+    color: gray;
+}
+
+idno {
     display: block;
 }
 
-bibl{
+idno::before {
+    display: inline-block;
+    content: '· No. Id.';
+    color: gray;
+}
+
+altIdentifier {
     display: block;
 }
 
-publisher{
+altIdentifier::before {
+    display: inline-block;
+    content: '· Identifiant alternatif: ';
+    color: gray;
+}
+
+bibl {
     display: block;
 }
 
-pubPlace{
+bibl::before {
+    display: inline-block;
+    content: '· Bibliothèque: ';
+    color: gray;
+}
+
+publisher {
     display: block;
 }
 
-date{
+publisher::before {
+    display: inline-block;
+    content: '· Éditeur: ';
+    color: gray;
+}
+
+pubPlace {
     display: block;
+}
+
+pubPlace::before {
+    display: inline-block;
+    content: '· Lieu de publication: ';
+    color: gray;
+}
+
+date {
+    display: block;
+}
+
+date::before {
+    display: inline-block;
+    content: '· Date: ';
+    color: gray;
 }
