@@ -14,6 +14,8 @@ title {
     font-size: 2em;
 }
 
+/* Règles concernant les transcriptions des manuscrits */
+
 rubric {
     display: inline;
     color: brown;
@@ -84,4 +86,49 @@ ex {
 
 note {
     display: none;
+}
+
+/* Règles concernant la description des corpus */
+
+msDesc{
+    display: block;
+}
+
+msIdenfifier{
+    display: block;
+}
+settlement{
+    display: block;
+}
+
+repository{
+    display: block;
+}
+
+collection{
+    display: block;
+}
+
+idno{
+    display: block;
+}
+
+altIdentifier{
+    display: block;
+}
+
+bibl{
+    display: block;
+}
+
+publisher{
+    display: block;
+}
+
+pubPlace{
+    display: block;
+}
+
+date{
+    display: block;
 }
