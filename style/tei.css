@@ -146,7 +146,7 @@ idno {
 
 idno::before {
     display: inline-block;
-    content: '· No. Id.';
+    content: '· Numéro identifiant: ';
     color: gray;
 }
 
