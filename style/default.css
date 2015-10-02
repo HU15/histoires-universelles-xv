@@ -25,7 +25,36 @@ h3 {
 	padding-right: 0;
 	padding-top: 0.25em;
 	padding-bottom: 0.25em;
+	color: brown;
 }
+
+	h3::before {
+		display: inline-block;
+		content: "### ";
+		color: gray;
+	}
+
+	h3::after {
+		display: inline-block;
+		content: " ###";
+		color: gray;
+	}
+
+h4 {
+	color: brown;
+}
+
+	h4::before {
+		display: inline-block;
+		content: "#### ";
+		color: gray;
+	}
+
+	h4::after {
+		display: inline-block;
+		content: " ####";
+		color: gray;
+	}
 
 ol, ul {
     margin: 0;
