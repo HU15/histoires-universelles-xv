@@ -2,7 +2,7 @@
 
 tei {
     display: block;
-    margin: 1em auto;
+    margin: 1em;
     max-width: 32em;
 	white-space: pre-wrap;
 }
