@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>Histoires universelles en français au XVe siècle: présentation</title>
+<meta charset="utf-8" />
+<meta name="description" content="Histoires universelles en français au XVe siècle: présentation" />
+<link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />   
+<link href="./style/fonts.css" rel="stylesheet" type="text/css" media="all" />    
+</head>
+<body>
+<div id="wrapper">
+	<div id="menu-wrapper">
+		<div id="menu" class="container">
+			<ul>
+				<li class="current_page_item"><a href="#">Accueil</a></li>
+				<li><a href="#">Textes</a></li>
+				<li><a href="#">Manuscrits</a></li>
+				<li><a href="#">Rubriques</a></li>
+                <li><a href="#">Table des illustrations</a></li>
+			</ul>
+		</div>
+		<!-- end #menu --> 
+	<div id="header-wrapper">
+		<div id="header" class="container">
+			<div id="logo">
+				<h1><a href="#">H(istoires) U(niverselles) 15</a></h1>
+			</div>
+		</div>
+	</div>
+	</div>    
+    
+	<div id="banner"></div>
+	<div id="page" class="container">
+		<div id="content">
+			<div class="title">
+				<h2>Histoires universelles en français au XV<sup>e</sup> siècle</h2>
+				<span class="byline">Description du projet</span> </div>
+			<p>Le site "HU15", lancé en 2015, est dédié à l'étude des histoires universelles composées en français au XVe siècle et à leurs manuscrits. Il a comme visée concrète de fournir des descriptions et des transcriptions de textes inédits mais ayant connu un important succès, ainsi que des descriptions des manuscrits les contenant. En l'absence d'édition critique, d'études de leur tradition textuelle et à cause du nombre de leurs témoins manuscrits, les histoires universelles constituent un corpus complexe à utiliser et à parcourir. Ce site est pensé comme un vaste paratexte permettant une exploration plus rapide et aisée des textes étudiés.</p>
+<p>Ce projet est rendu possible par une subvention du Conseil de la Recherche en Sciences Humaines du Canada (CRSH), dans le cadre du concours <em>Subvention de développement Savoir</em>.</p>
+		</div>
+		<div id="sidebar">
+			<div class="box2">
+				<div class="title">
+					<h2>Corpus</h2>
+				</div>
+				<ul class="style2">
+					<li><a href="#">Les textes sur les Neuf Preux</a></li>
+					<li><a href="./miroir-du-monde/mdm-pres.xhtml"><em> Le Livre des histoires du miroer du monde</em></a></li>
+					<li><a href="#"><em>La Bouquechardière</em></a></li>
+					<li><a href="#"><em>La Fleur des histoires</em></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div> 
+    
+ <div id="footer-wrapper">
+	<div id="footer" class="container">
+		<div id="box1">
+			<div class="title">
+				<h2>Nouveaux articles</h2>
+			</div>
+			<ul class="style1">
+			</ul>
+		</div>
+		<div id="box2">
+			<div class="title">
+				<h2>Équipe</h2>
+			</div>
+			<ul class="style1">
+			</ul>
+		</div>
+		<div id="box3">
+			<div class="title">
+				<h2>À propos du projet</h2>
+			</div>
+			<p></p>
+			<ul class="contact">
+				<li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
+				<li><a href="#" class="icon icon-facebook"><span>Facebook</span></a></li>
+			</ul>
+				<a href="#" class="button">Pour en savoir plus</a> </div>
+		</div>
+	</div>
+     <div id="copyright-wrapper">
+<div id="copyright" class="container">
+	<p>Ce projet est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons Attribution, Partage dans les mêmes conditions 4.0</a>.</p>
+    <p>Photo: détail, <a href="http://fotogrph.com/">BnF, fr. 328, fol. 32r</a> | Design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+</div>   
+</div>   
+</body>
+</html>   
