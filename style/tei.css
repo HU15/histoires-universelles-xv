@@ -10,13 +10,6 @@ tei[rend="transcript"] {
 	white-space: pre-wrap;
 }
 
-title {
-    display: block;
-    margin: 1em auto;
-    padding: 1em;
-    font-size: 2em;
-}
-
 head {
     display: block;
     padding: 0.5em;
