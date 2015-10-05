@@ -3,7 +3,10 @@
 tei {
     display: block;
     margin: 0.5em;
-    max-width: 32em;
+    max-width: 40em;
+}
+
+tei[rend="transcript"] {
 	white-space: pre-wrap;
 }
 
@@ -12,6 +15,20 @@ title {
     margin: 1em auto;
     padding: 1em;
     font-size: 2em;
+}
+
+head {
+    display: block;
+    padding: 0.5em;
+    font-size: 1.5em;
+}
+
+list {
+    display: block;
+}
+
+item {
+    display: list-item;
 }
 
 /* Règles concernant les transcriptions des manuscrits */
@@ -27,10 +44,10 @@ hi {
     color: brown;
 }
 
-figure::before {
-    display: block;
-    content: '·Figure·';
-}
+    figure::before {
+        display: block;
+        content: '·Figure·';
+    }
 
 figDesc {
     display: block;
@@ -44,37 +61,37 @@ note {
     display: none;
 }
 
-pb::before {
-    display: inline-block;
-    margin-top: 0.5em;
-    padding-top: 0.5em;
-    content: attr(n);
-    font-family: 'TeX Gyre Chorus',
-                 'Zapf Chancery',
-                 'Lucida Calligraphy',
-                 'Apple Chancery',
-                  cursive;
-    color: gray;
-}
-
-cb::before {
-    display: inline-block;
-    max-width: 6em;
-    margin-top: 0.5em;
-    padding-top: 0.5em;
-    content: attr(n);
-    font-family: 'TeX Gyre Chorus',
-                 'Zapf Chancery',
-                 'Lucida Calligraphy',
-                 'Apple Chancery',
-                  cursive;
-    color: gray;
-}
-
-lb::before {
-    display: block;
-    content: '·';
-}
+    pb::before {
+        display: inline-block;
+        margin-top: 0.5em;
+        padding-top: 0.5em;
+        content: attr(n);
+        font-family: 'TeX Gyre Chorus',
+                    'Zapf Chancery',
+                    'Lucida Calligraphy',
+                    'Apple Chancery',
+                    cursive;
+        color: gray;
+    }
+    
+    cb::before {
+        display: inline-block;
+        max-width: 6em;
+        margin-top: 0.5em;
+        padding-top: 0.5em;
+        content: attr(n);
+        font-family: 'TeX Gyre Chorus',
+                    'Zapf Chancery',
+                    'Lucida Calligraphy',
+                    'Apple Chancery',
+                    cursive;
+        color: gray;
+    }
+    
+    lb::before {
+        display: block;
+        content: '·';
+    }
 
 expan {
     display: inline;
@@ -84,8 +101,8 @@ ex {
     display: inline;
 }
 
-note {
-    display: none;
+g {
+    display: inline;
 }
 
 /* Règles concernant la description des corpus */
@@ -94,108 +111,102 @@ msDesc {
     display: block;
 }
 
-msDesc::before {
-    display: inline-block;
-    content: '· Description: ';
-    color: gray;
-}
-
 msIdenfifier {
     display: block;
 }
 
-msIdentifier::before {
-    display: inline-block;
-    content: '· Identifiant: ';
-    color: gray;
-}
+    msIdentifier::before {
+        display: inline-block;
+        content: '· Identification: ';
+        color: gray;
+    }
 
 settlement {
     display: block;
 }
 
-settlement::before {
-    display: inline-block;
-    content: '· Localité: ';
-    color: gray;
-}
+    settlement::before {
+        display: inline-block;
+        content: '· Localité: ';
+        color: gray;
+    }
 
 repository {
     display: block;
 }
 
-repository::before {
-    display: inline-block;
-    content: '· Dépôt: ';
-    color: gray;
-}
+    repository::before {
+        display: inline-block;
+        content: '· Dépôt: ';
+        color: gray;
+    }
 
 collection {
     display: block;
 }
 
-collection::before {
-    display: inline-block;
-    content: '· Collection: ';
-    color: gray;
-}
+    collection::before {
+        display: inline-block;
+        content: '· Collection: ';
+        color: gray;
+    }
 
 idno {
     display: block;
 }
 
-idno::before {
-    display: inline-block;
-    content: '· Numéro identifiant: ';
-    color: gray;
-}
+    idno::before {
+        display: inline-block;
+        content: '· Numéro identifiant: ';
+        color: gray;
+    }
 
 altIdentifier {
     display: block;
 }
 
-altIdentifier::before {
-    display: inline-block;
-    content: '· Identifiant alternatif: ';
-    color: gray;
-}
+    altIdentifier::before {
+        display: inline-block;
+        content: '· Identifiant alternatif: ';
+        color: gray;
+    }
 
 bibl {
     display: block;
 }
 
-bibl::before {
-    display: inline-block;
-    content: '· Bibliothèque: ';
-    color: gray;
-}
+    bibl::before {
+        display: inline-block;
+        content: '· Bibliothèque: ';
+        color: gray;
+    }
 
 publisher {
     display: block;
 }
 
-publisher::before {
-    display: inline-block;
-    content: '· Éditeur: ';
-    color: gray;
-}
+    publisher::before {
+        display: inline-block;
+        content: '· Éditeur: ';
+        color: gray;
+    }
 
 pubPlace {
     display: block;
 }
 
-pubPlace::before {
-    display: inline-block;
-    content: '· Lieu de publication: ';
-    color: gray;
-}
+    pubPlace::before {
+        display: inline-block;
+        content: '· Lieu de publication: ';
+        color: gray;
+    }
 
 date {
     display: block;
 }
 
-date::before {
-    display: inline-block;
-    content: '· Date: ';
-    color: gray;
-}
+    date::before {
+        display: inline-block;
+        content: '· Date: ';
+        color: gray;
+    }

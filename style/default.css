@@ -30,30 +30,34 @@ h3 {
 
 	h3::before {
 		display: inline-block;
-		content: "### ";
+		content: "⋮";
 		color: gray;
+		padding-right: 0.5em;
 	}
 
 	h3::after {
 		display: inline-block;
-		content: " ###";
+		content: "⋮";
 		color: gray;
+		padding-left: 0.5em;
 	}
 
 h4 {
-	color: brown;
+	color: black;
 }
 
 	h4::before {
 		display: inline-block;
-		content: "#### ";
+		content: "·⋮";
 		color: gray;
+		padding-right: 0.5em;
 	}
 
 	h4::after {
 		display: inline-block;
-		content: " ####";
+		content: "⋮·";
 		color: gray;
+		padding-left: 0.5em;
 	}
 
 ol, ul {

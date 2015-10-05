@@ -19,14 +19,16 @@ mais si vous avez plutôt du HTML (contenant possiblement des fragments
 TEI imbriqués), il faut retirer ces deux balises TEI et copier votre
 contenu tel que vous l’avez balisé. Si votre HTML contient des fragments
 TEI, donnez à chacun de ces fragments imbriqués leurs propres balises
-<tei>...</tei>.
+<tei>...</tei>. Selon le module du contenu TEI, appliquez à l’élément
+`tei` l’attribut `rend="descript"` ou `rend="transcript"`. Cette
+dernière valeur convient aux transcriptions, car les transcriptions
+ne contiennent pas d’éléments `p` pour séparer les paragraphes, donc
+on applique une propriété spéciale pour traiter les sauts de ligne.
 
 Prière de retirer le présent commentaire quand vous copiez le templet
 pour l’utiliser dans une nouvelle page. Pour «spécialiser» la page,
 il faut aussi spécifier [le contenu entre crochets] aux différents
-endroits (titre, auteur etc.) et changer les cibles des liens du menu
-et, dans la liste du menu, déplacer l’attribut de classe `current-page-item`
-sur la rubrique principale dans laquelle on se trouve.
+endroits (titre, auteur etc.).
 -->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
@@ -34,6 +36,7 @@ sur la rubrique principale dans laquelle on se trouve.
 <title>Histoires universelles en français au XVe siècle: [Partie spécifique]</title>
 <meta charset="utf-8" />
 <meta name="description" content="Histoires universelles en français au XVe siècle" />
+<base href="http://hu15.github.io/histoires-universelles-xv/" />
 <link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="./style/fonts.css" rel="stylesheet" type="text/css" media="all" />
 <link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
@@ -66,7 +69,7 @@ sur la rubrique principale dans laquelle on se trouve.
 				<h2>[Titre spécifique pour le document actuel]</h2>
 			</div>
 <!-- Début: contenu effectif -->
-<tei xmlns="http://www.tei-c.org/ns/1.0/">
+<tei xmlns="http://www.tei-c.org/ns/1.0/" rend="descript">
 
 </tei>
             <p>[Auteur de la présente fiche ou transcription]</p>
@@ -119,7 +122,7 @@ sur la rubrique principale dans laquelle on se trouve.
 <div id="copyright-wrapper">
 <div id="copyright" class="container">
 	<p>Ce projet est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons Attribution, Partage dans les mêmes conditions 4.0</a>.</p>
-    <p>Photo: détail, <a href="http://fotogrph.com/">BnF, fr. 328, fol. 32r</a> | Design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+    <p>Photo: détail, <a href="#">BnF, fr. 328, fol. 32r</a> | Base du design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
 </div>   
 </div>   
 </body>
