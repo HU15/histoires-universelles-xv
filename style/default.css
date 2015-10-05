@@ -65,12 +65,12 @@ ol, ul {
 }
 
 p {
-	margin: 0%;
+	margin: 0;
     line-height: 125%;
     text-align: justify;
     padding: 0.25em;
 	text-indent: 1em;
-	max-width: 32em;
+	max-width: 40em;
 }
 
 a {
@@ -249,7 +249,7 @@ a img {
 
 .container {
 	width: auto;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 .clearfix {
@@ -424,6 +424,8 @@ a img {
 
 	#copyright
 	{
+		width: 50%;
+		margin: 0 auto;
 		overflow: hidden;
 		padding-top: 10em;
 		padding-bottom: 5em;
@@ -435,7 +437,6 @@ a img {
 	#copyright p
 	{
 		letter-spacing: 0.20em;
-		text-align: center;
 		text-transform: uppercase;
 		font-size: 0.80em;
 		color: black;
