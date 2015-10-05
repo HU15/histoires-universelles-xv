@@ -1,6 +1,6 @@
 Chantilly, Bibliothèque du Château (Musée Condé), 0723 (0715)
 
-# Signalisation
+### Signalisation
 
 Titre du manuscrit tel que répertorié dans Jonas : «Miroir des histoires du monde»
 
@@ -34,7 +34,7 @@ Peut correspondre à Briquet 1468 («armoiries à la fasce chargée de 3 coquill
 * * *
 
 
-# Description codicologique 
+### Description codicologique 
 
 Dimensions du manuscrit :      
 
@@ -90,7 +90,7 @@ Manuscrit peu soigné : l'écriture est très difficile à lire ; il y a plusie
 * * * 
 
 
-# Contenu 
+### Contenu 
 
 Manuscrit présentant deux textes (selon Jonas et récolte personnelle) :      
 
@@ -138,7 +138,7 @@ Corrections et suppressions : ?
 * * *
 
 
-# Décorations
+### Décorations
 
 #### Recension générale 
 
@@ -174,7 +174,7 @@ Présence d'une table des rubriques (fol. 1r-6v)
 * * *
 
 
-# Reliure
+### Reliure
 
 Date : ?
 
@@ -188,7 +188,7 @@ Présente les armes de Bourbon-Condé (selon Calames et le catalogue des mss du 
 * * *
 
 
-# Histoire du manuscrit
+### Histoire du manuscrit
 
 #### Origine paléographique
 
@@ -206,13 +206,13 @@ Possesseurs : La reliure présente les armes de Bourbon-Condé (selon Calames e
 * * *
 
 
-# Localisation de la planche (folio du manuscrit reproduit)
+### Localisation de la planche (folio du manuscrit reproduit)
 
 
 * * *
 
 
-# Bibliographie du manuscrit
+### Bibliographie du manuscrit
 
 #### Recensions et notices
 
