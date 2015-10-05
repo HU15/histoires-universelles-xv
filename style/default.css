@@ -64,13 +64,20 @@ ol, ul {
     margin: 0;
 }
 
-p {
+p, blockquote, dd {
 	margin: 0;
     line-height: 125%;
     text-align: justify;
     padding: 0.25em;
 	text-indent: 1em;
 	max-width: 40em;
+}
+
+li {
+	max-width: 40em;
+	margin: 0;
+    line-height: 125%;
+    text-align: justify;
 }
 
 a {
