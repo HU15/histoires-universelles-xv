@@ -10,7 +10,7 @@ tei[rend="transcript"] {
 	white-space: pre-wrap;
 }
 
-head {
+head[rend="flow"] {
     display: block;
     padding: 0.5em;
     font-size: 1.5em;
