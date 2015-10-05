@@ -424,18 +424,19 @@ a img {
 
 	#copyright
 	{
-		width: 50%;
+		width: 40%;
 		margin: 0 auto;
 		overflow: hidden;
 		padding-top: 10em;
 		padding-bottom: 5em;
 		padding-left: 5em;
 		padding-right: 5em;
-		text-align: center;
 	}
-	
+
 	#copyright p
 	{
+		text-indent: 0;
+		text-align: center;
 		letter-spacing: 0.20em;
 		text-transform: uppercase;
 		font-size: 0.80em;
@@ -608,8 +609,10 @@ a img {
 		width: 354px;
 		margin-right: 24px;
 		padding-right: 30px;
+		margin-left: 24px;
+		padding-left: 30px;
 	}
-	
+
 	#box2
 	{
 		float: left;
