@@ -109,9 +109,10 @@ msIdenfifier {
 }
 
     msIdentifier::before {
-        display: inline-block;
-        content: '· Identification: ';
-        color: gray;
+        display: block;
+        content: 'Identification';
+        font-size: 1.25em;
+        color: navy;
     }
 
 settlement {
