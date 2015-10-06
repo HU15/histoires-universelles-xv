@@ -82,7 +82,7 @@ note {
     }
     
     lb::before {
-        display: block;
+        display: inline-block;
         content: '·';
     }
 
@@ -110,7 +110,7 @@ msIdenfifier {
 
     msIdentifier::before {
         display: block;
-        content: 'Identification';
+        content: 'Identification (manuscrit)';
         font-size: 1.25em;
         color: navy;
     }
@@ -120,7 +120,7 @@ settlement {
 }
 
     settlement::before {
-        display: inline-block;
+        display: block;
         content: '· Localité: ';
         color: gray;
     }
@@ -130,7 +130,7 @@ repository {
 }
 
     repository::before {
-        display: inline-block;
+        display: block;
         content: '· Dépôt: ';
         color: gray;
     }
@@ -140,7 +140,7 @@ collection {
 }
 
     collection::before {
-        display: inline-block;
+        display: block;
         content: '· Collection: ';
         color: gray;
     }
@@ -150,7 +150,7 @@ idno {
 }
 
     idno::before {
-        display: inline-block;
+        display: block;
         content: '· Numéro identifiant: ';
         color: gray;
     }
@@ -160,7 +160,7 @@ altIdentifier {
 }
 
     altIdentifier::before {
-        display: inline-block;
+        display: block;
         content: '· Identifiant alternatif: ';
         color: gray;
     }
@@ -170,9 +170,10 @@ bibl {
 }
 
     bibl::before {
-        display: inline-block;
-        content: '· Bibliothèque: ';
-        color: gray;
+        display: block;
+        content: 'Référence bibliographique (imprimé)';
+        font-size: 1.25em;
+        color: navy;
     }
 
 publisher {
@@ -180,7 +181,7 @@ publisher {
 }
 
     publisher::before {
-        display: inline-block;
+        display: block;
         content: '· Éditeur: ';
         color: gray;
     }
@@ -190,7 +191,7 @@ pubPlace {
 }
 
     pubPlace::before {
-        display: inline-block;
+        display: block;
         content: '· Lieu de publication: ';
         color: gray;
     }
@@ -200,7 +201,7 @@ date {
 }
 
     date::before {
-        display: inline-block;
+        display: block;
         content: '· Date: ';
         color: gray;
     }
