@@ -48,6 +48,7 @@ figDesc {
 
 num {
     display: inline;
+    font-variant: small-caps;
 }
 
 note {
@@ -58,12 +59,12 @@ note {
         display: inline-block;
         margin-top: 0.5em;
         padding-top: 0.5em;
-        content: attr(n);
+        content: '[' attr(n) ']';
         font-family: 'TeX Gyre Chorus',
-                    'Zapf Chancery',
-                    'Lucida Calligraphy',
-                    'Apple Chancery',
-                    cursive;
+                     'Zapf Chancery',
+                     'Lucida Calligraphy',
+                     'Apple Chancery',
+                     cursive;
         color: gray;
     }
     
@@ -74,10 +75,10 @@ note {
         padding-top: 0.5em;
         content: attr(n);
         font-family: 'TeX Gyre Chorus',
-                    'Zapf Chancery',
-                    'Lucida Calligraphy',
-                    'Apple Chancery',
-                    cursive;
+                     'Zapf Chancery',
+                     'Lucida Calligraphy',
+                     'Apple Chancery',
+                     cursive;
         color: gray;
     }
     
@@ -92,10 +93,18 @@ expan {
 
 ex {
     display: inline;
+    font-style: italic;
 }
 
 g {
     display: inline;
+}
+
+g[type="exposant"] {
+    font-size: 80%;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
 }
 
 /* Règles concernant la description des corpus */
