@@ -109,23 +109,20 @@ g[type="exposant"] {
 
 /* Règles concernant la description des corpus */
 
-msDesc {
+msDesc, bibl {
     display: block;
+    border: 1px outset gray;
+    padding: 0.5em;
+    max-width: 66%;
 }
 
 msIdenfifier {
     display: block;
 }
 
-    msIdentifier::before {
-        display: block;
-        content: 'Identification (manuscrit)';
-        font-size: 1.25em;
-        color: navy;
-    }
-
 settlement {
     display: block;
+    padding-left: 0.5em;
 }
 
     settlement::before {
@@ -136,6 +133,7 @@ settlement {
 
 repository {
     display: block;
+    padding-left: 0.5em;
 }
 
     repository::before {
@@ -146,6 +144,7 @@ repository {
 
 collection {
     display: block;
+    padding-left: 0.5em;
 }
 
     collection::before {
@@ -156,6 +155,7 @@ collection {
 
 idno {
     display: block;
+    padding-left: 0.5em;
 }
 
     idno::before {
@@ -166,6 +166,7 @@ idno {
 
 altIdentifier {
     display: block;
+    padding-left: 0.5em;
 }
 
     altIdentifier::before {
@@ -174,19 +175,9 @@ altIdentifier {
         color: gray;
     }
 
-bibl {
-    display: block;
-}
-
-    bibl::before {
-        display: block;
-        content: 'Référence bibliographique (imprimé)';
-        font-size: 1.25em;
-        color: navy;
-    }
-
 publisher {
     display: block;
+    padding-left: 0.5em;
 }
 
     publisher::before {
@@ -197,6 +188,7 @@ publisher {
 
 pubPlace {
     display: block;
+    padding-left: 0.5em;
 }
 
     pubPlace::before {
@@ -207,6 +199,7 @@ pubPlace {
 
 date {
     display: block;
+    padding-left: 0.5em;
 }
 
     date::before {
