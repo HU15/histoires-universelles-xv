@@ -10,12 +10,6 @@ tei[rend="transcript"] {
 	white-space: pre-wrap;
 }
 
-head[rend="flow"] {
-    display: block;
-    padding: 0.5em;
-    font-size: 1.5em;
-}
-
 list {
     display: block;
 }
@@ -127,7 +121,7 @@ settlement {
 
     settlement::before {
         display: block;
-        content: '· Localité: ';
+        content: 'Localité: ';
         color: gray;
     }
 
@@ -138,7 +132,7 @@ repository {
 
     repository::before {
         display: block;
-        content: '· Dépôt: ';
+        content: 'Dépôt: ';
         color: gray;
     }
 
@@ -149,7 +143,7 @@ collection {
 
     collection::before {
         display: block;
-        content: '· Collection: ';
+        content: 'Collection: ';
         color: gray;
     }
 
@@ -160,7 +154,7 @@ idno {
 
     idno::before {
         display: block;
-        content: '· Numéro identifiant: ';
+        content: 'Numéro identifiant: ';
         color: gray;
     }
 
@@ -171,7 +165,7 @@ altIdentifier {
 
     altIdentifier::before {
         display: block;
-        content: '· Identifiant alternatif: ';
+        content: 'Identifiant alternatif: ';
         color: gray;
     }
 
@@ -182,7 +176,7 @@ publisher {
 
     publisher::before {
         display: block;
-        content: '· Éditeur: ';
+        content: 'Éditeur: ';
         color: gray;
     }
 
@@ -193,7 +187,7 @@ pubPlace {
 
     pubPlace::before {
         display: block;
-        content: '· Lieu de publication: ';
+        content: 'Lieu de publication: ';
         color: gray;
     }
 
@@ -204,6 +198,6 @@ date {
 
     date::before {
         display: block;
-        content: '· Date: ';
+        content: 'Date: ';
         color: gray;
     }
