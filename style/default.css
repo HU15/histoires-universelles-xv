@@ -407,12 +407,12 @@ a img {
 		letter-spacing: 0.20em;
 		text-transform: uppercase;
 		font-size: 0.80em;
-		color: black;
+		color: gray;
 	}
 	
 	#copyright a {
 		text-decoration: none;
-		color: black;
+		color: white;
 	}
 
 /*********************************************************************************/
