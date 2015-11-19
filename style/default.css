@@ -322,7 +322,6 @@ a img {
 
 #menu li {
 	display: inline-block;
-	border: 2px outset gray;
 }
 
 #menu a {
@@ -336,6 +335,14 @@ a img {
 	line-height: 100px;
 	border: none;
 	color: #FFF;
+}
+
+#menu a::before {
+	content: '| ';
+}
+
+#menu a::after {
+	content: ' |';
 }
 
 #menu a:hover, #menu .current_page_item a {
