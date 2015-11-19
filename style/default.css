@@ -6,7 +6,7 @@ html, body {
 body {
     margin: 0px;
     padding: 0px;
-    background: #16a085;
+    background: black;
     font-family: 'Georgia', serif;
     font-size: 12pt;
     font-weight: 400;
@@ -89,38 +89,32 @@ a img {
     border: none;
 }
 
-    .image
-    {
+    .image {
         display: inline-block;
     }
     
-        .image img
-        {
+        .image img {
             display: block;
             width: 100%;
         }
 
-    .image-full
-    {
+    .image-full {
         display: block;
         width: 100%;
         margin: 0 0 2em 0;
     }
     
-    .image-left
-    {
+    .image-left {
         float: left;
         margin: 0 2em 2em 0;
     }
     
-    .image-centered
-    {
+    .image-centered {
         display: block;
         margin: 0 0 2em 0;
     }
 
-        .image-centered img
-        {
+        .image-centered img {
             margin: 0 auto;
             width: auto;
         }
@@ -129,40 +123,34 @@ a img {
 /* List Styles                                                                   */
 /*********************************************************************************/
 
-	ul.style1
-	{
+	ul.style1 {
 		margin: 0;
 		padding: 0;
 		list-style: none;
 	}
-	
-	ul.style1 li
-	{
+
+	ul.style1 li {
 		border-top: solid 1px #E5E5E5;
 		padding: 0.80em 0;
 	}
-	
-	ul.style1 li:first-child
-	{
+
+	ul.style1 li:first-child {
 		border-top: 0;
 		padding-top: 0;
 	}
 
-	ul.style2
-	{
+	ul.style2 {
 		margin: 0;
 		padding: 0;
 		list-style: none;
 	}
 	
-	ul.style2 li
-	{
+	ul.style2 li {
 		border-top: solid 1px #E5E5E5;
 		padding: 0.80em 0;
 	}
 	
-	ul.style2 li:first-child
-	{
+	ul.style2 li:first-child {
 		border-top: 0;
 		padding-top: 0;
 	}
@@ -171,34 +159,29 @@ a img {
 /* Social Icon Styles                                                            */
 /*********************************************************************************/
 
-	ul.contact
-	{
+	ul.contact {
 		margin: 0;
 		padding: 1.5em 0em 2.5em 0em;
 		list-style: none;
 	}
 	
-	ul.contact li
-	{
+	ul.contact li {
 		display: inline-block;
 		padding: 0em 0.30em;
 		font-size: 1em;
 	}
 	
-	ul.contact li span
-	{
+	ul.contact li span {
 		display: none;
 		margin: 0;
 		padding: 0;
 	}
 	
-	ul.contact li a
-	{
+	ul.contact li a {
 		color: #FFF;
 	}
 	
-	ul.contact li a:before
-	{
+	ul.contact li a:before {
 		display: inline-block;
 		background: #3f3f3f;
 		width: 40px;
@@ -219,20 +202,17 @@ a img {
 /* Heading Titles                                                                */
 /*********************************************************************************/
 
-	.title
-	{
+	.title {
 		margin-bottom: 2em;
 	}
 
-	.title h2
-	{
+	.title h2 {
 		font-weight: 400;
 		font-size: 2em;
 		color: navy;
 	}
 	
-	.title .byline
-	{
+	.title .byline {
 		letter-spacing: 0.15em;
 		text-transform: uppercase;
 		font-weight: 400;
@@ -246,8 +226,7 @@ a img {
 	background: #FFFFFF url(images/bg01.png) repeat;
 }
 
-#footer-wrapper
-{
+#footer-wrapper {
 	background: black;
 }
 
@@ -265,8 +244,7 @@ a img {
 /* Wrappers                                                                      */
 /*********************************************************************************/
 
-#header-wrapper
-{
+#header-wrapper {
     overflow: hidden;
     height: 128px;
     padding: 2em 0em 2em 0em;
@@ -278,8 +256,7 @@ a img {
 /* Header                                                                        */
 /*********************************************************************************/
 
-#header 
-{
+#header {
     position: relative;
     overflow: hidden;
     text-align: center;
@@ -290,28 +267,24 @@ a img {
 /* Logo                                                                          */
 /*********************************************************************************/
 
-	#logo 
-	{
+	#logo {
 		width: 500px;
 		height: 100px;
 		margin: 0 auto;
 		padding: 2em 0em;
 	}
 	
-	#logo h1
-	{
+	#logo h1 {
 		letter-spacing: 0.10em;
 		font-size: 2em;
 	}
 	
-	#logo p 
-	{
+	#logo p {
 		letter-spacing: 0.10em;
 		color: #FFF;
 	}
 	
-	#logo a 
-	{
+	#logo a {
 		text-decoration: none;
 		color: #FFF;
 	}
@@ -320,8 +293,7 @@ a img {
 /* Banner                                                                        */
 /*********************************************************************************/
 
-	#banner 
-	{
+	#banner {
 		overflow: hidden;
 		height: 500px;
 		background: url(Capture.png) no-repeat center;
@@ -331,8 +303,7 @@ a img {
 
 /** MENU */
 
-#menu-wrapper
-{
+#menu-wrapper {
 	background: black;
 }
 
@@ -378,8 +349,7 @@ a img {
 
 /** PAGE */
 
-#page
-{
+#page {
 	position: relative;
 	overflow: hidden;
 	padding: 6em 0em 5em 0em;
@@ -387,8 +357,7 @@ a img {
 
 /** CONTENT */
 
-#content
-{
+#content {
 	float: left;
 	width: 60%;
     margin-left:3%;
@@ -398,19 +367,16 @@ a img {
 /* Sidebar                                                                       */
 /*********************************************************************************/
 
-	#sidebar
-	{
+	#sidebar {
 		float: right;
 		width: 30%;
 	}
 	
-	#sidebar .title h2
-	{
+	#sidebar .title h2 {
 		font-size: 1.6em;
 	}
 	
-	#sidebar .box1
-	{
+	#sidebar .box1 {
 		margin-bottom: 3em;
 	}
 
@@ -419,15 +385,13 @@ a img {
 /* Copyright                                                                     */
 /*********************************************************************************/
 
-#copyright-wrapper
-{
+#copyright-wrapper {
 	background: white;
     width: 100%;
     height: 100px;
 }
 
-	#copyright
-	{
+	#copyright {
 		width: 40%;
 		margin: 0 auto;
 		overflow: hidden;
@@ -437,8 +401,7 @@ a img {
 		padding-right: 5em;
 	}
 
-	#copyright p
-	{
+	#copyright p {
 		text-indent: 0;
 		text-align: center;
 		letter-spacing: 0.20em;
@@ -447,8 +410,7 @@ a img {
 		color: black;
 	}
 	
-	#copyright a
-	{
+	#copyright a {
 		text-decoration: none;
 		color: black;
 	}
@@ -457,27 +419,23 @@ a img {
 /* Welcome                                                                       */
 /*********************************************************************************/
 
-	#welcome
-	{
+	#welcome {
 		overflow: hidden;
 		padding: 5em 0em;
 		border-bottom: 1px solid #E5E5E5;
 		text-align: center;
 	}
 	
-	#welcome h2
-	{
+	#welcome h2 {
 		letter-spacing: 0.20em;
 		font-size: 2.6em;
 	}
 	
-	#welcome p
-	{
+	#welcome p {
 		font-size: 1.3em;
 	}
 
-	#welcome .byline
-	{
+	#welcome .byline {
 		display: block;
 		padding: 0em 0em 1.5em 0em;
 		letter-spacing: 0.15em;
@@ -490,26 +448,22 @@ a img {
 /* Portfolio                                                                     */
 /*********************************************************************************/
 
-	#portfolio-wrapper
-	{
+	#portfolio-wrapper {
 		background: rgba(0,0,0,.04);
 		padding: 6em 0em;
 		color: rgba(255,255,255,.7);
 	}
 	
-	#portfolio
-	{
+	#portfolio {
 		overflow: hidden;
 	}
 	
-	#portfolio .title h2
-	{
+	#portfolio .title h2 {
 		font-size: 1.2em;
 		color: #FFF;
 	}
 
-	#portfolio .byline
-	{
+	#portfolio .byline {
 		font-size: 1em;
 		color: #EEA7C1;
 	}
@@ -517,25 +471,21 @@ a img {
 	#column1,
 	#column2,
 	#column3,
-	#column4
-	{
+	#column4 {
 		width: 282px;
 	}
 	
 	#column1,
-	#column2
-	{
+	#column2 {
 		float: left;
 		margin-right: 24px;
 	}
 	
-	#column3
-	{
+	#column3 {
 		float: left;
 	}
 	
-	#column4
-	{
+	#column4 {
 		float: right;
 	}
 	
@@ -543,8 +493,7 @@ a img {
 /* Button Style                                                                  */
 /*********************************************************************************/
 
-	.button
-	{
+	.button {
 		display: inline-block;
 		margin-top: 1.5em;
 		padding: 1.50em 3em 1.50em 3em;
@@ -556,8 +505,7 @@ a img {
 		color: #FFF;
 	}
 	
-		.button:before
-		{
+		.button:before {
 			display: inline-block;
 			width: 40px;
 			height: 40px;
@@ -571,44 +519,37 @@ a img {
 /* Footer                                                                        */
 /*********************************************************************************/
 	
-	#footer-wrapper
-	{
+	#footer-wrapper {
 		overflow: hidden;
 		padding: 5em 0em;
 		background: #1E1B1A;
         width:100%
 	}
 
-	#footer
-	{
+	#footer {
 		color: #ADADAD;
 	}
 	
-	#footer .title h2
-	{
+	#footer .title h2 {
 		font-weight: 400;
 		font-size: 1.2em;
 		color: #FFF;
 	}
 
-	#footer .title
-	{
+	#footer .title {
 		border-color: #2D2926 !important;
 	}
 	
-	#footer .style1 li
-	{
+	#footer .style1 li {
 		border-color: #2D2926 !important;
 	}
 	
-	#footer .style1 a
-	{
+	#footer .style1 a {
 		font-size:1em;
 		color: #B1B1B1;
 	}
 	
-	#box1
-	{
+	#box1 {
 		float: left;
 		width: 354px;
 		margin-right: 24px;
@@ -617,16 +558,14 @@ a img {
 		padding-left: 30px;
 	}
 
-	#box2
-	{
+	#box2 {
 		float: left;
 		width: 354px;
 		margin-left: 24px;
 		padding-right: 30px;
 	}
 	
-	#box3
-	{
+	#box3 {
 		float: right;
 		width: 344px;
 		padding-left: 40px;
