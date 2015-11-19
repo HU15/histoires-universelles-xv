@@ -322,6 +322,8 @@ a img {
 
 #menu li {
 	display: inline-block;
+	border-top: 2px outset gray;
+	border-right: 2px outset gray;
 }
 
 #menu a {
