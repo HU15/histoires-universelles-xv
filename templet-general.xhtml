@@ -13,13 +13,13 @@ commentaires, le templet contient des balises de document section:
   <section>
   ...
   </section>
-Ce n’est qu’à titre indicatif. Si votre contenu est effectivement du
+Votre contenu va à la place des trois points. S’il s’agit bien de
 TEI sans HTML, des balises `tei` doivent être ajoutées dans la `section`,
 mais si vous avez plutôt du HTML (contenant possiblement des fragments
-TEI imbriqués), il faut copier votre contenu dans la `section`
+TEI imbriqués), copiez votre contenu directement dans la `section`
 tel que vous l’avez balisé. Si votre HTML contient des fragments
 TEI, donnez à chacun de ces fragments imbriqués leurs propres balises
-<tei>...</tei>. Selon le module du contenu TEI, appliquez à l’élément
+<tei>...</tei>. Selon le mode du contenu TEI, appliquez à l’élément
 `tei` l’attribut `rend="descript"` ou `rend="transcript"`. Cette
 dernière valeur convient aux transcriptions, car les transcriptions
 ne contiennent pas d’éléments `p` pour séparer les paragraphes, donc
@@ -45,7 +45,7 @@ endroits (titre, auteur etc.).
 <div id="wrapper">
 
 <div id="menu-wrapper">
-	<div id="menu" class="container">
+	<nav id="menu" class="container">
 		<ul>
 			<li><a href="./index.xhtml">Accueil</a></li>
 			<li><a href="./Textes.xhtml">Textes</a></li>
@@ -55,21 +55,21 @@ endroits (titre, auteur etc.).
 			<li><a href="./illustrations.xhtml">Tables des illustrations</a></li>
 			<li><a href="./transcriptions.xhtml">Transcriptions</a></li>
 		</ul>
-	</div>
+	</nav>
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">H(istoires) U(niverselles) 15</a></h1>
+			<h1><a href=".">H(istoires) U(niverselles) 15</a></h1>
 		</div>
 	</div>
 </div>
 </div>
 
 <div id="page" class="container">
-<div id="content">
-<div class="title">
+<article id="content">
+<header class="title">
 	<h2>[Titre spécifique pour le document actuel]</h2>
-</div>
+</header>
 
 <!-- Début: contenu effectif -->
 
@@ -82,8 +82,8 @@ endroits (titre, auteur etc.).
 
 <!-- Fin: contenu effectif -->
 
-</div>
-	<div id="sidebar">
+</article>
+	<nav id="sidebar">
 		<div class="box2">
 			<div class="title">
 				<h2>Pages liées pour le texte actuel</h2>
@@ -97,7 +97,7 @@ endroits (titre, auteur etc.).
 				<li><a href="#">[Transcriptions]</a></li>
 			</ul>
 		</div>
-	</div>
+	</nav>
 </div>
 </div>
 

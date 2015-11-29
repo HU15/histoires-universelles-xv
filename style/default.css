@@ -301,7 +301,14 @@ a img {
 		background-size: cover;
 	}
 
-/** MENU */
+/*
+
+Menu principal
+
+Ici, le #menu sera gardé puisqu’il n’y a logiquement qu’un seul
+menu principal par page. L’élément sera nav au lieu de div.
+
+*/
 
 #menu-wrapper {
 	background: black;
@@ -354,7 +361,15 @@ a img {
 }
 
 
-/** PAGE */
+/*
+
+Partie principale de la page visible, après le menu et le titre h1
+
+Le mode de positionnement du div#page importe pour la disposition de
+ce qui précède et ce qui suit. `relative` est bel et bien le bon mode
+pour obtenir le comportement souhaité.
+
+*/
 
 #page {
 	position: relative;
@@ -362,7 +377,18 @@ a img {
 	padding: 6em 0em 5em 0em;
 }
 
-/** CONTENT */
+/*
+
+Identifiant du contenu: titre spécifique h2 + contenu effectif rédigé
+
+Nouvelle nomenclature à adopter: article.content au lieu de div#content
+
+Le mode de positionnement flottant est utilisé pour l’article parce que
+le nav qui suit doit apparaître latéralement. La nomenclature style HTML4
+utilise un identifiant unique, mais logiquement tout article peut être
+suivi de son propre menu nav latéral, donc on changera #sidebar pour .sidebar.
+
+*/
 
 #content {
 	float: left;
