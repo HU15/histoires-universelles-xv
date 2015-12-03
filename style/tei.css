@@ -34,11 +34,7 @@ hi {
     figure::before {
         display: block;
         content: '[' attr(desc) ']';
-        font-family: 'TeX Gyre Chorus',
-                     'Zapf Chancery',
-                     'Lucida Calligraphy',
-                     'Apple Chancery',
-                     cursive;
+        font-family: cursive;
         color: gray;
     }
 
