@@ -332,6 +332,7 @@ menu principal par page. L’élément sera nav au lieu de div.
 	flex: 1;
 	margin: 0;
 	padding: 36px 0;
+	letter-spacing: 1pt;
 	text-decoration: none;
 	text-align: center;
 	text-transform: uppercase;
