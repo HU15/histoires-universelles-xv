@@ -33,6 +33,8 @@ hi {
 
     figure::before {
         display: block;
+        margin-top: 0.25em;
+        padding-top: 0.25em;
         content: '[' attr(desc) ']';
         font-family: cursive;
         color: gray;
