@@ -33,7 +33,7 @@ hi {
 
     figure::before {
         display: block;
-        content: '[' attr(n) ']';
+        content: '[' attr(desc) ']';
         font-family: 'TeX Gyre Chorus',
                      'Zapf Chancery',
                      'Lucida Calligraphy',
