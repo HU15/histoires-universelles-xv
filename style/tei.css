@@ -36,7 +36,13 @@ hi {
         margin-top: 0.25em;
         padding-top: 0.25em;
         content: '[' attr(desc) ']';
-        font-family: cursive;
+        font-family: 'TeX Gyre Chorus',
+                     'URW Chancery',
+                     'Zapf Chancery',
+                     'Lucida Calligraphy',
+                     'Apple Chancery',
+                     'Palatino',
+                     serif;
         color: gray;
     }
 
@@ -59,10 +65,12 @@ note {
         padding-top: 0.5em;
         content: '[' attr(n) ']';
         font-family: 'TeX Gyre Chorus',
+                     'URW Chancery',
                      'Zapf Chancery',
                      'Lucida Calligraphy',
                      'Apple Chancery',
-                     cursive;
+                     'Palatino',
+                     serif;
         color: gray;
     }
     
@@ -73,10 +81,12 @@ note {
         padding-top: 0.5em;
         content: attr(n);
         font-family: 'TeX Gyre Chorus',
+                     'URW Chancery',
                      'Zapf Chancery',
                      'Lucida Calligraphy',
                      'Apple Chancery',
-                     cursive;
+                     'Palatino',
+                     serif;
         color: gray;
     }
     
