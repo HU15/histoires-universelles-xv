@@ -33,7 +33,13 @@ hi {
 
     figure::before {
         display: block;
-        content: '·Figure·';
+        content: '[' attr(n) ']';
+        font-family: 'TeX Gyre Chorus',
+                     'Zapf Chancery',
+                     'Lucida Calligraphy',
+                     'Apple Chancery',
+                     cursive;
+        color: gray;
     }
 
 figDesc {
