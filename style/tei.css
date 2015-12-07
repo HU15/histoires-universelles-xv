@@ -119,9 +119,11 @@ g[type="exposant"] {
 
 msDesc, bibl {
     display: block;
-    border: 2px outset gray;
+    border-left: 2px outset gray;
+    border-radius: 0px 5px 5px 0px;
+    background: rgb(236, 236, 255);
     padding: 0.5em;
-    max-width: 66%;
+    max-width: 40em;
 }
 
 msIdenfifier {
@@ -129,89 +131,117 @@ msIdenfifier {
 }
 
 settlement {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
+
 }
 
     settlement::before {
-        display: block;
+        display: inline;
         content: 'Localité: ';
         color: gray;
     }
 
+    settlement::after {
+        display: inline;
+        content: ';';
+    }
+
 repository {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
 }
 
     repository::before {
-        display: block;
+        display: inline;
         content: 'Dépôt: ';
         color: gray;
     }
 
+    repository::after {
+        display: inline;
+        content: ';';
+    }
+
 collection {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
 }
 
     collection::before {
-        display: block;
+        display: inline;
         content: 'Collection: ';
         color: gray;
     }
 
+    collection::after {
+        display: inline;
+        content: ';';
+    }
+
 idno {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
 }
 
     idno::before {
-        display: block;
+        display: inline;
         content: 'Numéro identifiant: ';
         color: gray;
     }
 
+    idno::after {
+        display: inline;
+        content: ';';
+    }
+
 altIdentifier {
-    display: block;
-    padding-left: 0.5em;
+    display: inline-block;
 }
 
     altIdentifier::before {
-        display: block;
+        display: inline-block;
         content: 'Identifiant alternatif: ';
         color: gray;
     }
 
 publisher {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
 }
 
     publisher::before {
-        display: block;
+        display: inline;
         content: 'Éditeur: ';
         color: gray;
     }
 
+    publisher::after {
+        display: inline;
+        content: ';';
+    }
+
 pubPlace {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
 }
 
     pubPlace::before {
-        display: block;
+        display: inline;
         content: 'Lieu de publication: ';
         color: gray;
     }
 
+    pubPlace::after {
+        display: inline;
+        content: ';';
+    }
+
 date {
-    display: block;
-    padding-left: 0.5em;
+    display: inline;
 }
 
     date::before {
-        display: block;
+        display: inline;
         content: 'Date: ';
         color: gray;
+    }
+
+    date::after {
+        display: inline;
+        content: '; ';
     }
