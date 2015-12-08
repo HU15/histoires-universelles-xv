@@ -146,6 +146,11 @@ settlement {
         content: ';';
     }
 
+    settlement:last-child::after {
+        display: inline;
+        content: '.';
+    }
+
 repository {
     display: inline;
 }
@@ -159,6 +164,11 @@ repository {
     repository::after {
         display: inline;
         content: ';';
+    }
+
+    repository:last-child::after {
+        display: inline;
+        content: '.';
     }
 
 collection {
@@ -176,6 +186,11 @@ collection {
         content: ';';
     }
 
+    collection:last-child::after {
+        display: inline;
+        content: '.';
+    }
+
 idno {
     display: inline;
 }
@@ -189,6 +204,11 @@ idno {
     idno::after {
         display: inline;
         content: ';';
+    }
+
+    idno:last-child::after {
+        display: inline;
+        content: '.';
     }
 
 altIdentifier {
@@ -216,6 +236,11 @@ publisher {
         content: ';';
     }
 
+    publisher:last-child::after {
+        display: inline;
+        content: '.';
+    }
+
 pubPlace {
     display: inline;
 }
@@ -231,6 +256,11 @@ pubPlace {
         content: ';';
     }
 
+    pubPlace:last-child::after {
+        display: inline;
+        content: '.';
+    }
+
 date {
     display: inline;
 }
@@ -244,4 +274,9 @@ date {
     date::after {
         display: inline;
         content: '; ';
+    }
+
+    date:last-child::after {
+        display: inline;
+        content: '.';
     }
