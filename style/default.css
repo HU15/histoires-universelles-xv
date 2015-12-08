@@ -56,23 +56,29 @@ dl {
 	margin: 0;
 }
 
-p, blockquote, dd {
-	margin: 0;
-    line-height: 125%;
-    text-align: justify;
-    padding-bottom: 0.25em;
-	text-indent: 1em;
-	max-width: 40em;
-}
-
-dd {
-	padding-left: 1em;
-}
-
 dt {
 	display: block;
 	padding-left: 1em;
 	font-weight: bold;
+}
+
+dd {
+	padding: 0.5em 1em 0.5em 1em;
+	margin: 0 0 0 1.5em;
+	border-left: 2px outset grey;
+	border-radius: 16px;
+	line-height: 125%;
+	text-align: justify;
+	max-width: 40em;
+}
+
+p, blockquote {
+	margin: 0;
+	line-height: 125%;
+	text-align: justify;
+	padding-bottom: 0.25em;
+	text-indent: 1em;
+	max-width: 40em;
 }
 
 li {
