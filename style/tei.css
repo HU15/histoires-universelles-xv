@@ -135,7 +135,7 @@ settlement {
 
 }
 
-    settlement::before {
+    settlement:first-of-type::before {
         display: inline;
         content: 'Localité: ';
         color: gray;
@@ -155,7 +155,7 @@ repository {
     display: inline;
 }
 
-    repository::before {
+    repository:first-of-type::before {
         display: inline;
         content: 'Dépôt: ';
         color: gray;
@@ -175,7 +175,7 @@ collection {
     display: inline;
 }
 
-    collection::before {
+    collection:first-of-type::before {
         display: inline;
         content: 'Collection: ';
         color: gray;
@@ -195,7 +195,7 @@ idno {
     display: inline;
 }
 
-    idno::before {
+    idno:first-of-type::before {
         display: inline;
         content: 'Numéro identifiant: ';
         color: gray;
@@ -217,7 +217,7 @@ altIdentifier {
 
     altIdentifier::before {
         display: inline-block;
-        content: 'Identifiant alternatif: ';
+        content: '[Identifiant alternatif]';
         color: gray;
     }
 
@@ -225,7 +225,7 @@ publisher {
     display: inline;
 }
 
-    publisher::before {
+    publisher:first-of-type::before {
         display: inline;
         content: 'Éditeur: ';
         color: gray;
@@ -245,7 +245,7 @@ pubPlace {
     display: inline;
 }
 
-    pubPlace::before {
+    pubPlace:first-of-type::before {
         display: inline;
         content: 'Lieu de publication: ';
         color: gray;
@@ -265,7 +265,7 @@ date {
     display: inline;
 }
 
-    date::before {
+    date:first-of-type::before {
         display: inline;
         content: 'Date: ';
         color: gray;
@@ -280,3 +280,14 @@ date {
         display: inline;
         content: '.';
     }
+
+bibl cite::after,
+msDesc cite::after {
+    content: ';';
+    font-style: normal;
+}
+
+a:hover bibl,
+a:hover msDesc {
+    background: rgb(196, 196, 255);
+}
