@@ -64,9 +64,7 @@ dt {
 
 dd {
 	padding: 0.5em 1em 0.5em 1em;
-	margin: 0 0 0 1.5em;
-	border-left: 2px outset grey;
-	border-radius: 16px;
+	margin: 0 0 0 1em;
 	line-height: 125%;
 	text-align: justify;
 	max-width: 40em;
@@ -94,10 +92,18 @@ li p {
 
 a {
     color: #171717;
+	text-decoration: none;
 }
 
 a:hover {
     text-decoration: none;
+}
+
+article p a,
+article li a,
+article dd a,
+article blockquote a {
+	text-decoration: underline dotted grey;
 }
 
 a img {
