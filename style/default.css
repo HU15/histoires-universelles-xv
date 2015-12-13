@@ -152,7 +152,7 @@ a img {
 
 	ul.style1 li {
 		border-top: solid 1px #E5E5E5;
-		padding: 0.80em 0;
+		padding: 0.8em 0;
 	}
 
 	ul.style1 li:first-child {
@@ -168,7 +168,7 @@ a img {
 	
 	ul.style2 li {
 		border-top: solid 1px #E5E5E5;
-		padding: 0.80em 0;
+		padding: 0.8em 0;
 	}
 	
 	ul.style2 li:first-child {
@@ -235,7 +235,7 @@ a img {
 	
 	.title .byline {
 		letter-spacing: 0.15em;
-		text-transform: uppercase;
+		font-variant: small-caps;
 		font-weight: 400;
 		font-size: 0.90em;
 		color: darkred;
@@ -366,8 +366,8 @@ menu principal par page. L’élément sera nav au lieu de div.
 	letter-spacing: 1pt;
 	text-decoration: none;
 	text-align: center;
-	text-transform: uppercase;
-	font-size: 0.75em;
+	font-variant: small-caps;
+	font-size: 0.8em;
 	border: none;
 	color: #FFF;
 }
@@ -466,8 +466,8 @@ suivi de son propre menu nav latéral, donc on changera #sidebar pour .sidebar.
 		text-indent: 0;
 		text-align: center;
 		letter-spacing: 0.20em;
-		text-transform: uppercase;
-		font-size: 0.80em;
+		font-variant: small-caps;
+		font-size: 0.8em;
 		color: gray;
 	}
 	
@@ -560,7 +560,7 @@ suivi de son propre menu nav latéral, donc on changera #sidebar pour .sidebar.
 		padding: 1.50em 3em 1.50em 3em;
 		background: #16a085;
 		text-decoration: none;
-		text-transform: uppercase;
+		font-variant: small-caps;
 		font-weight: 400;
 		font-size: 0.90em;
 		color: #FFF;
