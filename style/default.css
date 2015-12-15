@@ -22,6 +22,14 @@ body {
     color: black;
 }
 
+article header>p {
+	font-weight: bold;
+}
+
+article footer>p {
+	font-weight: bold;
+}
+
 header.flow { /* Classe appliquée quand le header se trouve dans un bloc TEI */
     display: block;
     padding: 0.5em;
