@@ -98,6 +98,10 @@ li p {
 	text-indent: 0;
 }
 
+article ul li {
+	list-style-type: '– ';
+}
+
 a {
     color: #171717;
 	text-decoration: none;
