@@ -22,12 +22,12 @@ body {
     color: black;
 }
 
-header {
+article header {
     display: block;
 	margin: 1em 0 1em 0;
 }
 
-footer {
+article footer {
     display: block;
 	margin: 1em 0 1em 0;
 }
