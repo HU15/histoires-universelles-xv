@@ -22,18 +22,18 @@ body {
     color: black;
 }
 
-article header>p {
-	font-weight: bold;
-}
-
-article footer>p {
-	font-weight: bold;
-}
-
-header.flow { /* Classe appliquée quand le header se trouve dans un bloc TEI */
+header {
     display: block;
-    padding: 0.5em;
-    font-size: 1.5em;
+	margin: 1em 0 1em 0;
+}
+
+footer {
+    display: block;
+	margin: 1em 0 1em 0;
+}
+
+article, section {
+	display: block;
 }
 
 h1, h2 {
@@ -54,6 +54,10 @@ h3 {
 h4 {
 	color: black;
 	font-size: 1.25em;
+}
+
+article header>h4 {
+	margin: 0;
 }
 
 ol, ul {
@@ -85,6 +89,16 @@ p, blockquote {
 	padding-bottom: 0.25em;
 	text-indent: 1em;
 	max-width: 40em;
+}
+
+article header>p {
+	font-weight: bold;
+	text-indent: 0;
+}
+
+article footer>p {
+	font-weight: bold;
+	text-indent: 0;
 }
 
 li {
