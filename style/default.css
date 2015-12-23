@@ -91,6 +91,14 @@ p, blockquote {
 	max-width: 40em;
 }
 
+.hu_desc-temoin blockquote::before {
+	content: '“';
+	font-size: 2em;
+	color: grey;
+	position: absolute;
+	left: 0em;
+}
+
 article header>p {
 	font-weight: bold;
 	text-indent: 0;
@@ -686,6 +694,7 @@ permettent.
     padding: 0.5em;
 	margin: 1em 0 1em 0;
 	max-width: 42em;
+	position: relative;
 }
 
 /* Même en HTML5, il n’existe pas d’élément de niveau linéaire
