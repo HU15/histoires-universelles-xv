@@ -657,3 +657,47 @@ suivi de son propre menu nav latéral, donc on changera #sidebar pour .sidebar.
 		width: 344px;
 		padding-left: 40px;
 	}
+
+/*
+
+Styles supplémentaires attribués par classe
+pour enrichir la présentation des articles.
+Les noms des classes doivent être préfixés
+par `hu_` et les termes du nom doivent être
+séparés par des traits d’union.
+
+L’application de ces classes sert entre autres
+à harmoniser la sémantique de présentation du
+contenu HTML avec celle que nous avons définie
+pour le contenu TEI. Ainsi, les créateurs de
+contenu ont le choix entre les deux vocabulaires
+et, si une correspondance directe existe entre
+un élément HTML donné et un élément TEI donné,
+les deux auront une même représentation dans
+la mesure ou les différences d’imbrication le
+permettent.
+
+*/
+
+.hu_desc-temoin {
+    border-left: 2px outset gray;
+    border-radius: 0px 5px 5px 0px;
+    background: rgb(236, 236, 255);
+    padding: 0.5em;
+}
+
+/* Même en HTML5, il n’existe pas d’élément de niveau linéaire
+correspondant directement au concept d’auteur ou de créateur
+d’une ressource. Je choisis d’appliquer la classe suivante
+à l’élément `mark`, dont la sémantique convient dans la mesure
+où les noms d’auteur sont habituellement distingués dans le
+contexte d’une notice ou d’une liste ou l’élément linéaire
+dépend le plus souvent d’un titre ou d’un item décrit
+précédemment dans un élément de niveau “flux”. Notons que
+l’application d’une distinction graphique est très utile
+pour rendre non ambigüe les références à des personnes ayant
+des homonymes; on peut aussi ajouter des attributs `title`. */
+.hu_nom-auteur {
+	background: transparent;
+	font-variant: small-caps;
+}
