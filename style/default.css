@@ -147,6 +147,7 @@ a:hover {
 
 article p a,
 article li a,
+article dt a,
 article dd a,
 article blockquote a {
 	text-decoration: underline dotted grey;
