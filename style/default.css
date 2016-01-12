@@ -455,28 +455,52 @@ pour obtenir le comportement souhaité.
 
 Identifiant du contenu: titre spécifique h2 + contenu effectif rédigé
 
-Nouvelle nomenclature à adopter: article.content au lieu de div#content
+Nouvelle nomenclature à adopter: `article.content` au lieu de `div#content`
+afin qu’une page (un fichier) puisse contenir plus d’un article. Il est
+permis de faire coexister une classe et un identifiant portant le même
+nom, donc nous allons laisser l’`id` sur les pages déjà construites où
+il y a peu de chance qu’on ajoute plus d’un article et, sur les pages
+où cela convient, utiliser la classe `.content` dont les déclarations CSS
+sont les mêmes que pour l’`id`.
 
 Le mode de positionnement flottant est utilisé pour l’article parce que
-le nav qui suit doit apparaître latéralement. La nomenclature style HTML4
-utilise un identifiant unique, mais logiquement tout article peut être
-suivi de son propre menu nav latéral, donc on changera #sidebar pour .sidebar.
+le `nav` qui suit doit apparaître latéralement. Des modes de positionnement
+équivalents existent pour ce cas d’utilisation, mais `float` convient et
+ne pose pas les problèmes habituels qu’on rencontre en utilisant `float`
+dans dans des colonnes de contenu phrasé restreintes.
 
 */
 
 #content {
 	float: left;
 	width: 60%;
-    margin-left:3%;
+	margin-left: 3em;
+}
+
+.content {
+	float: left;
+	width: 60%;
+	margin-left: 3em;
 }
 
 /*********************************************************************************/
 /* Sidebar                                                                       */
 /*********************************************************************************/
 
+/*
+
+Cette nomenclature de style HTML4 utilise un identifiant unique,
+mais logiquement tout article peut être suivi de son propre
+menu `nav` latéral, donc on peut aussi changer `#sidebar` pour
+`.sidebar`, mais dans l’architecture actuelle ce n’est pas
+nécessaire.
+
+*/
+
 	#sidebar {
 		float: right;
 		width: 30%;
+		margin-right: 3em;
 	}
 	
 	#sidebar .title h2 {
@@ -700,6 +724,16 @@ permettent.
 */
 
 .hu_desc-temoin {
+	border-left: 2px outset gray;
+	border-radius: 0px 5px 5px 0px;
+	background: rgb(236, 236, 255);
+	padding: 1em;
+	margin: 1em 0 1em 0;
+	max-width: 42em;
+	position: relative;
+}
+
+.hu_rel {
 	border-left: 2px outset gray;
 	border-radius: 0px 5px 5px 0px;
 	background: rgb(236, 236, 255);
