@@ -1,13 +1,55 @@
+#+author: Christian Gagné
+#+title: Fiches relationnelles sur les témoins du Miroir du Monde
+
+#+LANGUAGE: fr
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:t tex:t
+#+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> (<a href="http://orgmode.org">Org</a> mode)
+#+HTML_DOCTYPE: xhtml5
+#+HTML_CONTAINER: section
+#+HTML_HEAD: 
+#+HTML_HEAD_EXTRA:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+OPTIONS: tex:dvipng
+#+INFOJS_OPT:
+#+LATEX_HEADER:
+
+#+MACRO: linecite (@@latex:\cite[$2]@@@@html:<cite>@@@@latex:{@@$1@@latex:}@@@@html:, $2</cite>@@)
+#+MACRO: autocite @@latex:\autocite[@@$2@@latex:]{@@$1@@latex:}@@
+#+MACRO: opus-fr @@html:<cite lang='fr' xml:lang='fr'>@@@@latex:\titreouvrage{@@$1@@latex:}@@@@html:</cite>@@
+#+MACRO: opus-en @@html:<cite lang='en' xml:lang='en'>@@@@latex:\titreouvrage{\foreignlanguage{english}{@@$1@@latex:}}@@@@html:</cite>@@
+
+#+macro: idiom-lat @@html:<i lang="lat">@@$1@@html:</i>@@
+
+
 * Fiches relationnelles des manuscrits BnF fr 328 et BnF fr 684
 
 
-#+begin_src html :tangle mdm_incipit_rel.xhtml
+** Instances de l’{{{idiom-lat(incipit)}}}
+
+BnF fr 328: ::
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image][http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image]]
+    - Transcription diplomatique
+    - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
+
+BnF fr 684: ::
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image][http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image]]
+    - Transcription diplomatique
+    - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
+
+
+* COMMENT Exemple litéral
+
+
+#+begin_src html :tangle mdm_incipit.xhtml
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
 <head>
 <meta charset="UTF-8" />
 <title>mdm_incipit_rel</title>
-<meta name="description" content="[Contenu du premier paragraphe de l’article, de la fiche ou de la transcription, sans les balises.]" />
+<meta name="description" content="Fiches relationnelles sur les témoins du Miroir du Monde" />
 <base href="http://hu15.github.io/histoires-universelles-xv/" />
 <link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
 <link href="./style/fonts.css" rel="stylesheet" type="text/css" media="all" />
