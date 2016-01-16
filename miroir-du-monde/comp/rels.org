@@ -29,12 +29,12 @@
 
 ** Instances de l’{{{idiom-lat(incipit)}}}
 
-BnF fr 328: ::
+- BnF fr 328: ::
     - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image][http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image]]
     - Transcription diplomatique
     - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
 
-BnF fr 684: ::
+- BnF fr 684: ::
     - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image][http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image]]
     - Transcription diplomatique
     - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
