@@ -2,7 +2,7 @@
 #+title: Fiches relationnelles sur les témoins du Miroir du Monde
 
 #+LANGUAGE: fr
-#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil
 #+OPTIONS: html-preamble:t html-scripts:t html-style:t
 #+OPTIONS: html5-fancy:t tex:t
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> (<a href="http://orgmode.org">Org</a> mode)
@@ -38,6 +38,14 @@
     - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image][http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image]]
     - Transcription diplomatique
     - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
+
+** Instances des énoncés sur la Genèse
+
+- BnF fr 328: ::
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]]
+
+- BnF fr 684: ::
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
 
 
 * COMMENT Exemple litéral
