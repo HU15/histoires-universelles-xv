@@ -150,7 +150,7 @@ article li a,
 article dt a,
 article dd a,
 article blockquote a {
-	text-decoration: underline dotted grey;
+	text-decoration: underline grey;
 }
 
 a img {
@@ -742,6 +742,26 @@ permettent.
 	margin: 1em 0 1em 0;
 	max-width: 42em;
 	position: relative;
+}
+
+/* Dans les fiches relationnelles, les hyperliens sont
+démarqués différemment parce qu’ils sont utilisés comme
+référants au sens du modèle de données RDF. Les délimiteurs
+utilisés se nomment communément «coins de Quine» et 
+servent à la quasi-citation, ce qui convient bien aux URI
+qui peuvent être déréférençables ou non selon le cas. */
+.hu_rel a {
+	text-decoration: none;
+}
+
+.hu_rel a::before {
+	content: '⌜';
+	padding-right: 0.15em;
+}
+
+.hu_rel a::after {
+	content: '⌟';
+	padding-left: 0.15em;
 }
 
 /* Même en HTML5, il n’existe pas d’élément de niveau linéaire
