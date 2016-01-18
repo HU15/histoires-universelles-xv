@@ -764,6 +764,10 @@ qui peuvent être déréférençables ou non selon le cas. */
 	padding-left: 0.15em;
 }
 
+.hu_rel a:hover {
+    background: rgb(196, 196, 255);
+}
+
 /* Même en HTML5, il n’existe pas d’élément de niveau linéaire
 correspondant directement au concept d’auteur ou de créateur
 d’une ressource. Je choisis d’appliquer la classe suivante

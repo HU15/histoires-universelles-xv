@@ -31,19 +31,26 @@
 * Fiches relationnelles des manuscrits BnF fr 328 et BnF fr 684
 
 
-** Instances de l’{{{idiom-lat(incipit)}}}
+#+attr_html: :id incipit_rel  :class hu_rel
+#+begin_section
+#+begin_header
+Instances de l’{{{idiom-lat(incipit)}}}
+#+end_header
 
 - BnF fr 328: ::
-    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image][http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image]]
-    - Transcription diplomatique
-    - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.item]]
+    - [[./miroir-du-monde/bnf-fr-328/trans-bnf-fr-328.xhtml#incipit][Transcription diplomatique]]
+    - [[./miroir-du-monde/bnf-fr-328/rubriques-bnf-fr-328.xhtml#incipit_pars][Rubrique de l’{{{idiom-lat(incipit)}}} dans la table]]
 
 - BnF fr 684: ::
-    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image][http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image]]
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
     - Transcription diplomatique
     - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
 
-** Instances des énoncés sur la Genèse
+#+end_section
+
+
+Instances des énoncés sur la Genèse
 
 - BnF fr 328: ::
     - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]]
