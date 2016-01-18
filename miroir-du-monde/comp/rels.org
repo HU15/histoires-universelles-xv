@@ -2,15 +2,19 @@
 #+title: Fiches relationnelles sur les témoins du Miroir du Monde
 
 #+LANGUAGE: fr
+#+OPTIONS: H:10
+#+OPTIONS: toc:nil
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:nil
 #+OPTIONS: html-preamble:t html-scripts:t html-style:t
 #+OPTIONS: html5-fancy:t tex:t
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> (<a href="http://orgmode.org">Org</a> mode)
 #+HTML_DOCTYPE: xhtml5
 #+HTML_CONTAINER: section
-#+HTML_HEAD: 
+#+HTML_HEAD: <base href="http://hu15.github.io/histoires-universelles-xv/" />
+#+HTML_HEAD: <link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
+#+HTML_HEAD: <link href="./style/fonts.css" rel="stylesheet" type="text/css" media="all" />
+#+HTML_HEAD: <link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
 #+HTML_HEAD_EXTRA:
-#+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+OPTIONS: tex:dvipng
 #+INFOJS_OPT:
