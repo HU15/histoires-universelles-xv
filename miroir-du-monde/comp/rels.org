@@ -25,13 +25,14 @@
 #+MACRO: opus-fr @@html:<cite lang='fr' xml:lang='fr'>@@@@latex:\titreouvrage{@@$1@@latex:}@@@@html:</cite>@@
 #+MACRO: opus-en @@html:<cite lang='en' xml:lang='en'>@@@@latex:\titreouvrage{\foreignlanguage{english}{@@$1@@latex:}}@@@@html:</cite>@@
 
+#+macro: cite @@html:<cite>@@$1@@html:</cite>@@
 #+macro: idiom-lat @@html:<i lang="lat">@@$1@@html:</i>@@
 
 
 * Fiches relationnelles des manuscrits BnF fr 328 et BnF fr 684
 
 
-#+attr_html: :id incipit_rel  :class hu_rel
+#+attr_html: :id incipit_rel :class hu_rel
 #+begin_section
 #+begin_header
 Instances de l’{{{idiom-lat(incipit)}}}
@@ -49,14 +50,27 @@ Instances de l’{{{idiom-lat(incipit)}}}
 
 #+end_section
 
-
+#+attr_html: :id genesis_rel :class hu_rel
+#+begin_section
+#+begin_header
 Instances des énoncés sur la Genèse
+#+end_header
 
-- BnF fr 328: ::
-    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]]
+	#+attr_html: :id genesis_gn_1-1_rel :class hu_rel
+	#+begin_subsection
+	#+begin_header
+	Instances {{{cite(Gn. 1.1)}}}
+	#+end_header
 
-- BnF fr 684: ::
-    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
+	- BnF fr 328: ::
+		- [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]]
+
+	- BnF fr 684: ::
+		- [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
+
+	#+end_subsection
+
+#+end_section
 
 
 * COMMENT Exemple litéral
