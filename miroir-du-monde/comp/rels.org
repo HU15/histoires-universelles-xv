@@ -51,11 +51,11 @@ Instances de l’{{{idiom-lat(incipit)}}}
 - Relation: ::
 
     - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.item]] \\
-      [[./def/relations.xhtml#possède-rôle][possède le rôle]] \\
+      [[./def/relations.xhtml#poss%C3%A9dant-r%C3%B4le][possédant le rôle]] \\
       [[./def/relations.xhtml#rôle-incipit][incipit]]
 
     - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]] \\
-      [[./def/relations.xhtml#possède-rôle][possède le rôle]] \\
+      [[./def/relations.xhtml#poss%C3%A9dant-r%C3%B4le][possédant le rôle]] \\
       [[./def/relations.xhtml#rôle-incipit][incipit]]
 
       --------
@@ -80,9 +80,13 @@ Instances des énoncés sur la Genèse
 
 	- BnF fr 328: ::
 		- [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]]
+        - [[./miroir-du-monde/bnf-fr-328/trans-bnf-fr-328.xhtml#genesis_gn_1-1][Transcription diplomatique]]
+        - [[./miroir-du-monde/bnf-fr-328/rubriques-bnf-fr-328.xhtml#genesis_gn_1-1_pars][Rubrique du segment dans la table]]
 
 	- BnF fr 684: ::
 		- [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
+        - [[./miroir-du-monde/bnf-fr-684/trans-bnf-fr-684.xhtml#genesis_gn_1-1][Transcription diplomatique]]
+        - [[./miroir-du-monde/bnf-fr-684/Rubriques-BnF-fr-684.xhtml#genesis_gn_1-1_pars][Rubrique du segment dans la table]]
 
     - Relation: ::
 
@@ -103,49 +107,3 @@ Instances des énoncés sur la Genèse
 	#+end_subsection
 
 #+end_section
-
-
-* COMMENT Exemple litéral
-
-
-#+begin_src html :tangle mdm_incipit.xhtml
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-<head>
-<meta charset="UTF-8" />
-<title>mdm_incipit_rel</title>
-<meta name="description" content="Fiches relationnelles sur les témoins du Miroir du Monde" />
-<base href="http://hu15.github.io/histoires-universelles-xv/" />
-<link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="./style/fonts.css" rel="stylesheet" type="text/css" media="all" />
-<link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
-</head>
-<body>
-<article class="content">
-<section id="incipit_rel" class="hu_rel">
-<header><p><cite>Miroir du monde</cite>: instances de l’<i>Incipit</i></p></header>
-<dl>
-  <dt>BnF fr 328:</dt>
-  <dd>
-	<ul>
-	<li><a href="http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image">http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.image</a></li>
-	<li><a href="./miroir-du-monde/bnf-fr-328/trans-bnf-fr-328.xhtml#incipit">Transcription diplomatique</a></li>
-	<li><a href="./miroir-du-monde/bnf-fr-328/rubriques-bnf-fr-328.xhtml#incipit_pars">Rubrique de l’<i>incipit</i> dans la table</a></li>
-    </ul>
-  </dd>
-</dl>
-<dl>
-  <dt>BnF fr 684:</dt>
-  <dd>
-    <ul>
-	<li><a href="http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image">http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.image</a></li>
-	<li><a href="./miroir-du-monde/bnf-fr-684/trans-bnf-fr-684.xhtml#incipit">Transcription diplomatique</a></li>
-	<li><a href="./miroir-du-monde/bnf-fr-684/Rubriques-BnF-fr-684.xhtml#incipit_pars">Rubrique de l’<i>incipit</i> dans la table</a></li>
-    </ul>
-  </dd>
-</dl>
-</section>
-</article>
-</body>
-</html>
-#+end_src
