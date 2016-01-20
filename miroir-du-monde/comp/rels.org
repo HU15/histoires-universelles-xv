@@ -45,8 +45,24 @@ Instances de l’{{{idiom-lat(incipit)}}}
 
 - BnF fr 684: ::
     - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
-    - Transcription diplomatique
-    - Rubrique de l’{{{idiom-lat(incipit)}}} dans la table
+    - [[./miroir-du-monde/bnf-fr-684/trans-bnf-fr-684.xhtml#incipit][Transcription diplomatique]]
+    - [[./miroir-du-monde/bnf-fr-684/Rubriques-BnF-fr-684.xhtml#incipit_pars][Rubrique de l’{{{idiom-lat(incipit)}}} dans la table]]
+
+- Relation: ::
+
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.item]] \\
+      [[./def/relations.xhtml#possède-rôle][possède le rôle]] \\
+      [[./def/relations.xhtml#rôle-incipit][incipit]]
+
+    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]] \\
+      [[./def/relations.xhtml#possède-rôle][possède le rôle]] \\
+      [[./def/relations.xhtml#rôle-incipit][incipit]]
+
+      --------
+
+	- [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.item]] \\
+	  [[./def/relations.xhtml#équivalent-en-rôle][équivalent en rôle]] \\
+	  [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
 
 #+end_section
 
@@ -67,6 +83,22 @@ Instances des énoncés sur la Genèse
 
 	- BnF fr 684: ::
 		- [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
+
+    - Relation: ::
+
+		- [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]] \\
+		  [[./def/relations.xhtml#th%C3%A9matisant][thématisant]] \\
+		  [[http://data.perseus.org/citations/urn:cts:greekLit:tlg0527.tlg001.perseus-lat1:1.1]]
+
+		- [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]] \\
+		  [[./def/relations.xhtml#thématisant][thématisant]] \\
+		  [[http://data.perseus.org/citations/urn:cts:greekLit:tlg0527.tlg001.perseus-lat1:1.1]]
+
+          --------
+
+        - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f11.item]] \\
+          [[./def/relations.xhtml#cor%C3%A9f%C3%A9rant-par-th%C3%A8me][coréférant par thème]] \\
+          [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
 
 	#+end_subsection
 
