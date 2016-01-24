@@ -50,21 +50,13 @@ Instances de l’{{{idiom-lat(incipit)}}}
 
 - Relation: ::
 
-    - [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.item]] \\
-      [[./def/relations.xhtml#poss%C3%A9dant-r%C3%B4le][possédant le rôle]] \\
-      [[./def/relations.xhtml#rôle-incipit][incipit]]
-
-    - [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]] \\
-      [[./def/relations.xhtml#poss%C3%A9dant-r%C3%B4le][possédant le rôle]] \\
-      [[./def/relations.xhtml#rôle-incipit][incipit]]
-
-      --------
-
-	- [[http://gallica.bnf.fr/ark:/12148/btv1b90582426/f9.item]] \\
-	  [[./def/relations.xhtml#équivalent-en-rôle][équivalent en rôle]] \\
-	  [[http://gallica.bnf.fr/ark:/12148/btv1b9058178g/f8.item]]
+	- [[./def/relations.xhtml#équivalent-en-rôle][équivalent en rôle]]
 
 #+end_section
+
+
+* COMMENT La fiche suivante servait à donner un exemple d’indexation thématique et ses identifiants ne sont pas opérants
+
 
 #+attr_html: :id genesis_rel :class hu_rel
 #+begin_section
