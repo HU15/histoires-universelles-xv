@@ -215,6 +215,19 @@ a img {
             width: auto;
         }
 
+/* Les deux règles suivantes empêchent la hauteur de ligne
+   de changer à cause des surcrits et souscrits. */
+sup, sub {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+	line-height: 0;
+}
+
+sub {
+	top: 0.4em;
+}
+
 /*********************************************************************************/
 /* Classes de listes et sélecteurs spécifiques                                   */
 /*********************************************************************************/
