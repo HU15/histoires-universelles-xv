@@ -1,6 +1,31 @@
 /*
 
-Sélecteurs d’éléments, de l’extérieur vers l’intérieur.
+Cette feuille de styles a été adaptée à partir d’un exemplaire «démo»
+développé par [Templated](templated.co). La feuille était au départ
+conçue pour un site dynamique avec un vocabulaire HTML4. Nous avons
+ajouté et modifié plusieurs règles afin de rendre la feuille optimale
+pour un site statique utilisant un vocabulaire HTML5 plus modulaire.
+Nous avons opté pour l’utilisation du module Flexbox en remplacement
+des `float` définis dans la feuille de départ. Certaines unités
+documentaires plus atomiques utilisent un mode de positionnement
+relatif et des éléments anonymes remplacés.
+
+La feuille est donc constituée de règles liées de près au balisage
+des éléments externes (héritées de Templated) et de règles plus
+flexibles définies pour nos éléments de contenu. Cela rend les
+éléments internes des pages relativement modulaires et il est aisé
+d’envisager une réutilisation des documents dans différents contextes
+de traitement.
+
+                                                 Christian Gagné
+
+                            * * *
+
+Ci-dessous, les sélecteurs d’éléments, de l’extérieur vers l’intérieur.
+Au bas de la feuille, on trouve de nouvelles classes ajoutées pour le
+modèle de contenu de notre projet. Ces classes «HU15» sont employées
+ci-dessous afin de sélectionner certains éléments dans un contexte plus
+spécifique lié au modèle de contenu HU15.
 
 */
 
@@ -188,7 +213,7 @@ a img {
         }
 
 /*********************************************************************************/
-/* List classes and specific selectors                                           */
+/* Classes de listes et sélecteurs spécifiques                                   */
 /*********************************************************************************/
 
 	ul.style1 {
@@ -224,50 +249,7 @@ a img {
 	}
 
 /*********************************************************************************/
-/* Social Icon Styles                                                            */
-/*********************************************************************************/
-
-	ul.contact {
-		margin: 0;
-		padding: 1.5em 0em 2.5em 0em;
-		list-style: none;
-	}
-	
-	ul.contact li {
-		display: inline-block;
-		padding: 0em 0.30em;
-		font-size: 1em;
-	}
-	
-	ul.contact li span {
-		display: none;
-		margin: 0;
-		padding: 0;
-	}
-	
-	ul.contact li a {
-		color: #FFF;
-	}
-	
-	ul.contact li a:before {
-		display: inline-block;
-		background: #3f3f3f;
-		width: 40px;
-		height: 40px;
-		line-height: 40px;
-		text-align: center;
-		color: #FFFFFF;
-	}
-	
-	ul.contact li a.icon-twitter:before { background: #2DAAE4; }
-	ul.contact li a.icon-facebook:before { background: #39599F; }
-	ul.contact li a.icon-dribbble:before { background: #C4376B;	}
-	ul.contact li a.icon-tumblr:before { background: #31516A; }
-	ul.contact li a.icon-rss:before { background: #F2600B; }
-
-
-/*********************************************************************************/
-/* Heading Titles                                                                */
+/* Titres en-têtes                                                               */
 /*********************************************************************************/
 
 	.title {
@@ -300,27 +282,28 @@ positionner les éléments imbriqués.
 }
 
 #footer-wrapper {
-	background: black;
+	display: none;
 }
 
 .container {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	-webkit-justify-content: center;
+	-webkit-align-items: flex-start;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
 	width: auto;
-    margin: 0 auto;
+	margin: 0 auto;
 }
 
 .clearfix {
 	clear: both;
 }
 
-
-/*********************************************************************************/
-/* Wrappers                                                                      */
-/*********************************************************************************/
-
 #header-wrapper {
-    overflow: hidden;
-    height: 128px;
-    padding: 2em 0em 2em 0em;
+    padding: 2em 0 2em 0;
     background: navy;
 }
 
@@ -331,9 +314,7 @@ positionner les éléments imbriqués.
 
 #header {
     position: relative;
-    overflow: hidden;
     text-align: center;
-    height: 128px;
 }
 
 /*********************************************************************************/
@@ -341,10 +322,7 @@ positionner les éléments imbriqués.
 /*********************************************************************************/
 
 	#logo {
-		width: 500px;
-		height: 100px;
-		margin: 0 auto;
-		padding: 2em 0em;
+		margin: auto;
 	}
 	
 	#logo h1 {
@@ -395,24 +373,19 @@ menu principal par page. L’élément sera nav au lieu de div.
 	display: flex;
 	-webkit-flex-direction: row;
 	flex-direction: row;
+	-webkit-flex: 1 0 auto;
+	flex: 1 0 auto;
 }
 
 #menu li {
-	margin: 0;
-	-webkit-flex: 1;
-	flex: 1;
-	display: -webkit-flex;
-	display: flex;
+	margin: auto;
+	text-align: center;
 }
 
 #menu a {
-	-webkit-flex: 1;
-	flex: 1;
-	margin: 0;
-	padding: 36px 0;
+	margin: auto;
 	letter-spacing: 1pt;
 	text-decoration: none;
-	text-align: center;
 	font-variant: small-caps;
 	font-size: 0.8em;
 	border: none;
@@ -473,15 +446,15 @@ dans dans des colonnes de contenu phrasé restreintes.
 */
 
 #content {
-	float: left;
-	width: 60%;
-	margin-left: 3em;
+	width: 48em;
+	margin: 0 auto;
+	padding: 0 1em;
 }
 
 .content {
-	float: left;
-	width: 60%;
-	margin-left: 3em;
+	width: 48em;
+	margin: 0 auto;
+	padding: 0 1em;
 }
 
 /*********************************************************************************/
@@ -498,19 +471,19 @@ nécessaire.
 
 */
 
-	#sidebar {
-		float: right;
-		width: 30%;
-		margin-right: 3em;
-	}
-	
-	#sidebar .title h2 {
-		font-size: 1.6em;
-	}
-	
-	#sidebar .box1 {
-		margin-bottom: 3em;
-	}
+#sidebar {
+	width: 24em;
+	margin: 0 auto;
+	padding: 0 1em;
+}
+
+#sidebar .title h2 {
+	font-size: 1.6em;
+}
+
+#sidebar .box1 {
+	margin-bottom: 3em;
+}
 
 
 /*********************************************************************************/
@@ -519,18 +492,12 @@ nécessaire.
 
 #copyright-wrapper {
 	background: white;
-    width: 100%;
-    height: 100px;
+	height: 120px;
 }
 
 	#copyright {
-		width: 40%;
-		margin: 0 auto;
-		overflow: hidden;
-		padding-top: 10em;
-		padding-bottom: 5em;
-		padding-left: 5em;
-		padding-right: 5em;
+		margin: auto;
+		padding: 9em 3em 3em 3em;
 	}
 
 	#copyright p {
@@ -540,6 +507,8 @@ nécessaire.
 		font-variant: small-caps;
 		font-size: 0.8em;
 		color: gray;
+		padding: 1em;
+		max-width: 28em;
 	}
 	
 	#copyright a {
@@ -548,7 +517,7 @@ nécessaire.
 	}
 
 /*********************************************************************************/
-/* Welcome                                                                       */
+/* Welcome (non employé dans le design actuel)                                   */
 /*********************************************************************************/
 
 	#welcome {
@@ -577,7 +546,7 @@ nécessaire.
 	}
 
 /*********************************************************************************/
-/* Portfolio                                                                     */
+/* Portfolio (non employé dans le design actuel)                                 */
 /*********************************************************************************/
 
 	#portfolio-wrapper {
@@ -622,7 +591,7 @@ nécessaire.
 	}
 	
 /*********************************************************************************/
-/* Button Style                                                                  */
+/* Button Style (non employé dans le design actuel)                              */
 /*********************************************************************************/
 
 	.button {
