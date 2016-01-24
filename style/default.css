@@ -158,6 +158,9 @@ li p {
 }
 
 article ul li {
+	/* Ceci est une amélioration
+	 progressive et son absence
+     n’a pas d’effet négatif. */
 	list-style-type: '– ';
 }
 
@@ -175,7 +178,7 @@ article li a,
 article dt a,
 article dd a,
 article blockquote a {
-	text-decoration: underline grey;
+	text-decoration: underline;
 }
 
 a img {
