@@ -2,12 +2,15 @@
 
 tei {
     display: block;
-    margin: 0.5em;
     max-width: 40em;
 }
 
 tei[rend="transcript"] {
 	white-space: pre-wrap;
+}
+
+tei header {
+	font-weight: bold;
 }
 
 list {
@@ -16,6 +19,7 @@ list {
 
 item {
     display: list-item;
+	list-style-type: '– ';
 }
 
 /* Règles concernant les transcriptions des manuscrits */
@@ -137,7 +141,7 @@ settlement {
 
     settlement:first-of-type::before {
         display: inline;
-        content: 'Localité: ';
+        content: ' ';
         color: gray;
     }
 
@@ -157,7 +161,7 @@ repository {
 
     repository:first-of-type::before {
         display: inline;
-        content: 'Dépôt: ';
+        content: ' ';
         color: gray;
     }
 
@@ -177,7 +181,7 @@ collection {
 
     collection:first-of-type::before {
         display: inline;
-        content: 'Collection: ';
+        content: ' ';
         color: gray;
     }
 
@@ -197,7 +201,7 @@ idno {
 
     idno:first-of-type::before {
         display: inline;
-        content: 'Numéro identifiant: ';
+        content: ' ';
         color: gray;
     }
 
@@ -227,7 +231,7 @@ publisher {
 
     publisher:first-of-type::before {
         display: inline;
-        content: 'Éditeur: ';
+        content: ' ';
         color: gray;
     }
 
@@ -247,7 +251,7 @@ pubPlace {
 
     pubPlace:first-of-type::before {
         display: inline;
-        content: 'Lieu de publication: ';
+        content: ' ';
         color: gray;
     }
 
@@ -267,7 +271,7 @@ date {
 
     date:first-of-type::before {
         display: inline;
-        content: 'Date: ';
+        content: ' ';
         color: gray;
     }
 
