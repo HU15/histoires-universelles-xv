@@ -18,8 +18,7 @@ list {
 }
 
 item {
-    display: list-item;
-	list-style-type: '– ';
+    display: block;
 }
 
 /* Règles concernant les transcriptions des manuscrits */
