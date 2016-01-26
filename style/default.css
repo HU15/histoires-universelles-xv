@@ -297,10 +297,6 @@ positionner les éléments imbriqués.
 	background: #FFF;
 }
 
-#footer-wrapper {
-	display: none;
-}
-
 .container {
 	display: -webkit-flex;
 	display: flex;
