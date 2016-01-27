@@ -725,6 +725,11 @@ permettent.
 	position: relative;
 }
 
+tei .hu_rel {
+    position: absolute;
+    right: -8em;
+}
+
 /* Dans les fiches relationnelles, les hyperliens sont
 démarqués différemment parce qu’ils sont utilisés comme
 référants au sens du modèle de données RDF. Les délimiteurs

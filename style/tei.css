@@ -3,6 +3,7 @@
 tei {
     display: block;
     max-width: 40em;
+    position: relative;
 }
 
 tei[rend="transcript"] {
@@ -116,6 +117,10 @@ g[type="exposant"] {
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
+}
+
+g[type="pied-de-mouche"]::before {
+    content: '❡';
 }
 
 /* Règles concernant la description des corpus */
