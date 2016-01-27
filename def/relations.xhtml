@@ -50,7 +50,16 @@
 	  <dt>personnage</dt>
 	  <dd>
 		<p>Un <a href="./def/relations.xhtml#personnage">personnage</a> est ici défini largement comme une entité narrative agissante, capable de discours ou considérée comme une personne. Cela inclut donc les personnages historiques, les divinités, les figures allégoriques etc.</p>
-	  	<p>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p>
+	  	<p>L’application de cet <em>objet</em> à une ressource <em>sujet</em> peut être faite par un prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>; cette application doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p>
+	  </dd>
+	</dl>
+
+  <section id="lieu" class="hu_rel">
+	<dl>
+	  <dt>lieu</dt>
+	  <dd>
+		<p>Un <a href="./def/relations.xhtml#lieu">lieu</a> est ici défini largement comme une étendue géographique, une entité politique à laquelle correspond un espace géographique, ou encore un endroit dont la localisation est indéterminée, par exemple <i>les Cieux</i> au sens biblique.</p>
+	  	<p>L’application de cet <em>objet</em> à une ressource <em>sujet</em> peut être faite par un prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>; cette application doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p>
 	  </dd>
 	</dl>
 
@@ -74,6 +83,26 @@
 		<p>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p></dd>
 	</dl>
 
+  </section>
+
+  <section id="mentionnant" class="hu_rel">
+
+	<dl>
+	  <dt>mentionnant</dt>
+	  <dd><p>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#mentionnant">mentionnant</a> si, dans l’énoncé, un segment bien délimité du texte et correspondant à la ressource employée comme <em>sujet</em> constitue une mention de la ressource employée comme <em>objet</em> de l’énoncé. Ce prédicat sert donc à affirmer qu’un segment de texte est une occurrence d’un nom propre (soit <a href="./def/relations.xhtml#personnage">personnage</a>, <a href="./def/relations.xhtml#lieu">lieu</a> etc.) auquel on a attribué un identifiant stable. Le terme neutre <em>mention</em> est utilisé parce qu’il permet d’attribuer le prédicat avec un minimum d’hypothèses sur le statut de l’occurence: que le segment de texte <em>réfère</em> ou non à ce que la séquence de ses caractères semble signifier, on peut avec sûreté affirmer que le segment agit comme <em>mention</em> d’un nom propre donné.</p>
+		<p>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p></dd>
+	</dl>
+
+  </section>
+
+  <section id="équivalent-par-mention" class="hu_rel">
+
+	<dl>
+	  <dt>équivalent par mention</dt>
+	  <dd><p>Ce prédicat indique que les deux ressources, le sujet et l’objet (qui doivent être deux segments de texte bien délimités), contiennent une mention de la même entité (soit <a href="./def/relations.xhtml#personnage">personnage</a>, <a href="./def/relations.xhtml#lieu">lieu</a> etc.) et sont ainsi considérés équivalents de par ce qu’ils mentionnent. En d’autres termes, les deux segments contiennent une occurrence de la même entité préalablement identifiée par une ressource stable.</p>
+		<p>Ce prédicat s’applique à la plus petite unité narrative à laquelle la mention a été attribuée. Si tous les segments d’une séquence contiennent les mêmes mentions, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat d’équivalence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées. Par exemple, on pourrait se servir d’une telle tentative d’induction pour faire correspondre deux segments où les chevaliers du roi Arthur sont nommés et, ainsi, déterminer quelles sous-séquences de noms sont équivalentes et lesquelles diffèrent sémantiquement.</p>
+	  </dd>
+	</dl>
   </section>
 
   <section id="équivalent-en-rôle" class="hu_rel">
