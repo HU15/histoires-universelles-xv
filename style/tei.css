@@ -152,7 +152,7 @@ settlement {
 
     settlement::after {
         display: inline;
-        content: ';';
+        content: ',';
     }
 
     settlement:last-child::after {
@@ -172,7 +172,7 @@ repository {
 
     repository::after {
         display: inline;
-        content: ';';
+        content: ',';
     }
 
     repository:last-child::after {
@@ -192,7 +192,7 @@ collection {
 
     collection::after {
         display: inline;
-        content: ';';
+        content: ',';
     }
 
     collection:last-child::after {
@@ -212,7 +212,7 @@ idno {
 
     idno::after {
         display: inline;
-        content: ';';
+        content: ',';
     }
 
     idno:last-child::after {
@@ -242,7 +242,7 @@ publisher {
 
     publisher::after {
         display: inline;
-        content: ';';
+        content: ',';
     }
 
     publisher:last-child::after {
@@ -262,7 +262,7 @@ pubPlace {
 
     pubPlace::after {
         display: inline;
-        content: ';';
+        content: ',';
     }
 
     pubPlace:last-child::after {
@@ -282,7 +282,7 @@ date {
 
     date::after {
         display: inline;
-        content: '; ';
+        content: ',';
     }
 
     date:last-child::after {
@@ -292,7 +292,13 @@ date {
 
 bibl cite::after,
 msDesc cite::after {
-    content: ';';
+    content: ',';
+    font-style: normal;
+}
+
+bibl cite:last-child::after,
+msDesc cite:last-child::after {
+    content: '.';
     font-style: normal;
 }
 
