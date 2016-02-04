@@ -768,4 +768,5 @@ des homonymes; on peut aussi ajouter des attributs `title`. */
 .hu_nom-auteur {
 	background: transparent;
 	font-variant: small-caps;
+	color: currentcolor;
 }

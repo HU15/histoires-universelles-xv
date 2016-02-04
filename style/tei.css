@@ -226,7 +226,7 @@ altIdentifier {
 
     altIdentifier::before {
         display: inline-block;
-        content: '[Identifiant alternatif]';
+        content: '[id. alt.]';
         color: gray;
     }
 
