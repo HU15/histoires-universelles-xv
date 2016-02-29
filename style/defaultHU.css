@@ -458,13 +458,13 @@ dans dans des colonnes de contenu phrasé restreintes.
 */
 
 #content {
-	width: 36em;
+	width: 100%;
 	margin: 0 auto;
 	padding: 0 1em;
 }
 
 .content {
-	width: 36em;
+	width: 100%;
 	margin: 0 auto;
 	padding: 0 1em;
 }
