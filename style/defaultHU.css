@@ -458,40 +458,17 @@ dans dans des colonnes de contenu phrasé restreintes.
 */
 
 #content {
-	width: 100%;
+	width: 36%;
 	margin: 0 auto;
 	padding: 0 1em;
 }
 
 .content {
-	width: 100%;
+	width: 36%;
 	margin: 0 auto;
 	padding: 0 1em;
 }
 
-
-section {
-  width: 100%;
-}
-
-article {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  padding: 1rem;
-  text-align: center;
-  transform: translate(-50%, -50%);
-}
-
-    
-.left-half {
-  float: left;
-  width: 50%;
-}
-.right-half {
-  float: left;
-  width: 50%;
-}
 
 /*********************************************************************************/
 /* Sidebar                                                                       */
