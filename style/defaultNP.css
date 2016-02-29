@@ -275,7 +275,7 @@ sub {
 	.title h2 {
 		font-weight: 400;
 		font-size: 2em;
-		color: mediumblue;
+		color: steelblue;
 	}
 	
 	.title .byline {
