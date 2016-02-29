@@ -358,8 +358,8 @@ positionner les éléments imbriqués.
 
 	#banner {
 		overflow: hidden;
-		height: 400px;
-		background: url("NeufPreux1.png") no-repeat center;
+		height: 500px;
+		background: url("Capture.png") no-repeat center;
 		background-attachment: fixed;
 		background-size: cover;
 	}
