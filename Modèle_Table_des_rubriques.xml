@@ -1,0 +1,22 @@
+<tei xmlns="http://www.tei-c.org/ns/1.0/" rend="transcript">
+
+<header>Table des rubriques – MODÈLE</header>
+
+<pb n="..." /> <cb n="..." />
+<rubric>...</rubric>
+
+<pb n="..." /> <cb n="..." />
+<rubric>...</rubric>
+
+<pb n="..." /> <cb n="..." />
+<rubric>...</rubric>
+
+<pb n="..." /> <cb n="..." />
+<rubric>...</rubric>
+
+<pb n="..." /> <cb n="..." />
+<rubric>...</rubric>
+
+etc. 
+
+</tei>

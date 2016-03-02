@@ -1,6 +1,6 @@
 BnF fr. 684
 
-# Signalisation
+### Signalisation
 
 Titre du manuscrit tel que répertorié par la BnF : «Le miroer du monde ouquel est contenu plusieurs hystoires», chronique universelle, depuis la création jusqu'à la venue de J.-C.
 	
@@ -30,7 +30,7 @@ Support : Vélin (selon la BnF / Gallica et P. Paris)
 * * *
 
 
-# Description codicologique
+### Description codicologique
 
 Dimensions du manuscrit :  
 
@@ -104,7 +104,7 @@ Le premier folio présente, dans les marges, des éléments pouvant potentiellem
 * * *
 
 
-# Contenu
+### Contenu
 
 #### Identification 
 
@@ -177,7 +177,7 @@ Corrections et suppressions : Aucune.
 * * *
 
 
-# Décorations
+### Décorations
 
 La décoration est bien conservée : la peinture n'est pas écaillée ou effacée et les couleurs sont encore très vives.
 
@@ -250,7 +250,7 @@ Voir section du site à cet effet.
 * * *
 
 
-# Reliure
+### Reliure
 
 Date : Reliure d'origine (selon Anne Rochebouet – information à confirmer). 
 
@@ -262,7 +262,7 @@ Décorations et autres renseignements : ?
 * * *
 
 
-# Histoire du manuscrit
+### Histoire du manuscrit
 
 #### Origine paléographique
 
@@ -293,13 +293,13 @@ Possesseurs :
 * * *
 
 
-# Localisation de la planche (folio du manuscrit reproduit)
+### Localisation de la planche (folio du manuscrit reproduit)
 
 
 * * *
 
 
-# Bibliographie du manuscrit
+### Bibliographie du manuscrit
 
 #### Recensions et notices
 

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="UTF-8" />
+<title>Définitions pour modélisation RDF</title>
+<meta name="description" content="Définitions des relations utilisées dans le site HU15 pour inférences sur le modèle RDF" />
+<base href="http://hu15.github.io/histoires-universelles-xv/" />
+<link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="wrapper">
+
+<header id="menu-wrapper">
+	<nav id="menu" class="container">
+		<ul>
+			<li><a href="./index.xhtml">Accueil</a></li>
+			<li><a href="./Textes.xhtml">Textes</a></li>
+			<li><a href="./manuscrits.xhtml">Manuscrits</a></li>
+			<li><a href="./fiches.xhtml">Fiches</a></li>
+			<li><a href="./rubriques.xhtml">Tables des rubriques</a></li>
+			<li><a href="./illustrations.xhtml">Tables des illustrations</a></li>
+			<li><a href="./transcriptions.xhtml">Transcriptions</a></li>
+			<li><a href="./equipe.xhtml">Équipe</a></li>
+		</ul>
+	</nav>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href=".">H(istoires) U(niverselles) 15</a></h1>
+		</div>
+	</div>
+</div>
+</header>
+
+<div id="page" class="container">
+<article id="content">
+<header class="title">
+	<h2>Relations définies sur le corpus</h2>
+</header>
+
+<section>
+
+  <p>Les entités et relations définies ci-dessous s’appliquent au corpus du projet selon des critères interprétatifs, c’est-à-dire que leur application initiale nécessite le travail d’un <em>lecteur</em> ayant l’intelligence du texte. Certaines des relations peuvent être appliquées par un système déductif. Dans la présente définition, les entités et relations correspondent aux principes du modèle de données abstrait RDF et possèdent des URL non persistants mais déréférençables.</p>
+  <p>Il est possible, pour un utilisateur tiers, d’effectuer à partir de ces définitions un <em>alignement</em> (au sens où l’entend le projet <a href="http://data.bnf.fr/">data.BnF.fr</a>) sur un modèle de données contrôlé à l’externe et possédant des identifiants persistants. Les ressources textuelles externes employées dans les énoncés possèdent, pour leur part, des URI persistants, et servent de pierres de touche aux énoncés présents sur ce site.</p>
+
+  <section id="personnage" class="hu_rel">
+
+	<dl>
+	  <dt>personnage</dt>
+	  <dd>
+		<p>Un <a href="./def/relations.xhtml#personnage">personnage</a> est ici défini largement comme une entité narrative agissante, capable de discours ou considérée comme une personne. Cela inclut donc les personnages historiques, les divinités, les figures allégoriques etc.</p>
+	  	<p>L’application de cet <em>objet</em> à une ressource <em>sujet</em> peut être faite par un prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>; cette application doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p>
+	  </dd>
+	</dl>
+
+  </section>
+
+  <section id="lieu" class="hu_rel">
+
+	<dl>
+	  <dt>lieu</dt>
+	  <dd>
+		<p>Un <a href="./def/relations.xhtml#lieu">lieu</a> est ici défini largement comme une étendue géographique, une entité politique à laquelle correspond un espace géographique, ou encore un endroit dont la localisation est indéterminée, par exemple <i>les Cieux</i> au sens biblique.</p>
+	  	<p>L’application de cet <em>objet</em> à une ressource <em>sujet</em> peut être faite par un prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>; cette application doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p>
+	  </dd>
+	</dl>
+
+  </section>
+
+  <section id="incipit" class="hu_rel">
+
+	<dl>
+	  <dt>incipit</dt>
+	  <dd><p>Un <a href="./def/relations.xhtml#incipit">incipit</a> est ici défini comme une entité diégétique (narrative) pouvant être attribuée comme rôle à un segment de texte. Un segment de texte agit comme <a href="./def/relations.xhtml#incipit">incipit</a> si ce segment est situé au tout début d’une unité narrative et contient une référence explicite aux éléments narratifs subséquents.</p>
+		<p>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p></dd>
+	</dl>
+
+  </section>
+
+  <section id="possédant-rôle" class="hu_rel">
+
+	<dl>
+	  <dt>possédant le rôle</dt>
+	  <dd><p>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a> si, dans l’énoncé, l’objet peut être attribué comme rôle au sujet. «Rôle» est ici entendu au sens diégétique large.</p>
+		<p>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p></dd>
+	</dl>
+
+  </section>
+
+  <section id="mentionnant" class="hu_rel">
+
+	<dl>
+	  <dt>mentionnant</dt>
+	  <dd><p>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#mentionnant">mentionnant</a> si, dans l’énoncé, un segment bien délimité du texte et correspondant à la ressource employée comme <em>sujet</em> constitue une mention de la ressource employée comme <em>objet</em> de l’énoncé. Ce prédicat sert donc à affirmer qu’un segment de texte est une occurrence d’un nom propre (soit <a href="./def/relations.xhtml#personnage">personnage</a>, <a href="./def/relations.xhtml#lieu">lieu</a> etc.) auquel on a attribué un identifiant stable. Le terme neutre <em>mention</em> est utilisé parce qu’il permet d’attribuer le prédicat avec un minimum d’hypothèses sur le statut de l’occurence: que le segment de texte <em>réfère</em> ou non à ce que la séquence de ses caractères semble signifier, on peut avec sûreté affirmer que le segment agit comme <em>mention</em> d’un nom propre donné.</p>
+		<p>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p></dd>
+	</dl>
+
+  </section>
+
+  <section id="équivalent-par-mention" class="hu_rel">
+
+	<dl>
+	  <dt>équivalent par mention</dt>
+	  <dd><p>Ce prédicat indique que les deux ressources, le sujet et l’objet (qui doivent être deux segments de texte bien délimités), contiennent une mention de la même entité (soit <a href="./def/relations.xhtml#personnage">personnage</a>, <a href="./def/relations.xhtml#lieu">lieu</a> etc.) et sont ainsi considérés équivalents de par ce qu’ils mentionnent. En d’autres termes, les deux segments contiennent une occurrence de la même entité préalablement identifiée par une ressource stable.</p>
+		<p>Ce prédicat s’applique à la plus petite unité narrative à laquelle la mention a été attribuée. Si tous les segments d’une séquence contiennent les mêmes mentions, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat d’équivalence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées. Par exemple, on pourrait se servir d’une telle tentative d’induction pour faire correspondre deux segments où les chevaliers du roi Arthur sont nommés et, ainsi, déterminer quelles sous-séquences de noms sont équivalentes et lesquelles diffèrent sémantiquement.</p>
+	  </dd>
+	</dl>
+
+  </section>
+
+  <section id="équivalent-en-rôle" class="hu_rel">
+
+	<dl>
+	  <dt>équivalent en rôle</dt>
+	  <dd><p>S’il a été précédemment énoncé que deux ressources possèdent le même rôle par application du prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>, alors on peut déduire que les deux ressources possèdent un rôle équivalent et on peut leur appliquer le prédicat <a href="./def/relations.xhtml#équivalent-en-rôle">équivalent en rôle</a>.</p>
+		<p>Ce prédicat s’applique à la plus petite unité narrative à laquelle le rôle a été attribué. Si tous les segments d’une séquence possèdent les mêmes rôles, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat d’équivalence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées.</p></dd>
+	</dl>
+
+  </section>
+
+  <hr/>
+
+  <p>L’application des relations suivantes implique un travail n’entrant pas directement dans la portée du projet actuel; ces définitions sont données à titre d’exemple.</p>
+
+  <section id="thématisant" class="hu_rel">
+
+	<dl>
+	  <dt>thématisant</dt>
+	  <dd><p>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#thématisant">thématisant</a> si, dans l’énoncé, l’objet peut être attribué comme thème au sujet. «Thème» est ici entendu au sens diégétique large et peut référer à des événements, des actions, des personnes, des lieux etc. La relation est conçue comme asymétrique, c’est-à-dire que le thème de l’objet est considéré comme antérieur ou paradigmatique par rapport au thème du sujet. Cela permet d’utiliser comme objet une ressource stable et bien comprise, par exemple un passage de la Bible dans une édition de référence et possédant un identifiant persistant.</p>
+		<p>Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</p></dd>
+	</dl>
+
+  </section>
+
+  <section id="coréférant-par-thème" class="hu_rel">
+
+	<dl>
+	  <dt>coréférant par thème</dt>
+	  <dd><p>S’il a été précédemment énoncé que deux ressources possèdent le même thème par application du prédicat <a href="./def/relations.xhtml#thématisant">thématisant</a>, alors on peut déduire que les deux ressources possèdent une référence thématique commune et on peut leur appliquer le prédicat <a href="./def/relations.xhtml#coréférant-par-thème">coréférant par thème</a>.</p>
+		<p>Ce prédicat s’applique à la plus petite unité narrative à laquelle le thème a été attribué. Si tous les segments d’une séquence possèdent les mêmes thèmes, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat de coréférence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées.</p></dd>
+	</dl>
+
+  </section>
+
+  <p><em>Définitions par Christian Gagné</em></p>
+</section>
+
+</article>
+
+</div>
+</div>
+
+<div id="copyright-wrapper">
+<div id="copyright" class="container">
+<p>Ce projet est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons Attribution, Partage dans les mêmes conditions 4.0</a>.</p>
+<p>Photo: détail, <a href="#">BnF, fr. 328, fol. 32r</a> | Base du design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+</div>
+</div>
+</body>
+</html>

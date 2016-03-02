@@ -142,7 +142,8 @@ Pieds-de-mouche dorés et bleus, bouts-de-ligne en or, bleu et rouge (selon Stut
 
 Une seule enluminure pleine page : 1r (selon Stutzmann/Tylus).
 
-- Frontispice divisé en six compartiments représentant diverses étapes de la Création :       
+- Frontispice divisé en six compartiments représentant diverses étapes de la Création :
+
 	1. Le Créateur au début de son oeuvre, un compas à la main     
 	2. La création des animaux de la mer      
 	3. La création des animaux terrestres     
