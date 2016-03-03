@@ -4,6 +4,8 @@ Biblioteka Jagiellonska (Bibliothèque Jagellone), Gall. f° 0129
 
 Titre du manuscrit tel que répertorié dans Jonas  : «Miroir des histoires du monde» 
 
+http://jbc.bj.uj.edu.pl/dlibra/doccontent?id=183
+
 Ville : Berlin
 
 Dépôt : Biblioteka Jagiellonska (Bibliothèque Jagellone)
