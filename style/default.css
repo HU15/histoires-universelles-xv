@@ -770,3 +770,12 @@ des homonymes; on peut aussi ajouter des attributs `title`. */
 	font-variant: small-caps;
 	color: currentcolor;
 }
+
+
+/* */
+g { 
+    vertical-align: super;
+    font-size: smaller;
+}
+
+
