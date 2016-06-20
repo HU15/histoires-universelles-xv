@@ -726,9 +726,13 @@ permettent.
 }
 
 .hu_enonce {
-	border-left: 2px outset gray;
 	border-radius: 0px 5px 5px 0px;
-	background: rgb(236, 236, 255);
+	background: rgba(236, 236, 255, 0.66);
+}
+
+/* Pourrait être une classe, mais l’élément `kbd` convient bien: */
+kbd {
+	background: rgba(255, 255, 196, 0.66);
 }
 
 tei .hu_rel {
