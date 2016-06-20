@@ -725,32 +725,39 @@ permettent.
 	position: relative;
 }
 
+.hu_enonce {
+	border-left: 2px outset gray;
+	border-radius: 0px 5px 5px 0px;
+	background: rgb(236, 236, 255);
+}
+
 tei .hu_rel {
     position: absolute;
     right: -8em;
 }
 
-/* Dans les fiches relationnelles, les hyperliens sont
-démarqués différemment parce qu’ils sont utilisés comme
-référants au sens du modèle de données RDF. Les délimiteurs
-utilisés se nomment communément «coins de Quine» et 
-servent à la quasi-citation, ce qui convient bien aux URI
-qui peuvent être déréférençables ou non selon le cas. */
-.hu_rel a {
+/* Dans les fiches relationnelles et les énoncés RDF,
+les hyperliens sont démarqués différemment parce qu’ils
+sont utilisés comme référants au sens du modèle de données
+RDF. Les délimiteurs utilisés se nomment communément
+«coins de Quine» et servent à la quasi-citation, ce qui
+convient bien aux URI qui peuvent être déréférençables
+ou non selon le cas. */
+.hu_rel a, .hu_enonce a {
 	text-decoration: none;
 }
 
-.hu_rel a::before {
+.hu_rel a::before, .hu_enonce a::before {
 	content: '⌜';
 	padding-right: 0.15em;
 }
 
-.hu_rel a::after {
+.hu_rel a::after, .hu_enonce a::after {
 	content: '⌟';
 	padding-left: 0.15em;
 }
 
-.hu_rel a:hover {
+.hu_rel a:hover, .hu_enonce a:hover {
     background: rgb(196, 196, 255);
 }
 
