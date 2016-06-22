@@ -736,9 +736,11 @@ kbd {
 }
 
 .hu_repro {
-	background: rgba(255, 255, 196, 1);
-	border-left: 2px outset gray;
-	border-right: 2px outset gray;
+	background: rgb(255, 242, 242);
+	max-width: 24em;
+	margin-left: 2.5em;
+	padding: 1ex;
+	text-align: center;
 }
 
 tei .hu_rel {
