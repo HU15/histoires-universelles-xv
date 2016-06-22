@@ -1,0 +1,40 @@
+#+author: Christian Gagné
+#+title: Modalités de contribution au projet
+
+#+LANGUAGE: fr
+#+OPTIONS: H:10
+#+OPTIONS: toc:nil
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:t tex:t
+#+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> (<a href="http://orgmode.org">Org</a> mode)
+#+HTML_DOCTYPE: xhtml5
+#+HTML_CONTAINER: section
+#+HTML_HEAD: <base href="http://hu15.github.io/histoires-universelles-xv/" />
+#+HTML_HEAD: <link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
+#+HTML_HEAD: <link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
+#+HTML_HEAD_EXTRA:
+#+HTML_LINK_UP:
+#+OPTIONS: tex:dvipng
+#+INFOJS_OPT:
+#+LATEX_HEADER: \usepackage{microtype}
+
+
+# Macros de niveau bloc:
+#+macro: hu_heading-sect @@html:<h3>@@$1@@html:</h3>@@
+
+# Macros de niveau ligne:
+#+macro: em @@html:<em>@@$1@@html:</em>@@
+#+macro: cite @@html:<cite>@@@@latex:\emph{@@$1@@latex:}@@@@html:</cite>@@
+#+macro: linecite (@@latex:\cite[$2]@@@@html:<cite>@@@@latex:{@@$1@@latex:}@@@@html:, $2</cite>@@)
+#+macro: autocite @@latex:\autocite[@@$2@@latex:]{@@$1@@latex:}@@
+#+macro: idiom-lat @@html:<i lang="lat">@@$1@@html:</i>@@
+
+* Architecture d’information du projet
+
+L’objet principal du projet HU15 est la mise en contexte et la présentation de textes médiévaux. Mise en contexte, car la codicologie des textes est considérée; présentation, car les textes sont {{{em(reproduits)}}} au sens fort du terme, étant transcrits dans le respect de leur forme et de leur grammaire d’origine.
+
+Il existe des pratiques déjà bien établies pour la transcription électronique de manuscrits, l’élément technique le plus important étant la [[http://www.tei-c.org/index.xml][Text Encoding Initiative (TEI)]]. En abordant notre projet, nous avons pu profiter d’excellents exemples de mise en oeuvre des recommandations TEI, entre autres la [[http://txm.bfm-corpus.org/bfm][Base du Français Médiéval]] et le [[http://www.perseus.tufts.edu/hopper/][projet Perseus]]. Nous avons appliqué l’{{{em(esprit)}}} de la Text Encoding Initiative en tant que communauté de pratique, afin de créer une plateforme à la mesure de nos visées particulières.
+
+* Comment contribuer au contenu
+
