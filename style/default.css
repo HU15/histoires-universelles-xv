@@ -735,6 +735,12 @@ kbd {
 	background: rgba(255, 255, 196, 0.66);
 }
 
+.hu_repro {
+	background: rgba(255, 255, 196, 1);
+	border-left: 2px outset gray;
+	border-right: 2px outset gray;
+}
+
 tei .hu_rel {
     position: absolute;
     right: -8em;
