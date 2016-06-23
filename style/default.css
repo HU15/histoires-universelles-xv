@@ -715,6 +715,13 @@ permettent.
 	position: relative;
 }
 
+.hu_rel p,
+.hu_rel li,
+.hu_rel dd,
+.hu_rel blockquote {
+	text-align: left;
+}
+
 .hu_rel {
 	border-left: 2px outset gray;
 	border-radius: 0px 5px 5px 0px;
@@ -736,11 +743,17 @@ kbd {
 }
 
 .hu_repro {
+	display: -webkit-flex;
+	display: flex;
+}
+
+.hu_repro img {
 	background: white;
-	max-width: 24em;
-	margin-left: 2.5em;
+	margin-left: 0em;
 	padding: 1ex;
 	text-align: center;
+	-webkit-flex: 1 0 auto;
+	flex: 1 0 auto;
 }
 
 tei .hu_rel {
