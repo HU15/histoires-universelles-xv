@@ -42,9 +42,8 @@
 
 <section>
 
-<section id="outline-container-orgheadline1" class="outline-2">
-<h3 id="orgheadline1">Architecture d’information du projet</h3>
-<div class="outline-text-2" id="text-1">
+<h3>Architecture d’information du projet</h3>
+
 <p>
 L’objet principal du projet HU15 est la mise en contexte et la présentation de textes médiévaux. Mise en contexte, car la codicologie des textes est considérée; présentation, car les textes sont <em>reproduits</em> au sens fort du terme, étant transcrits dans le respect de leur forme et de leur grammaire d’origine.
 </p>
@@ -52,12 +51,44 @@ L’objet principal du projet HU15 est la mise en contexte et la présentation d
 <p>
 Il existe des pratiques déjà bien établies pour la transcription électronique de manuscrits, l’élément technique le plus important étant la <a href="http://www.tei-c.org/index.xml">Text Encoding Initiative (TEI)</a>. En abordant notre projet, nous avons pu profiter d’excellents exemples de mise en oeuvre des recommandations TEI, entre autres la <a href="http://txm.bfm-corpus.org/bfm">Base du Français Médiéval</a> et le <a href="http://www.perseus.tufts.edu/hopper/">projet Perseus</a>. Nous avons appliqué l’<em>esprit</em> de la Text Encoding Initiative en tant que communauté de pratique, afin de créer une plateforme à la mesure de nos visées particulières.
 </p>
-</div>
-</section>
 
-<section id="outline-container-orgheadline2" class="outline-2">
-<h3 id="orgheadline2">Comment contribuer au contenu</h3>
-</section>
+<p>
+Dans les premiers temps du projet, les documents rédigés furent d’abord des fiches codicologiques et des notices bibliographiques. Les rédacteurs ont été initiés au format Markdown, qui à l’époque était déjà bien établi dans de nombreuses applications Web. Étant donné que l’imprimé n’était pas visé et que le processus éditorial devait être aussi léger que possible, LaTeX ne fut pas retenu comme format de rédaction pour les fiches et transcriptions. Cependant, l’influence du système TeX se fait sentir en plusieurs endroits du projet.
+</p>
+
+<p>
+Quand vint le temps de choisir un format de transcription des manuscrits, plusieurs exemples d’utilisation de la TEI furent examinés. Dans le même temps, le mode de publication du site Web fut choisi. Le choix du vocabulaire TEI informa alors celui de l’organisation du site Web: puisqu’il était question d’écrire du XML «à la main» et de le publier le plus directement possible, sans système de gestion de base de données ou autre intermédiaire, une certaine direction technique s’imposait naturellement. C’était à l’époque où GitHub devenait de plus en plus utilisé pour des projets dans les humanités, même lorsqu’il n’était pas question de programmation. Nous avons donc créé un dépot sur GitHub pour le projet, avec une branche <code>gh-pages</code>, afin de publier un site statique sur le service GitHub Pages.
+</p>
+
+<p>
+Utiliser un système distribué de contrôle des versions présente de nombreux avantages pour la rédaction et la publication sur le Web. Ces avantages sont à la fois d’ordre pratique et cognitif: l’ensemble des contributions est conservé sur de nombreux appareils, chaque ajout est attribué et accompagné de sa raison dans l’historique du dépôt et les rédacteurs peuvent itérer sur le contenu et voir l’évolution de leur item en consultant les entrées de l’historique, ce qui invite à une grande honnêteté intellectuelle.
+</p>
+
+<p>
+Les sites statiques ont la cote et à bon droit: ils sont rapides, sécuritaires et légers. Le nôtre est particulier, puisqu’il contient des textes en TEI, des textes rédigés en Markdown puis convertis en HTML, et même plusieurs textes rédigés directement en HTML. Après avoir été initiés au vocabulaire TEI, les contributeurs voulaient librement en utiliser les balises dans leurs fiches. De plus, certains affirmaient alors préférer rédiger directement en HTML ou XML sans passer par Markdown, trouvant le format intermédiaire redondant. Nous avons reconnu qu’il s’agissait d’une bonne intuition – et d’un cas qui serait très intéressant pour les spécialistes de l’utilisabilité logicielle.
+</p>
+
+<p>
+Dans la mesure où la TEI n’est pas une norme unique mais bien un ensemble de recommandations et de pratiques éprouvées, nous avons donc testé une approche minimaliste de sa mise en oeuvre dans le cadre de notre site statique. Les items en TEI sont stylés directement en CSS et affichés au fil des pages, sans être convertis en HTML. La recommandation HTML5, lorsqu’elle est combinée à une sérialisation en XHTML, permet cela sans problème grâce aux espaces de noms XML. Nous avons donc un fichier <code>tei.css</code> contenant les règles de l’espace de noms TEI. Cette feuille de styles étant incluse dans toutes les pages du site, les balises TEI peuvent être employées partout, tant que les métadonnées et les contextes d’imbrication conviennent.
+</p>
+
+<p>
+Une autre particularité de nos items TEI est qu’ils ne sont pas validés en tant que tel. Au début du projet, il était impossible de prévoir à l’avance la grande richesse des contextes d’imbrication qui allait surgir au fil des transcriptions. En contrepartie, le nombre total des éléments et attributs TEI utilisé est très restreint et leur description tient en quelques pages. l’important est que tout fragment TEI bien formé possède une visualisation adéquate dans la page Web et contienne des métadonnées pertinentes.
+</p>
+
+<p>
+Pour accompagner les transcriptions et les mettre en relation, nous avons aussi initié une mise en oeuvre minimale du modèle de données Resource Description Framework. À terme, l’application d’un vocabulaire RDF sur certaines de nos transcriptions permettra de créer un véritable réseau sémantique et d’analyser plus finement les textes apparentés les uns vis-à-vis des autres. Le <a href="./def/relations.xhtml">vocabulaire de mise en relation</a> est déjà défini en partie et il existe un <a href="./miroir-du-monde/comp/comp_fr684-fr328.xhtml">exemple minimal de son application (une preuve de concept) pour les manuscrits BnF fr 328 et BnF fr 684</a>.
+</p>
+
+<h3>Comment contribuer au contenu</h3>
+
+<p>
+Si vous connaissez la TEI et le modèle de données RDF, vous pouvez contribuer à notre balisage sémantique des transcriptions. Notre vocabulaire de mise en relation est destiné à être employé avec les notices d’autorité Rameau de la BnF et d’autres vocabulaires semblables dont les items possèdent des identifiants persistants. Après avoir pris vos dispositions avec nous et pris connaissance de notre guide de définitions, il suffit de tirer le dépôt Git à partir de GitHub et de contribuer vos ajouts en faisant un <i>pull request</i> que nous étudierons.
+</p>
+
+<p>
+<em>Article par Christian Gagné</em>
+</p>
 
 </section>
 </article>
