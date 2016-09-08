@@ -67,8 +67,7 @@ note {
         display: inline-block;
         margin-top: 0.5em;
         padding-top: 0.5em;
-        content: '[' attr(n),
-            attr(n) ']';
+        content: '[' attr(n) ']';
         font-family: 'TeX Gyre Chorus',
                      'URW Chancery',
                      'Zapf Chancery',
@@ -84,8 +83,7 @@ note {
         max-width: 6em;
         margin-top: 0.5em;
         padding-top: 0.5em;
-        content: attr(n) ']',
-            attr(n) ']';
+        content: '[' attr(n) ']';
         font-family: 'TeX Gyre Chorus',
                      'URW Chancery',
                      'Zapf Chancery',
