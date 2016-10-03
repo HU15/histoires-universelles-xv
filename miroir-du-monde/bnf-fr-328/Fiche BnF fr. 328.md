@@ -1,6 +1,6 @@
 BnF fr. 328
 
-# Signalisation
+### Signalisation
 
 Titre du manuscrit tel que répertorié par la BnF : «Le Livre des hystoires du Mirouer du monde », depuis la création, jusqu'après la dictature de Quintus Cincinnatus
 
@@ -30,7 +30,7 @@ Support : Vélin (selon la BnF et P. Paris)
 * * *
 
 
-# Description codicologique 
+### Description codicologique 
 
 Dimensions du manuscrit :      
 
@@ -86,7 +86,7 @@ Au folio 17 (recto et verso), il semblerait qu'un bout de parchemin large d'envi
 * * * 
 
 
-# Contenu 
+### Contenu 
 
 #### Identification
 
@@ -173,7 +173,7 @@ Corrections et suppressions : Voir section «Varia» de la description codicolo
 * * *
 
 
-# Décorations
+### Décorations
 
 La campagne d'enluminure est demeurée inachevée : 
 
@@ -373,7 +373,7 @@ Voir section du site à cet effet.
 * * *
 
 
-# Reliure
+### Reliure
 
 Date : Fin XVIe-début XVIIe siècle.
 
@@ -385,7 +385,7 @@ Décorations et autres renseignements : La reliure présente les armes de Béth
 * * *
 
 
-# Histoire du manuscrit
+### Histoire du manuscrit
 
 #### Origine paléographique
 
@@ -405,13 +405,13 @@ Possesseurs :
 * * *
 
 
-# Localisation de la planche (folio du manuscrit reproduit)
+### Localisation de la planche (folio du manuscrit reproduit)
 
 
 * * *
 
 
-# Bibliographie du manuscrit
+### Bibliographie du manuscrit
 
 #### Recensions et notices
 

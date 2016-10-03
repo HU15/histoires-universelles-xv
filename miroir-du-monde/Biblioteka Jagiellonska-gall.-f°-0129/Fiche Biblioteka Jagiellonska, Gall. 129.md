@@ -4,6 +4,8 @@ Biblioteka Jagiellonska (Bibliothèque Jagellone), Gall. f° 0129
 
 Titre du manuscrit tel que répertorié dans Jonas  : «Miroir des histoires du monde» 
 
+http://jbc.bj.uj.edu.pl/dlibra/doccontent?id=183
+
 Ville : Berlin
 
 Dépôt : Biblioteka Jagiellonska (Bibliothèque Jagellone)
@@ -142,7 +144,8 @@ Pieds-de-mouche dorés et bleus, bouts-de-ligne en or, bleu et rouge (selon Stut
 
 Une seule enluminure pleine page : 1r (selon Stutzmann/Tylus).
 
-- Frontispice divisé en six compartiments représentant diverses étapes de la Création :       
+- Frontispice divisé en six compartiments représentant diverses étapes de la Création :
+
 	1. Le Créateur au début de son oeuvre, un compas à la main     
 	2. La création des animaux de la mer      
 	3. La création des animaux terrestres     
