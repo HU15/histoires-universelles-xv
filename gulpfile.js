@@ -3,13 +3,13 @@ var clean = require('gulp-clean');
 var gulp = require('gulp');
 
 gulp.task('clean-pages', function () {
-    return gulp.src('./pages', {read: false})
+    return gulp.src('./docs', {read: false})
       .pipe(clean());
 });
 
 gulp.task('copy-resources', ['clean-pages'], function() {
     gulp.src(['./style/**' ])
-      .pipe(gulp.dest('./pages/style'));
+      .pipe(gulp.dest('./docs/style'));
 });
 
 gulp.task('default', ['copy-resources'], function() {
@@ -18,5 +18,5 @@ gulp.task('default', ['copy-resources'], function() {
         prefix: '@@',
         basepath: '@file'
       }))
-      .pipe(gulp.dest('./pages'));
+      .pipe(gulp.dest('./docs'));
 });
