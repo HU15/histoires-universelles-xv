@@ -715,14 +715,43 @@ permettent.
 	position: relative;
 }
 
+.hu_rel p,
+.hu_rel li,
+.hu_rel dd,
+.hu_rel blockquote {
+	text-align: left;
+}
+
 .hu_rel {
 	border-left: 2px outset gray;
 	border-radius: 0px 5px 5px 0px;
 	background: rgb(236, 236, 255);
-	padding: 1em;
-	margin: 1em 0;
+	padding: 1ex;
+	margin: 1em;
 	max-width: 42em;
 	position: relative;
+}
+
+.hu_enonce {
+	border-radius: 0px 5px 5px 0px;
+	background: rgba(236, 236, 255, 0.66);
+}
+
+/* Pourrait être une classe, mais l’élément `kbd` convient bien: */
+kbd {
+	background: rgba(255, 255, 196, 0.66);
+}
+
+.hu_repro {
+	display: -webkit-flex;
+	display: flex;
+}
+
+.hu_repro img {
+	background: white;
+	padding: 1ex;
+	-webkit-flex: 1 0 auto;
+	flex: 1 0 auto;
 }
 
 tei .hu_rel {
@@ -730,27 +759,28 @@ tei .hu_rel {
     right: -8em;
 }
 
-/* Dans les fiches relationnelles, les hyperliens sont
-démarqués différemment parce qu’ils sont utilisés comme
-référants au sens du modèle de données RDF. Les délimiteurs
-utilisés se nomment communément «coins de Quine» et 
-servent à la quasi-citation, ce qui convient bien aux URI
-qui peuvent être déréférençables ou non selon le cas. */
-.hu_rel a {
+/* Dans les fiches relationnelles et les énoncés RDF,
+les hyperliens sont démarqués différemment parce qu’ils
+sont utilisés comme référants au sens du modèle de données
+RDF. Les délimiteurs utilisés se nomment communément
+«coins de Quine» et servent à la quasi-citation, ce qui
+convient bien aux URI qui peuvent être déréférençables
+ou non selon le cas. */
+.hu_rel a, .hu_enonce a {
 	text-decoration: none;
 }
 
-.hu_rel a::before {
+.hu_rel a::before, .hu_enonce a::before {
 	content: '⌜';
 	padding-right: 0.15em;
 }
 
-.hu_rel a::after {
+.hu_rel a::after, .hu_enonce a::after {
 	content: '⌟';
 	padding-left: 0.15em;
 }
 
-.hu_rel a:hover {
+.hu_rel a:hover, .hu_enonce a:hover {
     background: rgb(196, 196, 255);
 }
 
