@@ -7,11 +7,11 @@ tei {
 }
 
 tei[rend="transcript"] {
-	white-space: pre-wrap;
+    white-space: pre-wrap;
 }
 
 tei header {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 list {
@@ -35,20 +35,20 @@ hi {
     color: brown;
 }
 
-    figure::before {
-        display: block;
-        margin-top: 0.25em;
-        padding-top: 0.25em;
-        content: '[' attr(desc) ']';
-        font-family: 'TeX Gyre Chorus',
-                     'URW Chancery',
-                     'Zapf Chancery',
-                     'Lucida Calligraphy',
-                     'Apple Chancery',
-                     'Palatino',
-                     serif;
-        color: gray;
-    }
+figure::before {
+    display: block;
+    margin-top: 0.25em;
+    padding-top: 0.25em;
+    content: '[' attr(desc) ']';
+    font-family: 'TeX Gyre Chorus',
+    'URW Chancery',
+    'Zapf Chancery',
+    'Lucida Calligraphy',
+    'Apple Chancery',
+    'Palatino',
+    serif;
+    color: gray;
+}
 
 figDesc {
     display: block;
@@ -63,41 +63,41 @@ note {
     display: none;
 }
 
-    pb::before {
-        display: inline-block;
-        margin-top: 0.5em;
-        padding-top: 0.5em;
-        content: '[' attr(n);
-        font-family: 'TeX Gyre Chorus',
-                     'URW Chancery',
-                     'Zapf Chancery',
-                     'Lucida Calligraphy',
-                     'Apple Chancery',
-                     'Palatino',
-                     serif;
-        color: gray;
-    }
-    
-    cb::before {
-        display: inline-block;
-        max-width: 6em;
-        margin-top: 0.5em;
-        padding-top: 0.5em;
-        content: attr(n) ']';
-        font-family: 'TeX Gyre Chorus',
-                     'URW Chancery',
-                     'Zapf Chancery',
-                     'Lucida Calligraphy',
-                     'Apple Chancery',
-                     'Palatino',
-                     serif;
-        color: gray;
-    }
-    
-    lb::before {
-        display: inline-block;
-        content: '·';
-    }
+pb::before {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    content: '[' attr(n) ']';
+    font-family: 'TeX Gyre Chorus',
+    'URW Chancery',
+    'Zapf Chancery',
+    'Lucida Calligraphy',
+    'Apple Chancery',
+    'Palatino',
+    serif;
+    color: gray;
+}
+
+cb::before {
+    display: inline-block;
+    max-width: 6em;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    content: '[' attr(n) ']';
+    font-family: 'TeX Gyre Chorus',
+    'URW Chancery',
+    'Zapf Chancery',
+    'Lucida Calligraphy',
+    'Apple Chancery',
+    'Palatino',
+    serif;
+    color: gray;
+}
+
+lb::before {
+    display: inline-block;
+    content: '·';
+}
 
 expan {
     display: inline;
@@ -144,151 +144,151 @@ settlement {
 
 }
 
-    settlement:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+settlement:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    settlement::after {
-        display: inline;
-        content: ',';
-    }
+settlement::after {
+    display: inline;
+    content: ',';
+}
 
-    settlement:last-child::after {
-        display: inline;
-        content: '.';
-    }
+settlement:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 repository {
     display: inline;
 }
 
-    repository:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+repository:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    repository::after {
-        display: inline;
-        content: ',';
-    }
+repository::after {
+    display: inline;
+    content: ',';
+}
 
-    repository:last-child::after {
-        display: inline;
-        content: '.';
-    }
+repository:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 collection {
     display: inline;
 }
 
-    collection:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+collection:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    collection::after {
-        display: inline;
-        content: ',';
-    }
+collection::after {
+    display: inline;
+    content: ',';
+}
 
-    collection:last-child::after {
-        display: inline;
-        content: '.';
-    }
+collection:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 idno {
     display: inline;
 }
 
-    idno:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+idno:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    idno::after {
-        display: inline;
-        content: ',';
-    }
+idno::after {
+    display: inline;
+    content: ',';
+}
 
-    idno:last-child::after {
-        display: inline;
-        content: '.';
-    }
+idno:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 altIdentifier {
     display: inline-block;
 }
 
-    altIdentifier::before {
-        display: inline-block;
-        content: '[id. alt.]';
-        color: gray;
-    }
+altIdentifier::before {
+    display: inline-block;
+    content: '[id. alt.]';
+    color: gray;
+}
 
 publisher {
     display: inline;
 }
 
-    publisher:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+publisher:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    publisher::after {
-        display: inline;
-        content: ',';
-    }
+publisher::after {
+    display: inline;
+    content: ',';
+}
 
-    publisher:last-child::after {
-        display: inline;
-        content: '.';
-    }
+publisher:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 pubPlace {
     display: inline;
 }
 
-    pubPlace:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+pubPlace:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    pubPlace::after {
-        display: inline;
-        content: ',';
-    }
+pubPlace::after {
+    display: inline;
+    content: ',';
+}
 
-    pubPlace:last-child::after {
-        display: inline;
-        content: '.';
-    }
+pubPlace:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 date {
     display: inline;
 }
 
-    date:first-of-type::before {
-        display: inline;
-        content: ' ';
-        color: gray;
-    }
+date:first-of-type::before {
+    display: inline;
+    content: ' ';
+    color: gray;
+}
 
-    date::after {
-        display: inline;
-        content: ',';
-    }
+date::after {
+    display: inline;
+    content: ',';
+}
 
-    date:last-child::after {
-        display: inline;
-        content: '.';
-    }
+date:last-child::after {
+    display: inline;
+    content: '.';
+}
 
 bibl cite::after,
 msDesc cite::after {

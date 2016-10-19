@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<meta charset="UTF-8" />
+<title>Définitions pour modélisation RDF</title>
+<meta name="description" content="Définitions des relations utilisées dans le site HU15 pour inférences sur le modèle RDF" />
+<base href="http://hu15.github.io/histoires-universelles-xv/" />
+<link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="wrapper">
+
+<header id="menu-wrapper">
+	<nav id="menu" class="container">
+		<ul>
+			<li><a href="./index.xhtml">Accueil</a></li>
+			<li><a href="./Textes.xhtml">Textes</a></li>
+			<li><a href="./manuscrits.xhtml">Manuscrits</a></li>
+			<li><a href="./fiches.xhtml">Fiches</a></li>
+			<li><a href="./rubriques.xhtml">Tables des rubriques</a></li>
+			<li><a href="./illustrations.xhtml">Tables des illustrations</a></li>
+			<li><a href="./transcriptions.xhtml">Transcriptions</a></li>
+			<li><a href="./equipe.xhtml">Équipe</a></li>
+		</ul>
+	</nav>
+<div id="header-wrapper">
+	<div id="header" class="container">
+		<div id="logo">
+			<h1><a href=".">H(istoires) U(niverselles) 15</a></h1>
+		</div>
+	</div>
+</div>
+</header>
+
+<div id="page" class="container">
+<article id="content">
+<header class="title">
+	<h2>Relations définies sur le corpus</h2>
+</header>
+
+<section>
+
+  <dl>
+	<dd>L’une des finalités du projet <i>Histoires Universelles 15</i> est de rendre aisée la lecture comparée des différentes familles de textes. Dans cette optique, nous ajoutons à nos transcriptions des métadonnées conçues expressément pour la mise en relation de ressources d’information sur le Web, en accord avec la recommandation <i lang="en"><a href="https://fr.wikipedia.org/wiki/Resource_Description_Framework">Resource Description Framework</a></i> (RDF). Cela facilite à la fois l’utilisation des ressources par les lecteurs du site et des traitements automatiques éventuels.</dd>
+  <dd>Les entités et relations définies ci-dessous s’appliquent au corpus du projet selon des critères interprétatifs, c’est-à-dire que leur application initiale nécessite le travail d’un <em>lecteur</em> ayant l’intelligence du texte. Certaines des relations peuvent être appliquées par un système déductif. Dans la présente mise en oeuvre, les entités et relations correspondent aux principes du modèle de données abstrait RDF (sans être liés à une sérialisation concrète unique) et possèdent des URL non persistants mais déréférençables.</dd>
+  <dd>Il est possible, pour un utilisateur tiers, d’effectuer à partir de ces définitions un <em>alignement</em> (au sens où l’entend le projet <a href="http://data.bnf.fr/">data.BnF.fr</a>) sur un modèle de données contrôlé à l’externe et possédant des identifiants persistants. Les ressources textuelles externes (celles des bibliothèques institutionnelles) employées dans les énoncés possèdent, pour leur part, des URI persistants, et servent de pierres de touche aux énoncés présents sur ce site.</dd>
+	<dd>Le modèle de données RDF est une norme flexible faisant abstraction de la représentation concrète des données. Contrairement à une conception encore largement répandue, il n’est pas nécessaire de le représenter en XML: plusieurs formats de sérialisation conviennent et c’est l’usage pratique qui guide le choix d’un format particulier. Ce que la recommandation RDF définit essentiellement est l’application d’une ontologie ou d’une taxonomie donnée sous la forme d’énoncés ternaires: ⟨sujet⟩ ⟨prédicat⟩ ⟨objet⟩. Ces énoncés sont appelés «triplets». L’essentiel est que ces énoncés puissent être interprétés par un analyseur automatique et que les termes des énoncés possèdent des identifiants stables. Pour cela, plusieurs mécanismes d’annotation conviennent, y compris des balises HTML enrichies. On peut donc écrire, par exemple: <data value="&lt;./def/relations.xhtml#occ-ex-Arthur&gt; &lt;./def/relations.xhtml#possédant-rôle&gt; &lt;./def/relations.xhtml#personnage&gt;." class="hu_enonce"><a id="occ-ex-Arthur">Arthur</a> <a href="./def/relations.xhtml#possédant-rôle">possède le rôle</a> <a href="./def/relations.xhtml#personnage">personnage</a></data>, afin d’exprimer formellement que les occurrences de la chaîne de caractères «Arthur» dans le texte doivent être interprétées comme désignant le personnage du roi Arthur. Dans cet exemple, le triplet apparaît au fil du texte et se lit en langage naturel, mais dans le balisage HTML sous-jacent il y a aussi une version de l’énoncé interprétable par programme: <kbd>&lt;./def/relations.xhtml#occ-ex-Arthur&gt; &lt;./def/relations.xhtml#possédant-rôle&gt; &lt;./def/relations.xhtml#personnage&gt;.</kbd>. Cette version est écrite dans un format de sérialisation RDF appelé <i>Notation3</i>. Afin d’établir des bases solides pour l’analyse, on peut ajouter d’autres énoncés dont le texte en langue naturelle sera presque identique à cet exemple, mais dont la version Notation3 aura un <em>sujet</em> différent, par exemple afin d’exprimer formellement que différentes graphies occurrentes du nom «Arthur» dans différents segments du texte réfèrent au même personnage et sont donc <em>équivalentes en rôle</em>. Ainsi, en utilisant ensemble du HTML lisible par un lecteur humain et un format de sérialisation traitable par machine, on allie l’ergonomie et l’efficience.</dd>
+  <dd>Dans les fiches relationnelles et dans les énoncés RDF, comme celui du paragraphe précédent, les hyperliens sont démarqués différemment parce qu’ils sont utilisés comme référants au sens du modèle de données RDF. Les délimiteurs utilisés se nomment communément «coins de Quine» et servent à la quasi-citation, ce qui convient bien aux URI qui peuvent être déréférençables ou non selon le cas. En général, RDF et les techniques de mise en forme des métadonnées font beaucoup appel à <a href="http://plato.stanford.edu/entries/quotation/">la distinction entre <em>usage</em> et <em>mention</em> courante en logique et en linguistique</a>. C’est pour cette raison que les items sont délimités et que certains énoncés semblent redondants: c’est que l’entité apparaît dans le sujet <em>et</em> l’objet. Dans le sujet, l’entité est <em>mentionnée</em>, dans l’objet elle est <em>employée</em>. Cela permet d’établir certains faits de façon non ambigüe et de construire une analyse plus solide dans les mises en relation subséquentes.</dd>
+  <dd>Dans les présentes définitions, plusieurs prédicats employent ce terme: <i>rôle</i>. Ce terme possède ici un sens compatible avec celui que lui donne le W3C dans ses recommandations RDF et <a href="https://www.w3.org/TR/wai-aria/roles">WAI-ARIA</a>: c’est un aspect prédicatif désignant les entités sous le rapport de l’interprétation ou de l’usage qu’en font les lecteurs. Ainsi, si le lecteur considère une entité comme possédant le rôle <i>personnage</i>, cela équivaut à dire « ⟨<i>personnage</i>⟩ se dit de ⟨<i>telle entité occurrente</i>⟩ ». C’est l’un des cas de mise en relation les plus fréquents sur notre site et plusieurs items de comparaison donnent simplement une liste de cooccurences pour les segments de texte ayant le même rôle. La relation implicite dans ces cas est donc <data class="hu_enonce"><a href="./def/relations.xhtml#équivalent-en-rôle">équivalent en rôle</a></data>.</dd>
+	<dd>L’un des intérêts principaux de l’ajout d’énoncés RDF sur les ressources est la possibilité de construire automatiquement des graphes représentant visuellement (et logiquement) les liens entre les ressources, en appliquant par exemple des outils destinés à ce qu’on appelle <i lang="en">social network analysis</i>. En effet, les triplets RDF créent implicitement des structures de données en graphe, de par la nature même de la relation sujet-prédicat-objet.</dd>
+  </dl>
+
+  <section id="personnage" class="hu_rel">
+
+	<dl>
+	  <dt>personnage</dt>
+	  <dd>Un <a href="./def/relations.xhtml#personnage">personnage</a> est ici défini largement comme une entité narrative agissante, capable de discours ou considérée comme une personne. Cela inclut donc les personnages historiques, les divinités, les figures allégoriques etc.</dd>
+	  <dd>L’application de cet <em>objet</em> à une ressource <em>sujet</em> peut être faite par un prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>; cette application doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</dd>
+	</dl>
+
+  </section>
+
+  <section id="lieu" class="hu_rel">
+
+	<dl>
+	  <dt>lieu</dt>
+	  <dd>Un <a href="./def/relations.xhtml#lieu">lieu</a> est ici défini largement comme une étendue géographique, une entité politique à laquelle correspond un espace géographique, ou encore un endroit dont la localisation est indéterminée, par exemple <i>les Cieux</i> au sens biblique.</dd>
+	  <dd>L’application de cet <em>objet</em> à une ressource <em>sujet</em> peut être faite par un prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>; cette application doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</dd>
+	</dl>
+
+  </section>
+
+  <section id="incipit" class="hu_rel">
+
+	<dl>
+	  <dt>incipit</dt>
+	  <dd>Un <a href="./def/relations.xhtml#incipit">incipit</a> est ici défini comme une entité diégétique (narrative) pouvant être attribuée comme rôle à un segment de texte. Un segment de texte agit comme <a href="./def/relations.xhtml#incipit">incipit</a> si ce segment est situé au tout début d’une unité narrative et contient une référence explicite aux éléments narratifs subséquents.</dd>
+	  <dd>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce rôle est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</dd>
+	</dl>
+
+  </section>
+
+  <section id="possédant-rôle" class="hu_rel">
+
+	<dl>
+	  <dt>possédant le rôle</dt>
+	  <dd>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a> si, dans l’énoncé, l’objet peut être attribué comme rôle au sujet. «Rôle» est ici entendu au sens diégétique large.</dd>
+	  <dd>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</dd>
+	</dl>
+
+  </section>
+
+  <section id="mentionnant" class="hu_rel">
+
+	<dl>
+	  <dt>mentionnant</dt>
+	  <dd>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#mentionnant">mentionnant</a> si, dans l’énoncé, un segment bien délimité du texte et correspondant à la ressource employée comme <em>sujet</em> constitue une mention de la ressource employée comme <em>objet</em> de l’énoncé. Ce prédicat sert donc à affirmer qu’un segment de texte est une occurrence d’un nom propre (soit <a href="./def/relations.xhtml#personnage">personnage</a>, <a href="./def/relations.xhtml#lieu">lieu</a> etc.) auquel on a attribué un identifiant stable. Le terme neutre <em>mention</em> est utilisé parce qu’il permet d’attribuer le prédicat avec un minimum d’hypothèses sur le statut de l’occurence: que le segment de texte <em>réfère</em> ou non à ce que la séquence de ses caractères semble signifier, on peut avec sûreté affirmer que le segment agit comme <em>mention</em> d’un nom propre donné.</dd>
+	  <dd>L’application de ce prédicat doit être déterminée selon des critères sémantiques, c’est-à-dire par un <em>lecteur</em> interprétant le segment de texte employé comme sujet dans l’énoncé. Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</dd>
+	</dl>
+
+  </section>
+
+  <section id="équivalent-par-mention" class="hu_rel">
+
+	<dl>
+	  <dt>équivalent par mention</dt>
+	  <dd>Ce prédicat indique que les deux ressources, le sujet et l’objet (qui doivent être deux segments de texte bien délimités), contiennent une mention de la même entité (soit <a href="./def/relations.xhtml#personnage">personnage</a>, <a href="./def/relations.xhtml#lieu">lieu</a> etc.) et sont ainsi considérés équivalents de par ce qu’ils mentionnent. En d’autres termes, les deux segments contiennent une occurrence de la même entité préalablement identifiée par une ressource stable.</dd>
+	  <dd>Ce prédicat s’applique à la plus petite unité narrative à laquelle la mention a été attribuée. Si tous les segments d’une séquence contiennent les mêmes mentions, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat d’équivalence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées. Par exemple, on pourrait se servir d’une telle tentative d’induction pour faire correspondre deux segments où les chevaliers du roi Arthur sont nommés et, ainsi, déterminer quelles sous-séquences de noms sont équivalentes et lesquelles diffèrent sémantiquement.
+	  </dd>
+	</dl>
+
+  </section>
+
+  <section id="équivalent-en-rôle" class="hu_rel">
+
+	<dl>
+	  <dt>équivalent en rôle</dt>
+	  <dd>S’il a été précédemment énoncé que deux ressources possèdent le même rôle par application du prédicat <a href="./def/relations.xhtml#possédant-rôle">possédant le rôle</a>, alors on peut déduire que les deux ressources possèdent un rôle équivalent et on peut leur appliquer le prédicat <a href="./def/relations.xhtml#équivalent-en-rôle">équivalent en rôle</a>.</dd>
+	  <dd>Ce prédicat s’applique à la plus petite unité narrative à laquelle le rôle a été attribué. Si tous les segments d’une séquence possèdent les mêmes rôles, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat d’équivalence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées.</dd>
+	</dl>
+
+  </section>
+
+  <hr/>
+
+  <dl><dd>L’application des relations suivantes implique un travail n’entrant pas directement dans la portée du projet actuel; ces définitions sont données à titre d’exemple.</dd></dl>
+
+  <section id="thématisant" class="hu_rel">
+
+	<dl>
+	  <dt>thématisant</dt>
+	  <dd>On peut appliquer à deux ressources le prédicat <a href="./def/relations.xhtml#thématisant">thématisant</a> si, dans l’énoncé, l’objet peut être attribué comme thème au sujet. «Thème» est ici entendu au sens diégétique large et peut référer à des événements, des actions, des personnes, des lieux etc. La relation est conçue comme asymétrique, c’est-à-dire que le thème de l’objet est considéré comme antérieur ou paradigmatique par rapport au thème du sujet. Cela permet d’utiliser comme objet une ressource stable et bien comprise, par exemple un passage de la Bible dans une édition de référence et possédant un identifiant persistant.</dd>
+	  <dd>Dans le cadre du présent projet, l’application de ce prédicat est considérée comme axiomatique et il n’est pas prévu qu’elle puisse résulter d’une déduction automatisée, bien que le prédicat puisse éventuellement être étendu en ce sens par un utilisateur tiers, par exemple dans le cadre d’un traitement par apprentissage automatique.</dd>
+	</dl>
+
+  </section>
+
+  <section id="coréférant-par-thème" class="hu_rel">
+
+	<dl>
+	  <dt>coréférant par thème</dt>
+	  <dd>S’il a été précédemment énoncé que deux ressources possèdent le même thème par application du prédicat <a href="./def/relations.xhtml#thématisant">thématisant</a>, alors on peut déduire que les deux ressources possèdent une référence thématique commune et on peut leur appliquer le prédicat <a href="./def/relations.xhtml#coréférant-par-thème">coréférant par thème</a>.</dd>
+	  <dd>Ce prédicat s’applique à la plus petite unité narrative à laquelle le thème a été attribué. Si tous les segments d’une séquence possèdent les mêmes thèmes, comparés en ordre et segment par segment, dans les deux ressources, alors seulement on peut appliquer le prédicat de coréférence à toute la séquence, par induction. Une telle tentative d’induction donne lieu à des fiches relationnelles imbriquées.</dd>
+	</dl>
+
+  </section>
+
+<hr />
+
+    <dl><dd><em>Définitions par Christian Gagné</em></dd></dl>
+</section>
+
+</article>
+
+</div>
+</div>
+
+<div id="copyright-wrapper">
+<div id="copyright" class="container">
+<p>Ce projet est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons Attribution, Partage dans les mêmes conditions 4.0</a>.</p>
+<p>Base du design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
+</div>
+</div>
+</body>
+</html>
