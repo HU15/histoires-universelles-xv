@@ -1,155 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
-<head>
-<title>Témoins du Miroir du Monde | HU15</title>
-<meta charset="utf-8" />
-<meta name="description" content="Liste des témoins manuscrits et imprimés du Livre des histoires du miroer du monde" />
-<base href="http://hu15.github.io/histoires-universelles-xv/" />
-<link href="./style/default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="./style/tei.css" rel="stylesheet" type="text/css" media="all" />
-</head>
+@@include('../fragments/header.xhtml', {
+"title": "Manuscrits | HU15",
+"description": "Histoires universelles en français au XVe siècle: Miroir du monde Listes des témoins manuscrits et imprimés"
+})
 <body>
 <div id="wrapper">
-
-<header id="menu-wrapper">
-	<nav id="menu" class="container">
-		<ul>
-			<li><a href="./index.xhtml">Accueil</a></li>
-			<li><a href="./Textes.xhtml">Textes</a></li>
-			<li><a href="./manuscrits.xhtml">Manuscrits</a></li>
-			<li><a href="./fiches.xhtml">Fiches</a></li>
-			<li><a href="./rubriques.xhtml">Tables des rubriques</a></li>
-			<li><a href="./illustrations.xhtml">Tables des illustrations</a></li>
-			<li><a href="./transcriptions.xhtml">Transcriptions</a></li>
-			<li><a href="./equipe.xhtml">Équipe</a></li>
-		</ul>
-	</nav>
-<div id="header-wrapper">
-	<div id="header" class="container">
-		<div id="logo">
-			<h1><a href=".">H(istoires) U(niverselles) 15</a></h1>
-		</div>
-	</div>
-</div>
-</header>
-    
-<div id="page" class="container">
-<article id="content">
-<header class="title">
+    @@include('../fragments/menu.xhtml')
+    <div id="page" class="container">
+        <article id="content">
+            <header class="title">
 	<h2>Liste des témoins manuscrits et imprimés du <cite>Livre des histoires du miroer du monde</cite></h2>
 </header>
 
-<tei>
-<list>
+@@include('./miroir_liste_mss-tei.xhtml')
 
-<item>
-<a href="./miroir-du-monde/chantilly-condé-0723/fiche-chantilly-conde-0723.xhtml">
-<msDesc>
- <msIdentifier>
-  <settlement>Chantilly</settlement>
-  <repository>Musée Condé</repository>
-  <idno>723 (715)</idno>  
- </msIdentifier>
-</msDesc>
-</a>
-</item>
-
-<item>
-<a href="./miroir-du-monde/Biblioteka Jagiellonska-gall.-f°-0129/fiche-jag-gall-129.xhtml">
-<msDesc>
- <msIdentifier>
-  <settlement>Krakow</settlement>
-  <repository>Biblioteka Jagiellonska</repository>
-  <idno>gall. f° 129</idno>
-  <altIdentifier>
-   <settlement>Berlin</settlement>
-   <repository>Staatsbibliothek zu Berlin - Preussischer Kulturbesitz</repository>
-  </altIdentifier>
- </msIdentifier>
-</msDesc>
-</a>
-</item>
-
-    
-<item>
-<a href="./miroir-du-monde/bodleian-douce-336-337/fiche.xhtml">
-<msDesc>
- <msIdentifier>
-  <settlement>Oxford</settlement>
-  <repository>Bodleian Library</repository>
-  <collection>Douce</collection>
-  <idno>336-337</idno>
- </msIdentifier>
-</msDesc>
-</a>
-</item>
-    
-    
-<item>
-<a href="./miroir-du-monde/bnf-fr-328/fiche-bnf-fr-328.xhtml">
-<msDesc>
- <msIdentifier>
-  <settlement>Paris</settlement>
-  <repository>Bibliothèque nationale de France</repository>
-  <collection>français</collection>
-  <idno>328</idno>
- </msIdentifier>
-</msDesc>
-</a>
-</item>
-
-<item>
-<a href="./miroir-du-monde/bnf-fr-684/Fiche-BnF-fr-684.xhtml">
-<msDesc>
- <msIdentifier>
-  <settlement>Paris</settlement>
-  <repository>Bibliothèque nationale de France</repository>
-  <collection>français</collection>
-  <idno>684</idno>
- </msIdentifier>
-</msDesc>
-</a>
-</item>
-
-<item>
-<a href="./miroir-du-monde/bnf-fr-9686/fiche.xhtml">
-<msDesc>
- <msIdentifier>
-  <settlement>Paris</settlement>
-  <repository>Bibliothèque nationale de France</repository>
-  <collection>français</collection>
-  <idno>9686</idno>
- </msIdentifier>
-</msDesc>
-</a>
-</item>
-
-<item>
-<a href="./miroir-du-monde/b-buyer-lyon-1479/fiche.xhtml">
-  <bibl>
-	<cite>Le Compendieux livre du Miroir hystorial</cite>
-	<publisher>Barthélémi Buyer</publisher>
-	<pubPlace>Lyon</pubPlace>
-	<date>31 juillet 1479</date>
-  </bibl>
-</a>
-</item>
-
-</list>
-</tei>
-
-</article>
-
+        </article>
+    </div>
 </div>
-</div>
-
-<div id="copyright-wrapper">
-<div id="copyright" class="container">
-	<p>Ce projet est publié sous licence <a href="http://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons Attribution, Partage dans les mêmes conditions 4.0</a>.</p>
-    <p>Base du design par <a href="http://templated.co" rel="nofollow">TEMPLATED</a></p>
-</div>   
-</div>               
-            
+@@include('../fragments/footer.xhtml')
 </body>
 </html>
