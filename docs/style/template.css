@@ -20,9 +20,14 @@ Feuille de style pour le template 'Neuf Preux'
     background: crimson;
 }
 
-.neuf-preux #banner {
-    background: url("Neufpreux.png") no-repeat center;
-}
+.neuf-preux  #banner {
+		overflow: hidden;
+		height: 500px;
+		background: url(export-2.png) no-repeat center;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+
 
 .neuf-preux .hu_rel {
     padding: 1em;
