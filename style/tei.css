@@ -96,7 +96,7 @@ cb::before {
 
 lb::before {
     display: inline-block;
-    content: '·';
+
 }
 
 expan {
