@@ -114,7 +114,7 @@ g {
 
 g[type="exposant"] {
     font-size: 80%;
-    vertical-align: baseline;
+    vertical-align: super;
     position: relative;
     top: -0.4em;
 }
