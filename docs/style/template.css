@@ -21,10 +21,7 @@ Feuille de style pour le template 'Neuf Preux'
 }
 
 .neuf-preux #banner {
-        overflow: hidden;
-        background: url("export.png") no-repeat center;
-    	background-attachment: fixed;
-		background-size: cover;
+    background: url("export.png") no-repeat center;
 }
 
 .neuf-preux .hu_rel {
