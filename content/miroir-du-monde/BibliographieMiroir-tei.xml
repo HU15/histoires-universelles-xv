@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+      <title>Bibliographie sur le <title>Livre du miroer des histoires du monde</title></title>
+   <respStmt>
+    <resp></resp>
+    <name></name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor></distributor>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl></bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+
+       
+       
+     <list>
+      
+    
+<item>  
+<bibl>    
+<a href="http://ustc.ac.uk/index.php/record/71517"><cite>Compendieux livre du miroir historial</cite> dans <cite>Universal Short Title Catalogue</cite> 
+<note>Identification fautive de la nature du texte</note></a>
+</bibl>
+</item>    
+
+ 
+    
+<item>  
+<bibl>    
+<author>Louis-Fernand Flutre</author>, <cite>Li Fait des Romains dans les littératures française et italienne du XIII<sup>e</sup> au XVI<sup>e</sup></cite> 
+<pubPlace>Paris</pubPlace> 
+<publisher>Hachette</publisher> 
+<date>1932</date>
+<biblScope type="pages">50 et sq.</biblScope>
+</bibl>
+</item>
+    
+    
+    
+<item>  
+<bibl>    
+<author>Marc-René Jung </author>, <cite>La légende de Troie en France au moyen-âge. Analyse des versions françaises et bibliographie raisonnée des manuscrits</cite>
+<pubPlace>Tübingen</pubPlace>
+<publisher>Francke Verlag</publisher> 
+coll. "Romanica helvetica",
+<date>1996</date>
+<biblScope type="pages">p. 637-641</biblScope>    
+</bibl>
+</item>    
+
+    
+<item>
+<bibl>
+<a href="http://jonas.irht.cnrs.fr/consulter/oeuvre/detail_oeuvre.php?oeuvre=5311">"Miroir des histoires du monde", dans JONAS, Répertoire des textes et des manuscrits médiévaux d'oc et d'oïl</a> 
+</bibl>
+</item>    
+    
+ <item>  
+<bibl>    
+<author>Anne Salamon</author>, "Palingénésie des premiers livres bibliques dans quelques histoires universelles du XV<sup>e</sup> siècle", dans <cite>Écrire la Bible en français au Moyen Age et à la Renaissance</cite>, dir. Jean-René Valette et Véronique Ferrer, Genève, Droz, 2017.    
+</bibl>
+</item>   
+    
+    
+ <item>  
+<bibl>    
+    <author>Dominique Stutzmann et Piotr Tylus</author>, <cite>Les manuscrits médiévaux français et occitans de la Preussische Staatsbibliothek et de la Staatsbibliothek zu Berlin Preussischer Kulturbesitz</cite>
+<pubPlace>Wiesbaden</pubPlace>
+<publisher>Harrassowitz</publisher> 
+<date>2007</date>
+<biblScope>p. 668-670</biblScope>
+</bibl>
+</item>     
+    
+<item>
+<bibl>
+<author>Piotr Tylus</author>,
+"Un nouveau manuscrit d’un Miroir du monde",
+<cite>Romance Philology</cite>
+<biblScope type="vol">58</biblScope>
+<date>(2004)</date>
+<biblScope type="pages">p. 99-107</biblScope>
+</bibl>
+</item>    
+    
+    
+</list>
+      </div>
+     </body>
+    </text>
+</TEI>

@@ -1,14 +1,19 @@
 {
-  "name": "histoires-universelles-xv",
-  "repository": "https://github.com/HU15/histoires-universelles-xv",
+  "name": "essai",
+  "repository": "https://github.com/asalamon/essai",
   "version": "1.0.0",
   "licence": "Creative Commons",
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-clean": "^0.3.2",
-    "gulp-file-include": "^1.0.0"
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-file-include": "^2.2.2"
   },
   "scripts": {
     "build": "gulp default"
+  },
+  "dependencies": {
+    "del": "^5.1.0",
+    "lodash": "^4.17.20",
+    "yargs-parser": "^20.0.0"
   }
 }

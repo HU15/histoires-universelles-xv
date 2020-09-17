@@ -1,0 +1,1076 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+      <title>Rubriques, Paris, BnF, fr. 684</title>
+   <respStmt>
+    <resp></resp>
+    <name></name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor></distributor>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl></bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+
+<pb n="1r" /> <cb n="a" />
+<rubric id="incipit_pars">Cy co<ex>m</ex>mence le livre no<ex>m</ex>me le miroer 
+du monde ou quel est contenu plusieurs 
+hystoires</rubric><section xmlns="http://www.w3.org/1999/xhtml" class="hu_rel"><p>occ.: <a href="./miroir-du-monde/comp/comp_fr684-fr328.xhtml#incipit_rel">incipit</a></p></section>
+
+<pb n="1r" /> <cb n="b" />
+<rubric id="genesis_gn_1-1_pars">De la creacion du monde</rubric>
+
+<pb n="1v" /> <cb n="c" />
+<rubric>Comment dieu crea homme</rubric>
+	
+<pb n="2r" /> <cb n="a" />
+<rubric>Comment Adam et
+eve furent en p<ex>ar</ex>adis</rubric>
+	
+<pb n="2r" /> <cb n="b" />
+<rubric>Comment adam mor
+dy en la pomme</rubric>
+
+<pb n="2v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>
+ment adam fut chassie hors de para
+dis terrestre</rubric>
+
+<pb n="3r" /> <cb n="a" />
+<rubric>Comment 
+kayn tua son frere abel</rubric>
+
+<pb n="3v" /> <cb n="c" />
+<rubric>Comment adam enge<ex>n</ex>
+dra Seth</rubric>
+
+<pb n="3v" /> <cb n="d" />
+<rubric>De la mort Adam Et comment</rubric>
+
+<pb n="4r" /> <cb n="b" />
+<rubric>De la generaci
+on dont n<ex>ost</ex>res<ex>eigneur</ex> jh<ex>es</ex>ucrist descendit</rubric>
+
+<pb n="4v" /> <cb n="d" />
+<rubric>Comment noe et les siens
+yssirent de larche</rubric>
+
+<pb n="4v" /> <cb n="d" />
+<rubric>Comme<ex>n</ex>t noe 
+senyvra et fut mocque de cam</rubric>
+
+<pb n="5r" /> <cb n="b" />
+<rubric>Comment les <num>iii</num> filz noe partirent
+la terre toute</rubric>
+
+<pb n="5v" /> <cb n="c" />
+<rubric>De 
+la lignee qui descendi de Sem le filz 
+noe</rubric>
+
+<pb n="6r" /> <cb n="a" />
+<rubric>Comment la grant
+tour de babiloine fut fondee par ne<ex>m</ex>
+broth</rubric>
+
+<pb n="6v" /> <cb n="c" />
+<rubric>Comm
+ent le rayaulme de feminie fut com
+mancie</rubric>
+
+<pb n="6v" /> <cb n="d" />
+<rubric>Com
+ment le rayaulme degypte co<ex>m</ex>menca</rubric>
+
+<pb n="7r" /> <cb n="b" />
+<rubric>Dont ceulx de troye descendirent</rubric>
+
+<pb n="7r" /> <cb n="b" />
+<rubric>De la fondaci
+on de troye</rubric>
+
+<pb n="7r" /> <cb n="b" />
+<rubric>Comment la
+terre fu divisee a plusieurs</rubric>
+
+<pb n="7v" /> <cb n="c" />
+<rubric>Comment plusieurs ars furent 
+trouvez et par q<ex>u</ex>i</rubric>
+
+<pb n="7v" /> <cb n="d" />
+<rubric>Com
+ment les dances furent trouvees p<ex>ar</ex>
+art de deable</rubric>
+
+<pb n="8r" /> <cb n="a" />
+<rubric>Comment la royne semiramis es
+pousa son filz le jeune nynius</rubric>
+
+<pb n="8r" /> <cb n="b" />
+<rubric>Comment les deux fil
+les loth. furent engroyssees de le<ex>u</ex>r p<ex>er</ex>e</rubric>
+
+<pb n="8v" /> <cb n="c" />
+<rubric>Comment n<ex>ost</ex>res<ex>eigneur</ex> expro
+uva abraham en luy sacrifiant ysa
+ac son filz</rubric>
+
+<pb n="9r" /> <cb n="a" />
+<rubric>Comment ou t<ex>em</ex>ps
+de la nativite jacob et esau fut fondee
+Argines</rubric>
+
+<pb n="9r" /> <cb n="b" />
+<rubric>Comment jacob deceut e
+sau son frere pour la beneysson leur
+pere</rubric>
+
+<pb n="9v" /> <cb n="c" />
+<rubric>Comment Joseph fut vendu
+au marchans degypte par ces freres</rubric>
+
+<pb n="10v" /> <cb n="d" />
+<rubric>Comment n<ex>ost</ex>res<ex>eigneur</ex> sapparu a moy
+se au buisson ardent</rubric>
+
+<pb n="11r" /> <cb n="b" />
+<rubric>Comment les egypciens furent tour
+mentez de dix playes</rubric>
+
+<pb n="12r" /> <cb n="a" />
+<rubric>Comment la egypciens furent 
+noyez en la mer rouge</rubric>
+
+<pb n="12r" /> <cb n="a" />
+<rubric>De la fon
+dacion dathenes</rubric>
+
+<pb n="12v" /> <cb n="c" />
+<rubric>Co
+ment ou temps de moyse commen
+cierent plusieurs gens a ydolatrer</rubric>
+
+<pb n="13r" /> <cb n="b" />
+<rubric>Comment les enans dis
+rael rendirent grace a dieu</rubric>
+
+<pb n="13v" /> <cb n="c" />
+<rubric>Comment dieu bailla la loy a
+moyse en la montaigne de synai</rubric>
+
+<pb n="14r" /> <cb n="b" />
+<rubric>En ce second livre devise comment
+moyse gouverna le peuple disrael
+et fut gouverne de manne <num>xl</num> ans</rubric>
+
+<pb n="14v" /> <cb n="d" />
+<rubric>Comment balaat
+envoya grans a balaam pour ma
+uldire les juifs</rubric>
+
+<pb n="15r" /> <cb n="b" />
+<rubric>Comment
+balaam prophetiza la venue de jh<ex>es</ex>u
+crist en la presence balaac</rubric>
+
+<pb n="15v" /> <cb n="c" />
+<rubric>Comment le roy balaac deceut le
+peuple disrael par peche</rubric>
+
+<pb n="16r" /> <cb n="a" />
+<rubric>Com
+ment Josue le preux. fut condui
+seur du peuple disrael</rubric>
+
+<pb n="16v" /> <cb n="c" />
+<rubric>Comment le preux Jo
+sue conquist <num>v</num> roys et occist eulx 
+et les siens</rubric>
+
+<pb n="16v" /> <cb n="d" />
+<rubric>Comment Jo
+sue vainqui <num>xxiiii</num> roys et les fist pe<ex>n</ex>
+dre a gibez</rubric>
+
+<pb n="17r" /> <cb n="a" />
+<rubric>De ceulx qui furent juges
+du peuple disrael apres la mort de
+Josue</rubric>
+
+<pb n="17v" /> <cb n="c" />
+<rubric>Des merveilleux fais dercules
+et de plusieurs monstres quil occit</rubric>
+
+<pb n="18r" /> <cb n="a" />
+<rubric>Comment edippus expousa sa me
+re Jocasta royne de thebes</rubric>
+
+<pb n="18v" /> <cb n="c-d" />
+<rubric>Des douloureuses batailles qui 
+furent entre les deux filz edippus</rubric>
+
+<pb n="19r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="19r" /> <cb n="b" />
+<rubric>Comment Jaso<ex>n</ex>
+fut enorte par son oncle pele<ex>us</ex>
+a conquerir la touyson dor</rubric>
+
+<pb n="19v" /> <cb n="d" />
+<rubric>Loccasion premiere 
+de la destructio<ex>n</ex> de troye la grant</rubric>
+
+<pb n="20r" /> <cb n="b" />
+<rubric>De la grant chere q<ex>ue</ex>
+fist le roy oecte a jason et a ses co<ex>m</ex>
+paignons</rubric>
+
+<pb n="20v" /> <cb n="c" />
+<rubric>Comment medee enseigna a Jason la mani
+ere de conqueire la toison dor</rubric>
+
+<pb n="21v" /> <cb n="c" />
+<rubric>Comment 
+Jason entra en lisle et co<ex>n</ex>quist la toiso<ex>n</ex>
+dor</rubric>
+
+<pb n="22r" /> <cb n="a" />
+<rubric>Comment Jason fut receu a g<ex>ra</ex>nt
+joye de tous ceulx de grece</rubric>
+
+<pb n="22r" /> <cb n="b" />
+<rubric>Comment les grecs assemble
+rent grans gens pour destruire
+troye</rubric>
+
+<pb n="23r" /> <cb n="a" />
+<rubric>Comment la cite de troye fut arse
+et destruite premiere fois</rubric>
+
+<pb n="23r" /> <cb n="b" />
+<rubric>Comment
+hercules qui tant vaillant fu fut
+par femme abuse et filla</rubric>
+
+<pb n="23r" /> <cb n="b" />
+<rubric>Comment priant fut dolant de la
+mort son pere et destructio<ex>n</ex> de so<ex>n</ex> pais</rubric>
+
+<pb n="23v" /> <cb n="d" />
+<rubric>Comme<ex>n</ex>t
+le roy priant fist reediffier la cite
+de troye plus forte que devant</rubric>
+
+<pb n="24r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>
+ment priant manda a thelamo<ex>n</ex>
+quil luy envoiast sa seur</rubric>
+
+<pb n="24v" /> <cb n="c" />
+<rubric>Com
+ment paris apres lavision quil
+ot volut aler en grece</rubric>
+
+<pb n="24v" /> <cb n="d" />
+<rubric>Comment le roy priant envoya
+paris son filz contre les grecs</rubric>
+
+<pb n="25r" /> <cb n="b" />
+<rubric>Comment paris ravit la belle he
+laine et moult daultres</rubric>
+
+<pb n="25v" /> <cb n="c" />
+<rubric>Comment paris a tout
+helene sen vint a troye</rubric>
+
+<pb n="26r" /> <cb n="a" />
+<rubric>Comment ceulx de t<ex>r</ex>oye
+vindrent au devant de paris et de he<ex>len</ex>e</rubric>
+
+<pb n="26r" /> <cb n="b" />
+<rubric>Comment Jason faulsa 
+sa foy quil avoit promis a medee</rubric>
+
+<pb n="26v" /> <cb n="c" />
+<rubric>De la grant assemblee que firent 
+grecs pour venir contre troyens</rubric>
+
+<pb n="27r" /> <cb n="b" />
+<rubric>Comment 
+les grecs firent grans sacrefices
+a leurs dieux et leurs responds</rubric>
+
+<pb n="27v" /> <cb n="c" />
+<rubric>Comment les
+grecs prirent et exillerent le fort
+chastel thenedon</rubric>
+
+<pb n="27v" /> <cb n="d" />
+<rubric>Comment les grecs envoyerant
+atroye po<ex>u</ex>r avoir helaine sa<ex>n</ex>s guer<ex>r</ex>e</rubric>
+
+<pb n="28r" /> <cb n="b" />
+<rubric>Comment le roy priant reffu
+sa faire accord avecq<ex>ue</ex>s les grecs</rubric>
+
+<pb n="28v" /> <cb n="c" />
+<rubric>Comment les grecs jurerent
+de destruire la cite de troye</rubric>
+
+<pb n="28v" /> <cb n="c-d" />
+<rubric>Comment les grecs ordonne
+rent gens pour leur querir vivrez</rubric>
+
+<pb n="29r" /> <cb n="a" />
+<rubric>Comment il vint gens de plus<ex>ieu</ex>rs
+contrees a layde des troyens</rubric>
+
+<pb n="29r" /> <cb n="b" />
+<rubric>Comment les grecs
+furent fort do<ex>m</ex>magez des troyens a
+prendre port</rubric>
+
+<pb n="30r" /> <cb n="a" />
+<rubric>Comment les grecs gaignere<ex>n</ex>t
+port devant troye et lassiegere<ex>n</ex>t</rubric>
+
+<pb n="30v" /> <cb n="c" />
+<rubric>Comment les grecs tendirent le<ex>u</ex>rs
+trefs et pavillons en tour la cite </rubric>
+
+<pb n="30v" /> <cb n="d" />
+<rubric>Comment hector le preux ordon<ex>n</ex>a
+ses batailles par grant sens</rubric>
+
+<pb n="31r" /> <cb n="b" />
+<rubric>Comment agamenon ordonna
+ses batailles contre troyens</rubric>
+
+<pb n="31v" /> <cb n="d" />
+<rubric>Comment a ceste premiere bata
+ille perdirent moult les grecs</rubric>
+
+<pb n="33v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="34r" /> <cb n="b" />
+<rubric>Comment les troyens furent a
+conseil quilz feroient du roy thoas</rubric>
+
+<pb n="34v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="35r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="35v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="36r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="36r" /> <cb n="b" />
+Lettrine sans rubrique
+
+<pb n="36v" /> <cb n="c" />
+<rubric>Comment achiles
+menace hector de brief le grever</rubric>
+
+<pb n="37v" /> <cb n="c" />
+<rubric>Comment apres treves failliez 
+sencommencierent dures mesleez</rubric>
+
+<pb n="38r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="38v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="39r" /> <cb n="b" />
+<rubric>Comment les troyens requirent
+trevez pour six moys</rubric>
+
+<pb n="39v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="39v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="40r" /> <cb n="b" />
+<rubric>Comment le roy priant deffendit
+a hector ce jour de soy armer</rubric>
+
+<pb n="41r" /> <cb n="a" />
+<rubric>Comment hector le preux
+fut par les mains dachiles occis</rubric>
+
+<pb n="42r" /> <cb n="a" />
+<rubric>Comment le sepulchre dector
+fust sollemnellement fait</rubric>
+
+<pb n="42v" /> <cb n="c" />
+<rubric>Comment le roy palamedes voult
+estre chef des grecs et gouverner</rubric>
+
+<pb n="42v" /> <cb n="c" />
+<rubric>Comment le roy priant pour
+la mort dector se voult armer</rubric>
+
+<pb n="43v" /> <cb n="c" />
+<rubric>Du grant anniv<ex>er</ex>saire que le roy
+priant fist pour la mort dector</rubric>
+
+<pb n="44r" /> <cb n="a" />
+<rubric>Comment la royne eccuba vou
+loit donner a achiles polixenam</rubric>
+
+<pb n="44r" /> <cb n="b" />
+<rubric>Comment les grecs et troyens
+ordonnerent leurs batailles</rubric>
+
+<pb n="44v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="45r" /> <cb n="b" />
+<rubric>Comment les grecs firent 
+leur gouv<ex>er</ex>neme<ex>n</ex>t du sage agamen<ex>on</ex></rubric>
+
+<pb n="45v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="45v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="45v" /> <cb n="d" />
+Lettrine sans rubrique
+
+<pb n="46r" /> <cb n="a" />
+<rubric>Des merveilleuses batailles qui
+furent apres treves faillies</rubric>
+
+<pb n="47v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="48r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="48v" /> <cb n="d" />
+<rubric>Comment la royne eccuba pour
+pensa a faire mourir achiles</rubric>
+
+<pb n="49r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="49v" /> <cb n="c" />
+<rubric>De la trahison comme<ex>n</ex>t achiles
+fut occis pour lamo<ex>u</ex>r de polixena<ex>m</ex></rubric>
+
+<pb n="50r" /> <cb n="b" />
+<rubric>Comment les grecs furent do
+lens de lamort dachiles</rubric>
+
+<pb n="50v" /> <cb n="c" />
+<rubric>Comment les grecs estoient
+doppinion deulx en aler</rubric>
+
+<pb n="51v" /> <cb n="c" />
+<rubric>Comment penthasiles royne
+de femenie vi<ex>n</ex>t au secours de t<ex>r</ex>oye</rubric>
+
+<pb n="52r" /> <cb n="b" />
+<rubric>Comment pirrus le filz dachil<ex>es</ex>
+arriva en lost des grecs a g<ex>ra</ex>nt jo<ex>y</ex>e</rubric>
+
+<pb n="53r" /> <cb n="b" />
+<rubric>Comment la trayson fut pourpa
+lee premier par anthenor</rubric>
+
+<pb n="54r" /> <cb n="a" />
+<rubric>La maniere de la trahison de la no
+ble cite de troye</rubric>
+
+<pb n="54v" /> <cb n="d" />
+<rubric>De la mort de la belle polixenam et
+des lamentac<ex>i</ex>ons quelle fist</rubric>
+
+<pb n="55r" /> <cb n="b" />
+<rubric>Comment plusieurs troyens se<ex>n</ex>
+alerent et fonderent plusieurs
+cites aprez la destruction de t<ex>roye</ex></rubric>
+
+<pb n="56r" /> <cb n="a" />
+<rubric>De la fundac<ex>i</ex>on de venise</rubric>
+
+<pb n="56r" /> <cb n="a" />
+<rubric>Comment
+les grecs se deviserent ap<ex>re</ex>s la destruc<ex>tion</ex></rubric>
+
+<pb n="56r" /> <cb n="b" />
+<rubric>Comment le roy ulixes
+fut occis dun de ses gens</rubric>
+
+<pb n="56v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>ment
+egyptus occist agameno<ex>n</ex> et plus<ex>ieu</ex>r aut<ex>res</ex></rubric>
+
+<pb n="57r" /> <cb n="a" />
+<rubric>Si nous tairons des histo
+res de troye Et retournerons a
+Jayt ou nous laissames et aux
+juges disrael</rubric>
+
+<pb n="57r" /> <cb n="b" />
+<rubric>Des m<ex>er</ex>veilleuses proesses q<ex>ue</ex> fist sa<ex>mp</ex>so<ex>n</ex></rubric>
+
+<pb n="58r" /> <cb n="a" />
+<rubric>Comment le peuple 
+disr<ex>ae</ex>l voult avoir roy et fut le pr<ex>em</ex>ier saul</rubric>
+
+<pb n="58v" /> <cb n="c" />
+<rubric>Comment david occist golyas lu
+y gardans les bestes aux champs</rubric>
+
+<pb n="58v" /> <cb n="c" />
+<rubric>Du grant
+courage de coldrus roy dathenes</rubric>
+
+<pb n="58v" /> <cb n="d" />
+<rubric>Co<ex>m</ex>ment le roy david fist
+couronn<ex>e</ex>s</rubric>
+
+<pb n="59r" /> <cb n="a" />
+<rubric>Des grans fais de salmo<ex>n</ex> et de sa prou<ex>e</ex>ce<note resp="Raph">?</note></rubric>
+
+<pb n="59r" /> <cb n="b" />
+<rubric>Des lectres que
+la royne envoya a salmon</rubric>
+
+<pb n="59v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>ment le rayaulme des ebreux
+fut de p<ex>ar</ex>ty et de plus<ex>ieu</ex>rs roys de judee</rubric>
+
+<pb n="60r" /> <cb n="a" />
+<rubric>De roboam roy de juda</rubric>
+
+<pb n="60r" /> <cb n="b" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t
+achab regna sur le peuple disrael</rubric>
+
+<pb n="60v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="61r" /> <cb n="a" />
+<rubric>Du roy Joram de Juda</rubric> 
+
+<pb n="62r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>
+ment arbates submist le royaulme 
+de sirie au royaulme de mede</rubric>
+
+<pb n="62r" /> <cb n="b" />
+<rubric>De Jonatha<ex>n</ex></rubric>
+
+<pb n="62v" /> <cb n="c" />
+<rubric>Com
+ment de friga le frere eneas fut la
+premiere semence de france</rubric>
+
+<pb n="62v" /> <cb n="d" />
+<rubric>Comme<ex>n</ex>t
+eneas sen ala par mer alaventure</rubric>
+
+<pb n="63r" /> <cb n="a" />
+<rubric>Comment eneas ot paour de la
+tempeste</rubric>
+
+<pb n="63r" /> <cb n="b" />
+<rubric>Comment dido fonda cartage</rubric>
+
+<pb n="63r" /> <cb n="b" />
+<rubric>Co<ex>m</ex>ment eneas vint en cartag<ex>e</ex></rubric>
+
+<pb n="63v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>me<ex>m</ex>t eneas <ex>et</ex> les t<ex>r</ex>oye<ex>n</ex>s vi<ex>n</ex>dre<ex>n</ex>t deva<ex>n</ex>t di<ex>d</ex>o</rubric>
+
+<pb n="64r" /> <cb n="a" />
+<rubric>Comment dido prie Eneas q<ex>ue</ex>lle 
+luy comptast de la destruct<ex>i</ex>on de t<ex>r</ex>oye</rubric>
+
+<pb n="64r" /> <cb n="b" />
+<rubric>Dune advision qui avint a eneas</rubric>
+
+<pb n="64v" /> <cb n="d" />
+<rubric>De lab
+bomi<ex>n</ex>ablete de passiphe royne de c<ex>r</ex>ecte</rubric>
+
+<pb n="65r" /> <cb n="a" />
+<rubric>Comment le roy egeus dathenes en
+voy son filz en crecte en servage</rubric>
+
+<pb n="65r" /> <cb n="b" />
+<rubric>De la fondac<ex>i</ex>on de Romme</rubric>
+
+<pb n="65v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="66r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t
+les vierges sabines furent raviez</rubric>
+
+<pb n="66r" /> <cb n="b" />
+<rubric>Des
+dix sebiles et que vault a dire</rubric>
+
+<pb n="66v" /> <cb n="d" />
+<rubric>Du regne ezechias</rubric>
+
+<pb n="67r" /> <cb n="b" />
+Lettrine sans rubrique
+
+<pb n="67r" /> <cb n="b" />
+<rubric>Du roy manasses</rubric>
+
+<pb n="67v" /> <cb n="c" />
+<rubric>Des Rommains</rubric>
+
+<pb n="67v" /> <cb n="d" />
+<rubric>De Josias le bon roy de juda</rubric>
+
+<pb n="68r" /> <cb n="a" />
+<rubric>Des fais des Rommains</rubric>
+
+<pb n="68r" /> <cb n="b" />
+<rubric>Des Juifs</rubric>
+
+<pb n="68v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="69r" /> <cb n="a" />
+<rubric>Com
+ment daniel delivra la bo<ex>n</ex>ne susa<ex>n</ex>ne</rubric>
+
+<pb n="69r" /> <cb n="b" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t dani
+el monstra au roy la faulcete des p<ex>rest</ex>res
+des ydoles</rubric>
+
+<pb n="69v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t daniel fut mys entre les lyo<ex>n</ex>s</rubric>
+
+<pb n="69v" /> <cb n="c" />
+<rubric>Des rommai<ex>n</ex>s et du roy sil
+vius tullius</rubric>
+
+<pb n="69v" /> <cb n="d" />
+<rubric>Des sept sages de ro<ex>m</ex>
+me et de leurs enseig<ex>ne</ex>mens</rubric>
+
+<pb n="70r" /> <cb n="a" />
+<rubric>La naissance du grant roy sirus</rubric>
+
+<pb n="70r" /> <cb n="b" />
+<rubric>Des
+enfances syrus le grant</rubric>
+
+<pb n="70v" /> <cb n="d" />
+<rubric>Comment cyrus conquist
+le regne de perse et de mede</rubric>
+
+<pb n="71r" /> <cb n="a" />
+Lettrine sans rubrique
+
+<pb n="71v" /> <cb n="c" />
+<rubric>Comment cyrus des
+confist pour la tierce fois le roy cress<ex>us</ex></rubric>
+
+<pb n="71v" /> <cb n="d" />
+<rubric>De la grant subtilite du roy cyrus
+qui conquist le regne de siche</rubric>
+
+<pb n="72r" /> <cb n="b" />
+<rubric>Comment la royne thamaris se
+venga du roy cyrus</rubric>
+
+<pb n="72v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t
+le nom de roy failli a romme et
+de lucresse q<ex>u</ex>i se occit deva<ex>n</ex>t to<ex>us</ex> ses a<ex>m</ex>is</rubric>
+
+<pb n="73r" /> <cb n="a" />
+<rubric>Comment le roy
+canbises envoya olofernes po<ex>u</ex>r co<ex>n</ex>q<ex>ue</ex>rre
+tous les royaulmes doccident</rubric>
+
+<pb n="74r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>ment
+le roy cambises voult venger la mort
+olofernes</rubric>
+
+<pb n="74r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t daire
+fut couronne roy de parse p<ex>ar</ex> le ha<ex>n</ex>nir
+de son cheval</rubric>
+
+<pb n="74v" /> <cb n="c" />
+<rubric>Comment les rommai<ex>n</ex>s exillerent
+Brucus tarquinus pour son nom</rubric>
+
+<pb n="74v" /> <cb n="d" />
+<rubric>Du ch<ex>eva</ex>l<ex>ie</ex>r qui brula sa main</rubric>
+
+<pb n="75r" /> <cb n="a" />
+<rubric>Comment les rommains establi
+rent de nou<ex>v</ex>au deux dignitez</rubric>
+
+<pb n="75v" /> <cb n="d" />
+<rubric>Comme<ex>n</ex>t artha
+xerses espousa hester po<ex>u</ex>r sa gra<ex>n</ex>t beau<ex>t</ex>e</rubric>
+
+<pb n="76r" /> <cb n="a" />
+<rubric>De plus<ex>ieur</ex>s philosophes de grant reno<ex>m</ex></rubric>
+
+<pb n="76r" /> <cb n="a" />
+<rubric>Lystoire du grant roy alixandre</rubric>
+
+<pb n="76v" /> <cb n="c" />
+<rubric>De la naissance dalixand<ex>r</ex>e</rubric>
+
+<pb n="76v" /> <cb n="d" />
+<rubric>La mort du roy 
+neptanabus</rubric>
+
+<pb n="77r" /> <cb n="a" />
+<rubric>La respon
+se appolin du bon cheval bucifal</rubric>
+
+<pb n="77r" /> <cb n="b" />
+<rubric>La mort de philippe pere dalixandre</rubric> 
+
+<pb n="77v" /> <cb n="c" />
+<rubric>Comme<ex>n</ex>t alixe<ex>n</ex>d<ex>re</ex>
+p<ex>ar</ex> le conseil de tous fut constitue roy</rubric>
+
+<pb n="78r" /> <cb n="a" />
+<rubric>La teneur des lectres que le roy alix<ex>andre</ex>
+envoioit par tous pays aux pri<ex>n</ex>ces</rubric>
+
+<pb n="78r" /> <cb n="b" />
+<rubric>Comment alixand<ex>re</ex>
+ne voult paier le truage a daire</rubric>
+
+<pb n="78v" /> <cb n="c" />
+<rubric>La teneur des lectres envoyes par
+Daire au roy alixandre</rubric>
+
+<pb n="79r" /> <cb n="a" />
+<rubric>La te
+ne<ex>u</ex>r des l<ex>ect</ex>res q<ex>ue</ex> alix<ex>andre</ex> envoya au roy d<ex>aire</ex></rubric>
+
+<pb n="80r" /> <cb n="b" />
+<rubric>La tene<ex>u</ex>r des lectres envoyes de
+par la mere dalix<ex>andre</ex> a son filz</rubric>
+
+<pb n="80v" /> <cb n="c" />
+<rubric>La teneur des lectres envoyes par
+alixandre au seigneur dinde</rubric>
+
+<pb n="81v" /> <cb n="c" />
+<rubric>De lonneur quon faisoit au roy a
+lixand<ex>re</ex> de toutes pars du monde</rubric>
+
+<pb n="82v" /> <cb n="c" />
+<rubric>Comment le roy alix<ex>andre</ex>
+ala querir respons aux arbres</rubric>
+
+<pb n="83v" /> <cb n="c" />
+Espace pour rubrique absente
+
+<pb n="83v" /> <cb n="d" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t
+alix<ex>andre</ex> fu empoiso<ex>n</ex>ne de ses plus amez</rubric>
+
+<pb n="84r" /> <cb n="a" />
+<rubric>Comment les rommai<ex>n</ex>s orent
+plus<ex>ieur</ex>s batailles a maintes nacio<ex>n</ex>s</rubric>
+
+<pb n="84v" /> <cb n="c" />
+<rubric>Des grans batail<ex>les</ex>
+q<ex>u</ex>i furent entre les samicie<ex>n</ex>s et les rom<ex>mains</ex></rubric>
+
+<pb n="84v" /> <cb n="d" />
+<rubric>Dune des sept merveilles deu mo<ex>n</ex>
+de de une tour fondee sur mer</rubric>
+
+<pb n="84v" /> <cb n="d" />
+<rubric>Comment les ro<ex>m</ex>mains orent plu
+sie<ex>u</ex>rs batailles contre les cartagiens</rubric>
+
+<pb n="85v" /> <cb n="d" />
+<rubric>Comment
+les quartagiens requirent treves
+aux rommains pour le<ex>u</ex>r malhe<ex>u</ex>r</rubric>
+
+<pb n="86v" /> <cb n="d" />
+<rubric>Comment les rommains menoie<ex>n</ex>t
+plus<ex>ieu</ex>rs guerres en plus<ex>ieu</ex>rs contrees</rubric>
+
+<pb n="87r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>ment les ro<ex>m</ex>mai<ex>n</ex>s <ex>et</ex> les
+cartagie<ex>n</ex>s reco<ex>m</ex>encie<ex>r</ex>ent grosses g<ex>uerres</ex></rubric>
+
+<pb n="88r" /> <cb n="a" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t les ro<ex>m</ex>mai<ex>n</ex>s conq<ex>u</ex>ire<ex>n</ex>t
+plus<ex>ieu</ex>rs places <ex>et</ex> la mort hasdrubal</rubric>
+
+<pb n="88v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>ment les cartagiens
+requirent de rechef paix aux ro<ex>m</ex>m<ex>ains</ex></rubric>
+
+<pb n="88v" /> <cb n="d" />
+<rubric>Com
+ment les dames de romme require<ex>n</ex>t
+a recouvrer leurs nobles actours</rubric>
+
+<pb n="89r" /> <cb n="b" />
+<rubric>Comment anthiocus par son ava
+rice fu occis ou temple navee<note resp="Raph">?</note></rubric>
+
+<pb n="89v" /> <cb n="d" />
+<rubric>Comment les Juifs occirent plus<ex>ieur</ex>s
+des ge<ex>n</ex>s anthiocus <ex>et</ex> fut mathatias le<ex>u</ex>r d<ex>u</ex>c</rubric>
+
+<pb n="90r" /> <cb n="a" />
+<rubric>Comment le preux judas reedifia
+le temple de jh<ex>e</ex>r<ex>usa</ex>l<ex>e</ex>m et de sa conq<ex>ue</ex>ste</rubric>
+
+<pb n="90v" /> <cb n="d" />
+<rubric>Comme<ex>n</ex>t anthio<ex>cus</ex>
+fist aliance avec judas puis le trahi</rubric>
+
+<pb n="91r" /> <cb n="a" />
+<rubric>Comment le preux judas
+fut occis enterre a modin</rubric>
+
+<pb n="91v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t Jona
+tas alaide de de n<ex>ost</ex>res<ex>eigneur</ex> ot plus<ex>ieu</ex>rs vict<ex>oires</ex></rubric>
+
+<pb n="92v" /> <cb n="c" />
+<rubric>Comme<ex>n</ex>t symo<ex>n</ex> pri<ex>n</ex>ce des juifs
+ot victoire contre plus<ex>ieur</ex>s de ces enne<ex>m</ex>is</rubric>
+
+<pb n="93r" /> <cb n="a" />
+<rubric>Des grandes mi
+rac<ex>i</ex>ons <ex>et</ex> devisions qui furent a ro<ex>m</ex>me entre les consules</rubric>
+
+<pb n="93v" /> <cb n="c" />
+<rubric>De plusieurs batailles
+<ex>et</ex> occisions qui furent a ro<ex>m</ex>me
+entre les consules</rubric>
+
+<pb n="94r" /> <cb n="a" />
+<rubric>Comment le consule Silla fist
+grant occision a romme</rubric>
+
+<pb n="94v" /> <cb n="c" />
+<rubric>Comment fut estably pompee
+po<ex>u</ex>r appaisier la mer des escume<ex>u</ex>rs</rubric>
+
+<pb n="95r" /> <cb n="a" />
+<rubric>De plusieurs nobles de rom
+me qui furent de la conjuroison
+catheline. et co<ex>m</ex>me<ex>n</ex>t ilù fure<ex>n</ex>t accus<ex>es</ex></rubric>
+
+<pb n="96r" /> <cb n="a" />
+<rubric>Comment la conjurois<ex>on</ex> de ca
+theline fut decouv<ex>er</ex>te <ex>et</ex> fure<ex>n</ex>t ma<ex>n</ex>d<ex>es</ex></rubric>
+
+<pb n="96v" /> <cb n="c" />
+<rubric>Comment les ro<ex>m</ex>
+mains occire<ex>n</ex>t catheline <ex>et</ex> ceulx de
+la conjuroison mais g<ex>ra</ex>nt p<ex>er</ex>te y ore<ex>n</ex>t</rubric>
+
+<pb n="96v" /> <cb n="d" />
+<rubric>Co<ex>m</ex>me<ex>n</ex>t
+les rommai<ex>n</ex>s mirent plus<ex>ieur</ex>s pays
+en le<ex>u</ex>r seignourie q<ex>u</ex>i sestoie<ex>n</ex>t rebellez</rubric>
+
+<pb n="97r" /> <cb n="b" />
+<rubric>Comment cesar sou
+bmist a la seignourie de ro<ex>m</ex>me
+les parties de gaule</rubric>
+
+<pb n="98" /> <cb n="c" />
+<rubric>Comment cesar ad
+monestre de bie<ex>n</ex> faire co<ex>n</ex>t<ex>re</ex> les saisn<ex>es</ex></rubric>
+
+<pb n="99r" /> <cb n="b" />
+<rubric>Coment les rommains descon
+firent les saisnes francois</rubric>
+
+<pb n="99r-v" /> <cb n="b-c" />
+<rubric>Co<ex>m</ex>ment les belgues
+assemblera<ex>n</ex>t grans gens alen
+contre de cesar</rubric>
+
+<pb n="100r" /> <cb n="a" />
+<rubric>Comment cesar ot ensubgec
+cion les belgues francois</rubric>
+
+<pb n="100v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="101v" /> <cb n="c" />
+Lettrine sans rubrique
+
+<pb n="101v" /> <cb n="d" />
+<rubric>Comment ceulx de romme p<ex>ar</ex> envie
+exillerent cesar et de ses amys</rubric>
+
+<pb n="102r" /> <cb n="b" />
+<rubric>Comment cesar vint a
+tout grant gent pour conbatre
+aux rommains</rubric>
+
+<pb n="103r" /> <cb n="a" />
+<rubric>Comment cesar enorte ses gens
+a bien faire contre les rommai<ex>n</ex>s</rubric>
+
+<pb n="103r" /> <cb n="b" />
+Lettrine sans rubrique
+
+<pb n="104r" /> <cb n="a" />
+<rubric>Comment
+cesar par son sens racomta ses ge<ex>n</ex>s
+qui le vouldrant laissier ester</rubric>
+
+<pb n="104r" /> <cb n="b" />
+<rubric>Comme<ex>n</ex>t cesar se
+fist appeller empereur et ot
+toutes les honneurs de romm<ex>e</ex></rubric>
+
+<pb n="105r" /> <cb n="a" />
+<rubric>De la grande desconfiture qui fut
+faicte des gens cesar et pompee</rubric>
+
+<pb n="105v" /> <cb n="c" />
+<rubric>Comme<ex>n</ex>t pompee et les ro<ex>m</ex>m<ex>ains</ex>
+des plus nobles furent desco<ex>n</ex>fiz p<ex>ar</ex> ces<ex>ar</ex></rubric>
+
+<pb n="106r" /> <cb n="a" />
+<rubric>Com
+ment les gens cesar ravirent
+tous les tresors des consules</rubric>
+
+<pb n="106r" /> <cb n="b" />
+<rubric>Comment pompee ap<ex>re</ex>s sa
+desconfiture ala q<ex>ue</ex>rir sa femme </rubric>
+
+<pb n="106v" /> <cb n="c" />
+<rubric>Com
+ment fut occis par achilas en tra
+ison sur lamer</rubric>
+
+<pb n="107r" /> <cb n="a" />
+<rubric>Comment cathon rasem<ex>bl</ex>a
+les fuitifs po<ex>u</ex>r combat<ex>re</ex> de rechef con<ex>tre</ex>
+cesar</rubric>
+
+<pb n="107v" /> <cb n="c" />
+<rubric>Co<ex>m</ex>
+ment tholomeus fist present du
+chef pompee a cesar <ex>et</ex> la responce
+de cesar</rubric>
+
+<pb n="107v" /> <cb n="d" />
+<rubric>Comment cesar
+sacointa de la belle cleopatras et y
+perdit moult</rubric>
+
+<pb n="108r" /> <cb n="b" />
+<rubric>Co<ex>m</ex>ment le roy tholomeus assem<ex>bla</ex>a
+gens cont<ex>re</ex> cesar <ex>et</ex> co<ex>m</ex>me<ex>n</ex>t il fut noye</rubric>
+
+<pb n="108r" /> <cb n="b" />
+<rubric>Comment cesar
+print champ de bataille contre
+les rommains au cincq<ex>uiem</ex>e jour</rubric>
+
+<pb n="108v" /> <cb n="c" />
+<rubric>Comme<ex>n</ex>t cesar desco<ex>n</ex>
+fist grant quantite de ses en
+nemys</rubric>
+
+<pb n="108v" /> <cb n="d" />
+<rubric>Des grans batailles que
+cesar ot contre les enfans pom
+pee et de sa grant perte</rubric>
+
+<pb n="109r" /> <cb n="b" />
+<rubric>Des grans biens que cesar fist
+a romme et des bonnes ordonn<ex>ances</ex></rubric>
+
+<pb n="109v" /> <cb n="c" />
+<rubric>Comment plusieurs des
+grans de ro<ex>m</ex>me jurerent la mort c<ex>esar</ex></rubric>
+
+<pb n="110r" /> <cb n="a" />
+<rubric>Comment les grans batailles cy
+toyennes recomencierent a ro<ex>m</ex>m<ex>e</ex></rubric>
+
+<pb n="110r-v" /> <cb n="b-c" />
+<rubric>Comme<ex>n</ex>t
+octovien et anthoine partirent
+et diviserent lempire de romm<ex>e</ex></rubric>
+
+<pb n="110v" /> <cb n="d" />
+<rubric>Comme<ex>n</ex>t
+anthoine fist herode prince de ga
+llice et faciaulx prince de judee</rubric>
+
+<pb n="11v" /> <cb n="d" />
+<rubric>Comment
+herodes fut chef de jherusalem</rubric>
+
+<pb n="112v" /> <cb n="c" />
+<rubric>Comme<ex>n</ex>t
+octovien vainqui par mer et p<ex>ar</ex>
+terre anthoi<ex>n</ex>e</rubric>
+
+<pb n="113r" /> <cb n="b" />
+<rubric>De lorrible mort dont la
+royne cleopatras se fist mourir</rubric>
+
+<pb n="113v" /> <cb n="c" />
+<rubric>De grans bie<ex>n</ex>s
+que anthoine fist a herode pour
+son service</rubric>
+
+<pb n="113v" /> <cb n="c" />
+<rubric>Comment lempe<ex>reu</ex>r
+octovie<ex>n</ex> estably m<ex>ou</ex>lt de loys a ro<ex>m</ex>m<ex>e</ex></rubric>
+
+<pb n="113v" /> <cb n="c-d" />
+<rubric>Comment ce<ex>u</ex>lx
+de perse requirent paix a octovi
+en la quelle leur accorda</rubric>
+
+<pb n="113v" /> <cb n="d" />
+<rubric>Comment octovien voult
+faire nombrer le peuple de so<ex>n</ex> reg<ex>n</ex>e</rubric>
+
+      </div>
+     </body>
+    </text>
+</TEI>

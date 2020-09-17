@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    
+        @@include('./fragments/head.html', {
+"description": "[...]"
+})
+    
+	
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header + Menu -->
+					@@include('./fragments/header.html')
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								
+							</header>
+							<div class="content">
+								
+								
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one" class="tiles">
+								<article>
+									<span class="image">
+										
+									</span>
+									<header class="major">
+									
+										
+									</header>
+								</article>
+								
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="inner">
+									<header class="major">
+										
+                                        <div class="content">
+                                        </div>
+									</header>
+									  
+
+								</div>
+							</section>
+
+					</div>
+
+				
+                   <div id="cetei">
+
+
+                </div>
+
+				<!-- Footer -->
+@@include('./fragments/footer.html')
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+        
+        <script>
+        var CETEIcean = new CETEI()
+
+
+    CETEIcean.getHTML5('', function(data){
+        document.getElementById("cetei").innerHTML ="";
+        document.getElementById("cetei").appendChild(data);
+        CETEIcean.addStyle(document, data);
+    });
+  </script>
+        
+	</body>
+</html>
+
+
+
+				
+
+	
