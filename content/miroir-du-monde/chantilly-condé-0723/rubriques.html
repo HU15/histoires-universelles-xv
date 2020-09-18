@@ -61,7 +61,7 @@
         var CETEIcean = new CETEI()
 
 
-    CETEIcean.getHTML5('', function(data){
+    CETEIcean.getHTML5('./rubriques-tei-chantilly-723', function(data){
         document.getElementById("cetei").innerHTML ="";
         document.getElementById("cetei").appendChild(data);
         CETEIcean.addStyle(document, data);
