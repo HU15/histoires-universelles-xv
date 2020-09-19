@@ -362,7 +362,7 @@ tei-cb::before {
 }
 
 tei-lb::before {
-    display: inline-block;
+    display: block;
 
 }
 
