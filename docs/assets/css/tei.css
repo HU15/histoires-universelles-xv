@@ -361,7 +361,7 @@ tei-cb::before {
     color: gray;
 }
 
-tei-lb::before {
+tei-lb::after {
     display: block;
 
 }
