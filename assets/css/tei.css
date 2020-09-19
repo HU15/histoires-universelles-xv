@@ -307,10 +307,85 @@ tei-ref:hover {
 }
 
 
+/* Règles concernant les transcriptions des manuscrits */
+
+tei-rubric {
+    display: inline;
+    color: brown;
+}
+
+tei-hi {
+    display: inline;
+    font-size: 1.5em;
+    color: brown;
+}
 
 
+tei-num {
+    display: inline;
+    font-variant: small-caps;
+}
 
+tei-note {
+    display: none;
+}
 
+tei-pb::before {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    content: '[' attr(n) ']';
+    font-family: 'TeX Gyre Chorus',
+    'URW Chancery',
+    'Zapf Chancery',
+    'Lucida Calligraphy',
+    'Apple Chancery',
+    'Palatino',
+    serif;
+    color: gray;
+}
 
+tei-cb::before {
+    display: inline-block;
+    max-width: 6em;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    content: '[' attr(n) ']';
+    font-family: 'TeX Gyre Chorus',
+    'URW Chancery',
+    'Zapf Chancery',
+    'Lucida Calligraphy',
+    'Apple Chancery',
+    'Palatino',
+    serif;
+    color: gray;
+}
 
+tei-lb::before {
+    display: inline-block;
 
+}
+
+tei-expan {
+    display: inline;
+}
+
+tei-ex {
+    display: inline;
+    font-style: italic;
+}
+
+tei-g {
+    display: inline;
+}
+
+tei-g[type="exposant"] {
+    font-size: 80%;
+    vertical-align: super;
+    position: relative;
+    top: -0.4em;
+}
+
+tei-g[type="pied-de-mouche"]::before {
+    content: '❡';
+}
