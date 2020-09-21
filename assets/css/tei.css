@@ -310,7 +310,7 @@ tei-ref:hover {
 /* Règles concernant les transcriptions des manuscrits */
 
 tei-rubric {
-    display: inline;
+    display: block;
     color: brown;
 }
 
@@ -363,7 +363,6 @@ tei-cb::before {
 
 tei-lb::before {
     display: block;
-
 }
 
 tei-expan {
