@@ -361,8 +361,9 @@ tei-cb::before {
     color: gray;
 }
 
-tei-lb::before {
-    display: block;
+tei-lb:after {
+  content: '\a';
+  white-space: pre;
 }
 
 tei-expan {
