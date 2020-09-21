@@ -21,6 +21,7 @@
  <text>
   <body>
    <div>
+       <p>
        
 <pb n="1r" /> <cb n="a" />
 <rubric id="incipit_pars">Cy commance le livre des hystoires <lb/>
@@ -396,6 +397,7 @@ recommancerent devant troye</rubric>
 <rubric>Comment les tierces batailles
 recommencerent</rubric>
 
+       </p>
       </div>
      </body>
     </text>
