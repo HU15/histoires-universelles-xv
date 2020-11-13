@@ -27,6 +27,7 @@
        
      <list>
 <item>
+ <ref target="https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/406/manifest">
 <msDesc>
  <msIdentifier>
   <settlement>Chantilly</settlement>
@@ -34,7 +35,7 @@
   <idno>723 (715)</idno>  
  </msIdentifier>
 </msDesc>
-
+ </ref>
 
 </item>
 
