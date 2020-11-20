@@ -25,7 +25,7 @@
 									<header class="major">
 										<h1>Rubriques du manuscrit BnF, fr. 1411</h1>
 									</header>
-									<span class="image main"><img src="@@webRoot/assets/images/imageMbanner.png" alt="" /></span>
+									<span class="image main"><img src="@@webRoot/assets/images/bandeauThott430.png" alt="" /></span>
 
 
 
@@ -40,6 +40,8 @@
         </div>
 
         <div id="wrapper">
+
+          Transcription réalisée par Kim Labelle
 
 @@include('../../../fragments/footer.html')
 
@@ -62,7 +64,7 @@
         var CETEIcean = new CETEI()
 
 
-    CETEIcean.getHTML5('./rubriques-tei-fr1411.xml', function(data){
+    CETEIcean.getHTML5('./rubriques-tei-bnf_fr_1411.xml', function(data){
         document.getElementById("cetei").innerHTML ="";
         document.getElementById("cetei").appendChild(data);
         CETEIcean.addStyle(document, data);
