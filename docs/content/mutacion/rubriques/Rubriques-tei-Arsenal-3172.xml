@@ -1,4 +1,29 @@
-<title>Table des rubriques du ms Paris, Bibliothèque de l'Arsenal, 3172</title>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Table des rubriques du ms. Paris, Arsenal, 3172</title>
+                <respStmt>
+                    <resp></resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+    <text>
+        <body>
+            <div>
+
+                <p>
+
 
 <pb n="1r"/>
 <rubric>Et premierement prologue <num>.i</num></rubric>
@@ -457,3 +482,9 @@ occirent en la bataille. <num>xxv<g type="exposant">e</g>.</num></rubric>
 
 <pb n="299r"/>
 <rubric>Cy dit de crete et dathenes. <num>xvii<g type="exposant">e</g>.</num></rubric>
+                    
+                      </p>
+            </div>
+        </body>
+    </text>
+</TEI>
