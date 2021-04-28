@@ -66,7 +66,7 @@
          <idno>494 (567)</idno>
         </msIdentifier>
        </msDesc>
-
+         </item>
 
 <item>
  <ref target="https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/406/manifest">
@@ -128,7 +128,8 @@
  </msIdentifier>
 </msDesc>
         </ref>
-
+                    </item>
+    
 <item>
 <msDesc>
  <msIdentifier>
@@ -163,12 +164,10 @@
  </msIdentifier>
 </msDesc>
 </ref>
-
 </item>
 
 
 <item>
-
     <ref target="https://gallica.bnf.fr/ark:/12148/btv1b6000099t">
 <msDesc>
  <msIdentifier>
@@ -179,7 +178,6 @@
  </msIdentifier>
 </msDesc>
 </ref>
-
 </item>
 
 <item>
@@ -196,9 +194,6 @@
 </item>
 
 <item>
-
-
-<item>
 <ref target="https://gallica.bnf.fr/ark:/12148/btv1b105206500">
 <msDesc>
  <msIdentifier>
@@ -212,7 +207,6 @@
 </item>
 
 <item>
-
     <ref target="http://gallica.bnf.fr/ark:/12148/btv1b525006603">
 <msDesc>
  <msIdentifier>
@@ -239,7 +233,6 @@
 </item>
 
 <item>
-
    <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8531136d">
 <msDesc>
 <msIdentifier>
@@ -250,13 +243,10 @@
 </msIdentifier>
 </msDesc>
 </ref>
-
 </item>
-</list>
-
-
-
-<list>
+                    </list>
+  
+<list>    
 <item>
   <bibl>
 	<title>Le Compendieux livre du Miroir hystorial</title>
@@ -265,8 +255,13 @@
 	<date>31 juillet 1479</date>
   </bibl>
 </item>
-
 </list>
+
+
+
+
+
+
    </div>
   </body>
  </text>
