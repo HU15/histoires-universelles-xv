@@ -101,13 +101,6 @@
 
 <dl>
 
-    <dt>Bibliographie</dt>
-    
-<dd><a href="https://www.arlima.net/ad/christine_de_pizan.html#mut">Fiches bibliographique dans Arlima</a></dd>
- <dd>< a href="http://jonas.irht.cnrs.fr/consulter/oeuvre/detail_oeuvre.php?oeuvre=9452">Fiche bibliographique dans Jonas</a></dd>
-    
-    
-<dd>Bibliographie sur le texte</dd>
 
      <dt>Liste des témoins et lien vers la numérisation quand elle existe</dt>
     
@@ -166,13 +159,33 @@
 				<dd>Paris, BnF, français 25430</dd>
 
 
+    
+    <dt>Bibliographie</dt>
+    
+<dd><a href="https://www.arlima.net/ad/christine_de_pizan.html#mut">Fiches bibliographique dans Arlima</a></dd>
+ <dd>< a href="http://jonas.irht.cnrs.fr/consulter/oeuvre/detail_oeuvre.php?oeuvre=9452">Fiche bibliographique dans Jonas</a></dd>
+    
+    
+<dd>Bibliographie sur le texte</dd>
+  </dl>  
+    
+    
 
-</dl>
+
 
               
             </div>
 </section>
+        </div>
+            
+          <div id="cetei">
 
+
+                </div> 
+        
+        
+        <div id="wrapper">
+        
                 								
 
 				<!-- Footer -->
@@ -211,6 +224,19 @@
 			<script src="../../assets/js/util.js"></script>
 			<script src="../../assets/js/main.js"></script>
 
+        
+                     <script src="../../assets/js/CETEI.js"></script>
+        
+        <script>
+        var CETEIcean = new CETEI()
+
+
+    CETEIcean.getHTML5('./mutacion-biblio.xml', function(data){
+        document.getElementById("cetei").innerHTML ="";
+        document.getElementById("cetei").appendChild(data);
+        CETEIcean.addStyle(document, data);
+    });
+  </script>
 
 </body>
 </html>
