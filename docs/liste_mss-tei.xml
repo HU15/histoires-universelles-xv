@@ -49,16 +49,31 @@
 
 
        <item>
+         <ref target="https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/352/manifest">
        <msDesc>
         <msIdentifier>
          <settlement>Chantilly</settlement>
          <repository>Musée Condé</repository>
-         <idno>492-493 (1667-1668)</idno>
+         <idno>492 (1667)</idno>
         </msIdentifier>
        </msDesc>
+     </ref>
+       </item>
+
+       <item>
+         <ref target="https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/353/manifest">
+       <msDesc>
+        <msIdentifier>
+         <settlement>Chantilly</settlement>
+         <repository>Musée Condé</repository>
+         <idno>493 (1668)</idno>
+        </msIdentifier>
+       </msDesc>
+       </ref>
        </item>
 
                 <item>
+                  <ref target="https://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=354">
        <msDesc>
         <msIdentifier>
          <settlement>Chantilly</settlement>
@@ -66,6 +81,7 @@
          <idno>494 (567)</idno>
         </msIdentifier>
        </msDesc>
+     </ref>
          </item>
 
 <item>
@@ -129,7 +145,7 @@
 </msDesc>
         </ref>
                     </item>
-    
+
 <item>
 <msDesc>
  <msIdentifier>
@@ -245,8 +261,8 @@
 </ref>
 </item>
                     </list>
-  
-<list>    
+
+<list>
 <item>
   <bibl>
 	<title>Le Compendieux livre du Miroir hystorial</title>
