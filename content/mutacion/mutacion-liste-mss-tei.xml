@@ -17,59 +17,73 @@
  </fileDesc>
 </teiHeader>
 
- 
+
  <text>
   <body>
    <div>
 
-       	
-       
+
+
      <list>
-    
+
 <item>
 <msDesc>
  <msIdentifier>
   <settlement>Baltimore</settlement>
   <repository>Walters Art Gallery</repository>
-  <idno>W 316 (De Ricci 510)</idno>  
+  <idno>W 316 (De Ricci 510)</idno>
  </msIdentifier>
 </msDesc>
-</item>         
-         
+</item>
+
 <item>
  <ref target="https://belgica.kbr.be/BELGICA/doc/SYRACUSE/16454675/le-livre-de-la-mutacion-de-fortune-ms-9508">
 <msDesc>
  <msIdentifier>
   <settlement>Bruxelles</settlement>
   <repository>KBR</repository>
-  <idno>9508</idno>  
+  <idno>9508</idno>
  </msIdentifier>
 </msDesc>
  </ref>
-</item>         
-         
-<item>
-<msDesc>
- <msIdentifier>
-  <settlement>Chantilly</settlement>
-  <repository>Musée Condé</repository>
-  <idno>492-493 (1667-1668)</idno>  
- </msIdentifier>
-</msDesc>
 </item>
-         
-         <item>
- 
-<msDesc>
- <msIdentifier>
-  <settlement>Chantilly</settlement>
-  <repository>Musée Condé</repository>
-  <idno>494 (567)</idno>  
- </msIdentifier>
-</msDesc>
 
 
-</item>
+       <item>
+         <ref target="https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/352/manifest">
+       <msDesc>
+        <msIdentifier>
+         <settlement>Chantilly</settlement>
+         <repository>Bibliothèque du Château</repository>
+         <idno>492 (1667)</idno>
+        </msIdentifier>
+       </msDesc>
+     </ref>
+       </item>
+
+       <item>
+         <ref target="https://bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/353/manifest">
+       <msDesc>
+        <msIdentifier>
+         <settlement>Chantilly</settlement>
+         <repository>Bibliothèque du Château</repository>
+         <idno>493 (1668)</idno>
+        </msIdentifier>
+       </msDesc>
+       </ref>
+       </item>
+
+                <item>
+                  <ref target="https://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=354">
+       <msDesc>
+        <msIdentifier>
+         <settlement>Chantilly</settlement>
+         <repository>Bibliothèque du Château</repository>
+         <idno>494 (567)</idno>
+        </msIdentifier>
+       </msDesc>
+     </ref>
+         </item>
 
 <item>
 <msDesc>
@@ -81,7 +95,7 @@
 </msDesc>
 </item>
 
-         
+
 <item>
 <msDesc>
  <msIdentifier>
@@ -90,19 +104,19 @@
   <idno>LTK 1819</idno>
  </msIdentifier>
 </msDesc>
-</item>         
-    
+</item>
+
 <item>
     <ref target="https://daten.digitale-sammlungen.de/~db/0008/bsb00086503/images/">
 <msDesc>
  <msIdentifier>
   <settlement>Muenchen</settlement>
-  <idno>gall. 11</idno>  
+  <idno>gall. 11</idno>
  </msIdentifier>
 </msDesc>
         </ref>
-</item>          						
-         
+</item>
+
 <item>
     <ref target="https://gallica.bnf.fr/ark:/12148/btv1b84514805">
 <msDesc>
@@ -114,8 +128,8 @@
 </msDesc>
 </ref>
 </item>
-    
-    
+
+
 <item>
 
     <ref target="https://gallica.bnf.fr/ark:/12148/btv1b6000099t">
@@ -128,7 +142,7 @@
  </msIdentifier>
 </msDesc>
 </ref>
-    
+
 </item>
 
 <item>
@@ -153,7 +167,7 @@
   <repository>Bibliothèque nationale de France</repository>
   <collection>français</collection>
   <idno>25430</idno>
- </msIdentifier>   
+ </msIdentifier>
 </msDesc>
  </ref>
 </item>
@@ -171,9 +185,9 @@
  </msIdentifier>
 </msDesc>
 </ref>
-    
+
 </item>
-         
+
 </list>
    </div>
   </body>
