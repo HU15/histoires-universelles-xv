@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Liste des manuscrits du Li livres dez mervelles et des notables fais, 
+advenees, batailles, puis la creation dou monde de Gilles le Bel</title>
+   <respStmt>
+    <resp>compiled by</resp>
+    <name>Kim Labelle</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <availability></availability>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>No print source exists: this is an original digital text</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+
+ <text>
+  <body>
+   <div>
+
+
+
+     <list>
+
+
+<item>
+ <ref target="https://opac.kbr.be/LIBRARY/doc/SYRACUSE/18284701">
+<msDesc>
+ <msIdentifier>
+  <settlement>Bruxelles</settlement>
+  <repository>KBR</repository>
+  <idno>10478-10479</idno>
+ </msIdentifier>
+</msDesc>
+ </ref>
+</item>
+
+
+       
+
+</list>
+   </div>
+  </body>
+ </text>
+</TEI>
