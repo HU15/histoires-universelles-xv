@@ -1,4 +1,28 @@
-<title>Table des rubriques du Paris, BnF, fr. 5704</title>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rubriques, Paris, BnF, fr. 5704</title>
+                <respStmt>
+                    <resp></resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <p>
 
 <pb n="6r"/>
 <rubric><g type="pied-de-mouche"/>Dadam n<ex>ost</ex>re premier pere</rubric>
@@ -275,3 +299,8 @@ de valois sixiesme de ce nom. c<ex>h</ex>a<ex>ppitre</ex> <num>i</num></rubric>
 <pb n="74r"/>
 <rubric><g type="pied-de-mouche"/>Siege de beauvais.</rubric>
 
+</p>
+</div>
+</body>
+</text>
+</TEI>
