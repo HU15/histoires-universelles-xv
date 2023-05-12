@@ -40,6 +40,8 @@
         </div>
 
         <div id="wrapper">
+            
+            Transcription réalisée par Kim Labelle
     
 @@include('../../../fragments/footer.html')
 
@@ -62,7 +64,7 @@
         var CETEIcean = new CETEI()
 
 
-    CETEIcean.getHTML5('./rubriques-tei-fr684.xml', function(data){
+    CETEIcean.getHTML5('./BnF-fr-5704_rubriques.xml', function(data){
         document.getElementById("cetei").innerHTML ="";
         document.getElementById("cetei").appendChild(data);
         CETEIcean.addStyle(document, data);
