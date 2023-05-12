@@ -1,4 +1,29 @@
-<title>Table des rubriques du Paris, BnF, fr. 23017</title>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rubriques, Paris, BnF, fr. 23017</title>
+                <respStmt>
+                    <resp></resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <p>
+
 
 <pb n="2r"/>
 <rubric>De adam et eve <ex>et</ex> de leur generation.</rubric>
@@ -212,3 +237,8 @@ de france co<ex>mm</ex>e pl<ex>us</ex> p<ex>ro</ex>chai<ex>n</ex> de la lignie r
 <pb n="34r"/>
 <rubric><g type="pied-de-mouche"/> Co<ex>mm</ex>e le roy jeh<ex>an</ex> fu couro<ex>n</ex>ne.</rubric>
 
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
