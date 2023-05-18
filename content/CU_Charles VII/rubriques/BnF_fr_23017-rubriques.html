@@ -64,7 +64,7 @@
         var CETEIcean = new CETEI()
 
 
-    CETEIcean.getHTML5('./Rubriques-BnF-fr-23017.xml', function(data){
+    CETEIcean.getHTML5('./Rubriques_BnF-fr-23017.xml', function(data){
         document.getElementById("cetei").innerHTML ="";
         document.getElementById("cetei").appendChild(data);
         CETEIcean.addStyle(document, data);
