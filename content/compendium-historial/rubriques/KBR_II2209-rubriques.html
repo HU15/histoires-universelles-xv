@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+    
+    
+    @@include('../../../fragments/head.html' {
+"description": "Histoires universelles en français au XVe siècle: Compendium historial, Henri Romain Bruxelles, KBR II 2209"
+})
+	
+    
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header + Menu -->
+					@@include('../../../fragments/header.html')
+
+				
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+						  <section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Rubriques du manuscrit Bruxelles, KBR II 2209</h1>
+									</header>
+									<span class="image main"><img src="@@webRoot/assets/images/bandeau_Compendium-25164.png" alt="" /></span>
+                            
+         
+    
+    
+                              </div>
+							</section>
+                    </div>
+        </div>
+                
+        <div id="cetei">
+
+        </div>
+
+        <div id="wrapper">
+            
+             Transcription réalisée par Kim Labelle
+    
+@@include('../../../fragments/footer.html')
+
+
+        </div>    
+        
+    			<!-- Scripts -->
+			<script src="@@webRoot/assets/js/jquery.min.js"></script>
+			<script src="@@webRoot/assets/js/jquery.scrolly.min.js"></script>
+			<script src="@@webRoot/assets/js/jquery.scrollex.min.js"></script>
+			<script src="@@webRoot/assets/js/browser.min.js"></script>
+			<script src="@@webRoot/assets/js/breakpoints.min.js"></script>
+			<script src="@@webRoot/assets/js/util.js"></script>
+			<script src="@@webRoot/assets/js/main.js"></script>
+		
+
+         <script src="@@webRoot/assets/js/CETEI.js"></script>
+        
+        <script>
+        var CETEIcean = new CETEI()
+
+
+    CETEIcean.getHTML5('./Rubriques-KBR-II2209.xml', function(data){
+        document.getElementById("cetei").innerHTML ="";
+        document.getElementById("cetei").appendChild(data);
+        CETEIcean.addStyle(document, data);
+    });
+  </script>
+    
+    </body>
+</html>  
+
