@@ -1,0 +1,2322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rubriques, Bruxelles, KBR 9260</title>
+                <respStmt>
+                    <resp></resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                <p>
+
+Lorsqu'on retrouve "ok" en note, il s'agit du mot tel qu'écrit dans le manuscrit. 
+
+<pb n="1r"/>
+<cb n="a"/>
+<rubric>Cy co<ex>m</ex>mence la table du quart et
+derrenier volume du livre no<ex>m</ex>me
+La fleur des hystores.</rubric>
+
+<pb n="11r"/>
+<cb n="a"/>
+<rubric>Cy commence le quart volume du
+livre no<ex>m</ex>me la fleur des hystores
+Prologue.</rubric>
+
+<pb n="11v"/>
+<cb n="d"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde dont
+les noms co<ex>m</ex>mencent par .A.</rubric>
+
+<pb n="12r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce dassirie</rubric>
+
+<pb n="12r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce darabe</rubric>
+
+<pb n="12r"/>
+<cb n="b"/>
+<rubric>De la province darmenie</rubric>
+
+<pb n="12v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de archadie</rubric>
+
+<pb n="12v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce dalbanie.</rubric>
+
+<pb n="12v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de Auffrique</rubric>
+
+<pb n="12v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de achaye</rubric>
+
+<pb n="12v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de Archade.</rubric>
+
+<pb n="12v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de Alanye</rubric>
+
+<pb n="13r"/>
+<cb n="a"/>
+<rubric>De la Region de Amasone.</rubric>
+
+<pb n="13r"/>
+<cb n="a"/>
+<rubric>De la Region de Alemaigne.</rubric>
+
+<pb n="13r"/>
+<cb n="b"/>
+<rubric>De la Region et isle dangleterre</rubric>
+
+<pb n="13v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de Acquitaine</rubric>
+
+<pb n="13v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de angou</rubric>
+
+<pb n="13v"/>
+<cb n="c"/>
+<rubric>De la province de aulvergne</rubric>
+
+<pb n="13v"/>
+<cb n="d"/>
+<rubric> De la provi<ex>n</ex>ce de puille.</rubric>
+
+<pb n="13v"/>
+<cb n="d"/>
+<rubric>De la Region de auffrique</rubric>
+
+<pb n="14r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de ascine.</rubric>
+
+<pb n="14r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce darragon.</rubric>
+
+<pb n="14r"/>
+<cb n="b"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du mo<ex>n</ex>de do<ex>n</ex>t
+les noms co<ex>m</ex>mencent par .B.</rubric>
+
+<pb n="14v"/>
+<cb n="c"/>
+<rubric>De la Region de bactre</rubric>
+
+<pb n="14v"/>
+<cb n="c"/>
+<rubric>De la Region de bracteane.</rubric>
+
+<pb n="14v"/>
+<cb n="c"/>
+<rubric>De la province de brabant</rubric>
+
+<pb n="14v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de beauvoisis</rubric>
+
+<pb n="14v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de bithinnie</rubric>
+
+<pb n="14v"/>
+<cb n="d"/>
+<rubric>De la grant bretaigne.</rubric>
+
+<pb n="15r"/>
+<cb n="a"/>
+<rubric>De la mineur bretaigne.</rubric>
+
+<pb n="15r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de boerye.</rubric>
+
+<pb n="15r"/>
+<cb n="a"/>
+<rubric>De la province de behaigne</rubric>
+
+<pb n="15r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de bourgoi<ex>n</ex>gne</rubric>
+
+<pb n="15v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de bourbonnois</rubric>
+
+<pb n="15v"/>
+<cb n="d"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde do<ex>n</ex>t
+les noms co<ex>m</ex>mencent par .C.</rubric>
+
+<pb n="16r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de caldee.</rubric>
+
+<pb n="16r"/>
+<cb n="a"/>
+<rubric>De la province de Cedar</rubric>
+
+<pb n="16r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de canchie</rubric>
+
+<pb n="16r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de cantrebie.</rubric>
+
+<pb n="16v"/>
+<cb n="c"/>
+<rubric>De la Region de Chananee</rubric>
+
+<pb n="16v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de Campane</rubric>
+
+<pb n="16v"/>
+<cb n="c"/>
+<rubric>De lisle de choe.</rubric>
+
+<pb n="16v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de Celice</rubric>
+
+<pb n="16v"/>
+<cb n="d"/>
+<rubric>De lisle de Chipre.</rubric>
+
+<pb n="16v"/>
+<cb n="d"/>
+<rubric>De lisle de Crete.</rubric>
+
+<pb n="17r"/>
+<cb n="a"/>
+<rubric>Des isles Cyclades.</rubric>
+
+<pb n="17r"/>
+<cb n="a"/>
+<rubric>De lisle de Choes.</rubric>
+
+<pb n="17r"/>
+<cb n="a"/>
+<rubric>De lisle de corsique</rubric>
+
+<pb n="17r"/>
+<cb n="b"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>mence<ex>n</ex>t par .D.</rubric>
+
+<pb n="17r"/>
+<cb n="b"/>
+<rubric>De la Region de danemarce.</rubric>
+
+<pb n="!7r"/>
+<cb n="b"/>
+<rubric>De lisle de Delos.</rubric>
+
+<pb n="17v"/>
+<cb n="c"/>
+<rubric>De la Region de dodan.</rubric>
+
+<pb n="17v"/>
+<cb n="c"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>mencent par .E.</rubric>
+
+<pb n="17v"/>
+<cb n="d"/>
+<rubric>De la province de eiulath.</rubric>
+
+<pb n="18r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce dethiope.</rubric>
+
+<pb n="18v"/>
+<cb n="c"/>
+<rubric>De la Region degipte.</rubric>
+
+<pb n="18v"/>
+<cb n="d"/>
+<rubric>De la province de ellade.</rubric>
+
+<pb n="19r"/>
+<cb n="a"/>
+<rubric>De la mer de hellespont</rubric>
+
+<pb n="19r"/>
+<cb n="a"/>
+<rubric>De lisle de Eola</rubric>
+
+<pb n="19r"/>
+<cb n="a"/>
+<rubric>Cy parle des des provi<ex>n</ex>ces du mo<ex>n</ex>de
+dont les noms co<ex>m</ex>mencent par .F.</rubric>
+
+<pb n="19r"/>
+<cb n="b"/>
+<rubric>De la Region de france.</rubric>
+
+<pb n="19v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de fenice</rubric>
+
+<pb n="19v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de flandres</rubric>
+
+<pb n="19v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de frigie.</rubric>
+
+<pb n="20r"/>
+<cb n="a"/>
+<rubric>De la province de frise</rubric>
+
+<pb n="20r"/>
+<cb n="b"/>
+<rubric>Des isles fortunees.</rubric>
+
+<pb n="20r"/>
+<cb n="b"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>me<ex>n</ex>cent par .G.</rubric>
+
+<pb n="20v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de galathe.</rubric>
+
+<pb n="20v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de gallice</rubric>
+
+<pb n="20v"/>
+<cb n="c"/>
+<rubric>De la Region de gualle</rubric>
+
+<pb n="20v"/>
+<cb n="d"/>
+<rubric>De lisle de gades.</rubric>
+
+<pb n="20v"/>
+<cb n="d"/>
+<rubric>De la Region de grece.</rubric>
+
+<pb n="21r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de gethulie.</rubric>
+
+<pb n="21r"/>
+<cb n="a"/>
+<rubric>Cy parle des garamantes</rubric>
+
+<pb n="21r"/>
+<cb n="a"/>
+<rubric>De la Region de gothie.</rubric>
+
+<pb n="21r"/>
+<cb n="a"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>me<ex>n</ex>cent par .I.</rubric>
+
+<pb n="22r"/>
+<cb n="a"/>
+<rubric>De la Region de Ircanie</rubric>
+
+<pb n="22r"/>
+<cb n="a"/>
+<rubric>De la Region de Idumee.</rubric>
+
+<pb n="22r"/>
+<cb n="b"/>
+<rubric>De la Region de judee.</rubric>
+
+<pb n="22v"/>
+<cb n="c"/>
+<rubric>De la Region de Iberie.</rubric>
+
+<pb n="22v"/>
+<cb n="c"/>
+<rubric>De la Region dytalie</rubric>
+
+<pb n="22v"/>
+<cb n="d"/>
+<rubric>De la Region despaigne</rubric>
+
+<pb n="23r"/>
+<cb n="a"/>
+<rubric>De la Region dirlande.</rubric>
+
+<pb n="23v"/>
+<cb n="c"/>
+<rubric>De lisle dycarie.</rubric>
+
+<pb n="23v"/>
+<cb n="c"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>mencent par .k.</rubric>
+
+<pb n="23v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de karintie.</rubric>
+
+<pb n="23v"/>
+<cb n="d"/>
+<rubric>De lisle de korcise.</rubric>
+
+<pb n="24r"/>
+<cb n="a"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde do<ex>n</ex>t
+les noms co<ex>m</ex>mencent par .L.</rubric>
+
+<pb n="24r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de lectone.</rubric>
+
+<pb n="24r"/>
+<cb n="b"/>
+<rubric>De la province de Livonie.</rubric>
+
+<pb n="24v"/>
+<cb n="c"/>
+<rubric>De la cite de licie.</rubric>
+
+<pb n="24v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de lidie</rubric>
+
+<pb n="24v"/>
+<cb n="c"/>
+<rubric>De la Region de libie.</rubric>
+
+<pb n="24v"/>
+<cb n="d"/>
+<rubric>De la province de loherraine.</rubric>
+
+<pb n="25r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de lusicanel.</rubric>
+
+<pb n="25r"/>
+<cb n="a"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>mencent par .M.</rubric>
+
+<pb n="25r"/>
+<cb n="b"/>
+<rubric>De la Region de mauritaine.</rubric>
+
+<pb n="25v"/>
+<cb n="c"/>
+<rubric>De la Region de macedoine</rubric>
+
+<pb n="25v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de magnesie</rubric>
+
+<pb n="25v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de messie.</rubric>
+
+<pb n="25v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de mesopothamie</rubric>
+
+<pb n="25v"/>
+<cb n="d"/>
+<rubric>De lisle de Melos.</rubric>
+
+<pb n="26r"/>
+<cb n="a"/>
+<rubric>De lisle de Midie</rubric>
+
+<pb n="26r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de missene.</rubric>
+
+<pb n="26r"/>
+<cb n="b"/>
+<rubric>De lisle de Mithilene.</rubric>
+
+<pb n="26r"/>
+<cb n="b"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>mence<ex>n</ex>t par .N.</rubric>
+
+<pb n="26r"/>
+<cb n="b"/>
+<rubric>De la Region de Norvueghe.</rubric>
+
+<pb n="26v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de Normandie</rubric>
+
+<pb n="26v"/>
+<cb n="d"/>
+<rubric>De la Region de numedie</rubric>
+
+<pb n="26v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de narbo<ex>n</ex>ne</rubric>
+
+<pb n="27r"/>
+<cb n="a"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>me<ex>n</ex>cent par .O.</rubric>
+
+<ob n="27r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de hollande.</rubric>
+
+<pb n="27r"/>
+<cb n="b"/>
+<rubric>De lisle de Orcade</rubric>
+
+<pb n="27r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de Osterice.</rubric>
+
+<pb n="27r"/>
+<cb n="b"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>me<ex>n</ex>cent par P.</rubric>
+
+<pb n="28r"/>
+<cb n="a"/>
+<rubric>De la Region de parthie</rubric>
+
+<pb n="28r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de palestine</rubric>
+
+<pb n="28r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de pamphile</rubric>
+
+<pb n="28r"/>
+<cb n="b"/>
+<rubric>De la Region de pannonie.</rubric>
+
+<pb n="28v"/>
+<cb n="c"/>
+<rubric>De lisle de paron.</rubric>
+
+<pb n="28v"/>
+<cb n="c"/>
+<rubric>De la Region de penthapolis</rubric>
+
+<pb n="29r"/>
+<cb n="a"/>
+<rubric>De la Region de perse.</rubric>
+
+<pb n="29r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de pirence.</rubric>
+
+<pb n="29r"/>
+<cb n="b"/>
+<rubric>De la region de pignice.</rubric>
+
+<pb n="29v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de poitou.</rubric>
+
+<pb n="29v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de picquardie.</rubric>
+
+<pb n="29v"/>
+<cb n="d"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde dont
+les noms co<ex>m</ex>mencent par .R.</rubric>
+
+<pb n="29v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de Rencie.</rubric>
+
+<pb n="30r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de Rivale.</rubric>
+
+<pb n="30r"/>
+<cb n="a"/>
+<rubric>De la terre de Rinchonie</rubric>
+
+<pb n="30r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de Ro<ex>m</ex>menie.</rubric>
+
+<pb n="30r"/>
+<cb n="b"/>
+<rubric>De lisle de Rodes.</rubric>
+
+<pb n="30v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de Russie</rubric>
+
+<pb n="30v"/>
+<cb n="c"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>me<ex>n</ex>cent par .S.</rubric>
+
+<pb n="30v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de samarie</rubric>
+
+<pb n="30v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de sambie</rubric>
+
+<pb n="30v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de savoye.</rubric>
+
+<pb n="30v"/>
+<cb n="d"/>
+<rubric>De lisle de sardaigne</rubric>
+
+<pb n="31r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de sarmate.</rubric>
+
+<pb n="31r"/>
+<cb n="a"/>
+<rubric>De lisle de samo</rubric>
+
+<pb n="31r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de saxoine</rubric>
+
+<pb n="31r"/>
+<cb n="b"/>
+<rubric>De la Region de sclavonie.</rubric>
+
+<pb n="31v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de sere</rubric>
+
+<pb n="31v"/>
+<cb n="c"/>
+<rubric>De la province de selande.</rubric>
+
+<pb n="31v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de semigale</rubric>
+
+<pb n="31v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de sens</rubric>
+
+<pb n="31v"/>
+<cb n="d"/>
+<rubric>De la Region de sirie</rubric>
+
+<pb n="32r"/>
+<cb n="a"/>
+<rubric>De la provi<ex>n</ex>ce de sichinie</rubric>
+
+<pb n="32r"/>
+<cb n="b"/>
+<rubric>De la Region de sichie</rubric>
+
+<pb n="32r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de sichione.</rubric>
+
+<pb n="32v"/>
+<cb n="c"/>
+<rubric>De lisle de secile.</rubric>
+
+<pb n="32v"/>
+<cb n="d"/>
+<rubric>Des perilleux lieux en mer qui
+sont no<ex>m</ex>mes sirces.</rubric>
+
+<pb n="32v"/>
+<cb n="d"/>
+<rubric>De la Region descoce.</rubric>
+
+<pb n="33r"/>
+<cb n="a"/>
+<rubric>De la Region de suece.</rubric>
+
+<pb n="33r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de sueve.</rubric>
+
+<pb n="33v"/>
+<cb n="c"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde do<ex>n</ex>t
+les noms co<ex>m</ex>mencent par .T.</rubric>
+
+<pb n="33v"/>
+<cb n="c"/>
+<rubric>De la grant isle de taprobane</rubric>
+
+<pb n="33v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de trace.</rubric>
+
+<pb n="33v"/>
+<cb n="d"/>
+<rubric>De la Region de traconitide.</rubric>
+
+<pb n="33v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de thessalle.</rubric>
+
+<pb n="34r"/>
+<cb n="a"/>
+<rubric>De lisle de thenedos.</rubric>
+
+<pb n="34r"/>
+<¢b n="a"/>
+<rubric>De lisle de Thile</rubric>
+
+<pb n="34r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de tripolis.</rubric>
+
+<pb n="34r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de trogodee</rubric>
+
+<pb n="34r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de troyes la grant</rubric>
+
+<pb n="34v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de thuscane</rubric>
+
+<pb n="34v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de thuringe.</rubric>
+
+<pb n="34v"/>
+<cb n="d"/>
+<rubric>De la provi<ex>n</ex>ce de thouraine</rubric>
+
+<pb n="35r"/>
+<cb n="a"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde do<ex>n</ex>t
+les noms co<ex>m</ex>mencent par .V.</rubric>
+
+<pb n="35r"/>
+<cb n="a"/>
+<rubric>De la noble cite de venice</rubric>
+
+<pb n="35r"/>
+<cb n="b"/>
+<rubric>De la provi<ex>n</ex>ce de westale.</rubric>
+
+<pb n="35v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de vironie</rubric>
+
+<pb n="35v"/>
+<cb n="c"/>
+<rubric>De la provi<ex>n</ex>ce de willande.</rubric>
+
+<pb n="35v"/>
+<cb n="d"/>
+<rubric>De lisle de victrie.</rubric>
+
+<pb n="35v"/>
+<cb n="d"/>
+<rubric>Cy parle des provi<ex>n</ex>ces du monde
+dont les noms co<ex>m</ex>mence<ex>n</ex>t par .y.</rubric>
+
+<pb n="36r"/>
+<cb n="a"/>
+<rubric>Cy parle de la provi<ex>n</ex>ce de zengie.</rubric>
+
+<pb n="36v"/>
+<cb n="c"/>
+<rubric>Cy parle de la noblesse des edefi
+ces de ro<ex>m</ex>me du temps que elle
+fut en sa fleur.</rubric>
+
+<pb n="37v"/>
+<cb n="d"/>
+<rubric>Cy parle de leresie arrienne et de aulcu<ex>n</ex>es
+aultres choses qui advi<ex>n</ex>drent au te<ex>m</ex>ps
+de lempereur constantin le grant</rubric>
+
+<pb n="39v"/>
+<cb n="c"/>
+<rubric>Cy parle des empereurs Constance
+et constant son frere.</rubric>
+
+<pb n="40r"/>
+<cb n="a"/>
+<rubric>Cy parle du mauvais empereur 
+julien qui fut surno<ex>m</ex>me lapostat</rubric>
+
+<pb n="40v"/>
+<cb n="d"/>
+<rubric>Cy parle de lempereur jovinien.</rubric>
+
+<pb n="41r"/>
+<cb n="a"/>
+<rubric>Cy parle de lempereur valentinien
+ou temps duquel empereur pluseurs 
+royaulmes et provi<ex>n</ex>ces fure<ex>n</ex>t con
+vertis a la foy <ex>cres</ex>tienne.</rubric>
+
+<pb n="42v"/>
+<cb n="d"/>
+<rubric>Cy parle du commencement
+des francois.</rubric>
+
+<pb n="43r"/>
+<cb n="a"/>
+<rubric>Cy co<ex>m</ex>mence lystore des gothes.</rubric>
+
+<pb n="46r"/>
+<cb n="b"/>
+<rubric>Cy se co<ex>n</ex>tinue lystore des gothes puis
+parle de ladvenement des huns.</rubric>
+
+<pb n="49r"/>
+<cb n="a"/>
+<rubric>Cy se co<ex>n</ex>tinue lystore des gothes et
+parle de pluseurs empereurs de ro<ex>m</ex>me
+qui furent au temps delors en co<ex>n</ex>ti/</rubric>
+
+<pb n="49r"/>
+<cb n="b"/>
+<rubric>nua<ex>n</ex>t les deux hystores ensemble.</rubric>
+
+<pb n="50v"/>
+<cb n="c"/>
+<rubric>Cy se continue lystore des gothes
+avec celle de ro<ex>m</ex>me et parle des cho /
+ses qui advindrent au temps des
+empereurs archadien et honno
+re son frere.</rubric>
+
+<pb n="52v"/>
+<cb n="c"/>
+<rubric>Cy parle de lempereur theodose le se
+cond de ce nom et daulcu<ex>n</ex>s aultrez
+empereurs qui regnere<ex>n</ex>t aprez lui
+Puiz parle de la gra<ex>n</ex>t persecution
+que fire<ex>n</ex>t les huns et aultres au
+temps de lors.</rubric>
+
+<pb n="55r"/>
+<cb n="a"/>
+<rubric>Cy se co<ex>n</ex>tinue listore des gothes avec
+celle de romme puiz reco<ex>m</ex>mence a
+listore des francois.</rubric>
+
+<pb n="56r"/>
+<cb n="a"/>
+<rubric>Cy se co<ex>n</ex>tinue lystore des francois et par
+le du roy meronee et du roy childeric et de
+leurs fais lesquelz dilaterent leur roy
+aulme jusques a orlee<ex>n</ex>s et a angiers.</rubric>
+
+<pb n="56v"/>
+<cb n="d"/>
+<rubric>Cy retourne a lystore des emperereurs
+et de celle des gothes et des aultrez
+nacions estranges qui troublerent
+moult la chose publique</rubric>
+
+<pb n="59v"/>
+<cb n="d"/>
+<rubric>Cy se co<ex>n</ex>tinue lystore des ostrogothes
+et dist co<ex>m</ex>ment finablement ilz issire<ex>n</ex>t
+de pannonie et sen alerent es gaul
+les avec les wesegothes leurs anci
+ens freres et co<ex>m</ex>ment ilz occuperent
+les gaulles et les espaignes.</rubric>
+
+<pb n="60v"/>
+<cb n="c"/>
+<rubric>Cy parle en brief par incident des fais
+du roy Artus le preu qui fut roy de
+la grant bretaigne.</rubric>
+
+<pb n="61v"/>
+<cb n="d"/>
+<rubric>Cy retourne a lystore des gothes
+et dist co<ex>m</ex>ment therry le roy des os
+strogothes conquist et fut roy
+dytalie puiz parle des empereurs
+qui furent au temps de lors</rubric>
+
+<pb n="64r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le prince bellisaire
+passa en secile contre les gothes qui la
+tenoie<ex>n</ex>t et co<ex>n</ex>quist tout le pays.</rubric>
+
+<pb n="65v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment aprez la prinse de na
+ples bellisaire sen ala a ro<ex>m</ex>me co<ex>m</ex>ment
+les gothes tuerent leur roy theoda
+hadus et firent roy dun vaillant
+ho<ex>m</ex>me darmes no<ex>m</ex>me vitigis pour
+mener leur guerre contre bellisai
+re Et co<ex>m</ex>ment bellisaire fu receuz
+a ro<ex>m</ex>me Puiz y fut assiegiez par
+les gothes.</rubric>
+
+<pb n="68v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment le siege fut leve de
+ro<ex>m</ex>me et co<ex>m</ex>ment les gothes alere<ex>n</ex>t
+assieger armuine et les ro<ex>m</ex>mains</rubric>
+
+<pb n="68v"/>
+<cb n="d"/>
+<rubric>assiegere<ex>n</ex>t urbine et prindre<ex>n</ex>t et co<ex>m</ex>
+ment lempereur envoia narses
+en ytalie a chincq mille bons co<ex>m</ex>
+batans puiz dist comment
+bellisaire et narses se troublere<ex>n</ex>t
+ensemble et co<ex>m</ex>ment leurs beson/
+gnes se porterent depuiz.</rubric>
+
+<pb n="71r"/>
+<cb n="a"/>
+<rubric>Cy dist com<ex>m</ex>ment bellisaire se disposa
+dasseger la cite de rave<ex>n</ex>nes et co<ex>m</ex>ment
+finableme<ex>n</ex>t le traittiet fut fais par
+telle maniere que bellisaire entra a
+Rave<ex>n</ex>nes a toute sa puissance Puiz
+sen retourna a constantinoble
+devers son seigneur lempereur
+Justinien.</rubric>
+
+<pb n="72v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>me<ex>n</ex>t les princes de lempire
+se gouvernere<ex>n</ex>t meschaume<ex>n</ex>t en
+Italie aprez le departeme<ex>n</ex>t de bellisai
+re Puiz dist co<ex>m</ex>ment totilas fut
+roy des gothes et co<ex>m</ex>me<ex>n</ex>t il recouvra
+toute Italie <ex>et</ex> la mist en sa seignou
+rie puiz dist co<ex>m</ex>me<ex>n</ex>t bellisaire retour
+na en ytalie a si pou de ge<ex>n</ex>s q<ex>u</ex>il ne peut
+e<ex>m</ex>pescher le<ex>n</ex>trepri<ex>n</ex>se de ses ennemis</rubric>
+
+<pb n="75r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy totilas des go
+thes assiega ro<ex>m</ex>me et la prind en fin
+par trayson et parle de pluseurs fais
+darmes q<ex>u</ex>i fure<ex>n</ex>t ado<ex>n</ex>t fais par diverse
+fortune de lune partie et de laultre.</rubric>
+
+<pb n="78v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment aprez la destruction
+de ro<ex>m</ex>me executee par totilas bel/
+lisaire lala remparer et la tind a
+force co<ex>n</ex>tre totilas Puiz dist co<ex>m</ex>ment
+aprez le partement de bellisaire to
+tilas y remist le siege et la prind de
+rechief par trayson.</rubric>
+
+<pb n="81v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment totilas passa en secile
+et assiega siracuse et co<ex>m</ex>ment jehan
+et valerien leverent les gothes du
+siege danco<ex>n</ex>ne Puiz dist co<ex>m</ex>ment nar
+ses revint en ytalie a grosse armee
+Et occist totilas en bataille Et de
+livra tout le pays de la servitu
+de des gothes.</rubric>
+
+<pb n="84v"/>
+<cb n="c"/>
+<rubric>Cy retourne a continuer lystore
+des francois et met icy premierem<ex>en</ex>t
+trois genealogies des roys de fra<ex>n</ex>
+ce Puiz parle du roy cloevis et de
+ses fais il fut le premier roy de fra<ex>n</ex>
+ce <ex>cres</ex>tien et le convertit saint remy
+archevesque de rains.</rubric>
+
+<pb n="87r"/>
+<cb n="a"/>
+<rubric>Cy retourne a parler des empereurs
+du temps de lors et dist co<ex>m</ex>ment justi
+nien fut empereur par merveilleuse
+adventure et co<ex>m</ex>ment bellisaire vain
+quit en auffrique les wandeles et
+les bouta hors du pays.</rubric>
+
+<pb n="89r"/>
+<cb n="a"/>
+<rubric>Cy parle parle par le incident de pluseurs
+choses qui advindrent au temps de
+lors puiz parle de lempereur justin
+et de ses fais.</rubric>
+
+<pb n="90v"/>
+<cb n="c"/>
+<rubric>Cy parle des qua
+tre filz du roy cloevis et dist co<ex>m</ex>ment
+ap<ex>re</ex>z le trespas de leur pere ilz divisere<ex>n</ex>t
+en quatre royaulmes le royaulme 
+de leur pere Puiz parle de leurs fais
+et de leur gouvernement.</rubric>
+
+<pb n="93v"/>
+<cb n="d"/>
+<rubric>Cy parle des quatre filz du roy clotai
+re et dist co<ex>m</ex>ment ilz diviserent leur
+royaulme aprez le trespas de leur pere
+et co<ex>m</ex>ment ilz sentrecombatire<ex>n</ex>t sou
+vent Puiz dist co<ex>m</ex>ment le roy sige
+bert fut occis par le malice de fre</rubric>
+
+<pb n="94r"/>
+<cb n="a"/>
+<rubric>gonde la fe<ex>m</ex>me de son frere.</rubric>
+
+<pb n="96v"/>
+<cb n="d"/>
+<rubric>Cy parle de pluseurs besongnes
+qui advindrent au temps du
+roy chilperic</rubric>
+
+<pb n="99v"/>
+<cb n="d"/>
+<rubric>Cy retourne a parler des empereurs
+qui furent au temps de lors.</rubric>
+
+<pb n="100v"/>
+<cb n="d"/>
+<rubric>Cy parle du tyrant rotus et dist com
+ment par divine vengance les murs
+de la cite de metz trebucherent de
+vant lui a sa venue.</rubric>
+
+<pb n="101r"/>
+<cb n="a"/>
+<rubric>Cy parle de ladveneme<ex>n</ex>t des lombars
+et de pluseurs aultres choses qui
+lors advindre<ex>n</ex>t en divers lieux.</rubric>
+
+<pb n="102r"/>
+<cb n="b"/>
+<rubric>Cy parle du roy childebert et de ses
+deux filz puiz parle du jone roy clo/
+taire le second de ce nom et des gra<ex>n</ex>s
+dissencio<ex>n</ex>s qui furent entre eulz et
+co<ex>m</ex>ment finableme<ex>n</ex>t les deux filz
+de childebert perdirent leurs vies
+par la malice de bruneheult.</rubric>
+
+<pb n="103r"/>
+<cb n="b"/>
+<rubric>Cy parle du roy clotaire le second de
+ce nom et dist co<ex>m</ex>ment il fist morir
+la desleale royne bruneheult.</rubric>
+
+<pb n="104r"/>
+<¢b n="b"/>
+<rubric>Cy retourne a parler des empereurs
+qui furent au temps de lors et daul
+cunes aultres besongnes qui advi<ex>n</ex>
+drent en leur temps.</rubric>
+
+<pb n="105r"/>
+<cb n="b"/>
+<rubric>Cy parle du roy dagobert de france qui
+fonda labbaye de saint denis et parle
+des<note resp="Kim">ok</note> ses fais et daultres pluseurs choses
+qui advindrent en son temps</rubric>
+
+<pb n="106r"/>
+<cb n="a"/>
+<rubric>Cy parle par incident daulcu<ex>n</ex>es choses
+qui advindrent au temps de lors.</rubric>
+
+<pb n="106v"/>
+<cb n="c"/>
+<rubric>Cy parle du roy samon desclavo<ex>n</ex>nie</rubric>
+
+<pb n="106v"/>
+<cb n="d"/>
+<rubric>Cy parle de maho<ex>m</ex>met le faulz pro
+phete des sarrasins.</rubric>
+
+<pb n="107v"/>
+<cb n="d"/>
+<rubric>Cy parole du roy loeys le premier de ce
+nom et du felon eborin q<ex>u</ex>i fist martiriser
+saint legier et guerin son frere.</rubric>
+
+<pb n="109r"/>
+<cb n="b"/>
+<rubric>Cy retourne a parler des empereurs
+et de pluseurs choses qui advindrent
+au temps de lors.</rubric>
+
+<pb n="109v"/>
+<cb n="c"/>
+<rubric>Co<ex>m</ex>ment saint joce fut en ce temps</rubric>
+
+<pb n="109v"/>
+<cb n="d"/>
+<rubric>Cy se continue lystore des empereurs
+et parle par incident de pluseurs cho
+ses qui lors advindrent.</rubric>
+
+<pb n="110r"/>
+<cb n="a"/>
+<rubric>Cy retourne
+a lystore de france et parle du prince
+pepin le brief et de charles martel
+son son <note resp="Kim">ok</note> filz qui fut ung grant com
+bateur et destruiseur de sarrasins.</rubric>
+
+<pb n="111v"/>
+<cb n="c"/>
+<rubric>Cy retourne a parler des empereurs
+et de leurs fais et de pluseurs aul/
+tres choses qui en leur temps ad/
+vi<ex>n</ex>drent en divers lieux.</rubric>
+
+<pb n="112v"/>
+<cb n="d"/>
+<rubric>Cy retourne a parler du pri<ex>n</ex>ce pepin qui
+depuiz fut roy de fra<ex>n</ex>ce et parle de ses fais
+qui furent nobles et victorieux.</rubric>
+
+<pb n="113v"/>
+<cb n="c"/>
+<rubric>Cy retourne a parler des empereurs
+qui furent en consta<ex>n</ex>tinoble et parle
+daulcunes choses qui advindre<ex>n</ex>t au
+temps de lors et ne parlera plus des
+empereurs ains continuera lys
+tore de france.</rubric>
+
+<pb n="114r"/>
+<cb n="a"/>
+<rubric>Cy co<ex>m</ex>mence lystore de charles le gra<ex>n</ex>t
+qui fut roy de france et empereur de
+ro<ex>m</ex>me et parle tout premiereme<ex>n</ex>t
+en brief des batailles quil fist en sa
+xoine et lombardie et en espaigne
+et ailleurs en pluseurs lieux.</rubric>
+
+<pb n="116v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment au temps du roy char
+les les estudes vindre<ex>n</ex>t a paris et co<ex>m</ex>
+me<ex>n</ex>t les moynes de tours furent tous
+occis en une nuyt par vengance di
+vine puiz parle en brief des fais
+dicellui roy charles le grant et de
+ceulz des empereurs dorient.</rubric>
+
+<pb n="117v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy charles ala recou
+vrer la cite de jherusalem et la terre
+sainte sur les mescrea<ex>n</ex>s et co<ex>m</ex>ment a
+son retour il raporta en france grant
+plente de dignes reliquaires.</rubric>
+
+<pb n="118v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment saint jaques lapostle
+se apparut au roy charles et lui enhor
+ta daler en espaigne et co<ex>m</ex>ment il y
+ala a grant osts et conquist toutes
+les espaignes depuiz lune mer jus
+ques a laultre.</rubric>
+
+<pb n="119v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment lempereur retourne
+en france Agoulant ung roy dauffri
+que vint en espaigne et reconquist tout
+ce que lempereur y eut conquis puiz
+parle en brief des batailles quilz eu
+rent ensemble et des miracles qui 
+en advindrent qui furent beaulz et 
+notables.</rubric>
+
+<pb n="120v"/>
+<cb n="d"/>
+<rubric>Cy parle de fernagu le grant et 
+dist co<ex>m</ex>ment il combati contre les
+plus fors de lost du roy et les pri<ex>n</ex>t
+Et co<ex>m</ex>ment finablement rollant
+loccist en champ de bataille.</rubric>
+
+<pb n="122v"/>
+<cb n="c"/>
+<rubric>Cy parle de la piteuse desco<ex>n</ex>fiture des
+<ex>crest</ex>iens ou cham de rainchevaux qui
+advi<ex>n</ex>t par la trayson de gue<ex>n</ex>nelon puiz
+parle de la vengance q<ex>ue</ex> le roy print
+de ses e<ex>n</ex>nemis et du felon traytre.</rubric>
+
+<pb n="125r"/>
+<cb n="b"/>
+<rubric>Cy parle des meurs et des condicio<ex>n</ex>s
+du roy charles le grant puiz dist co<ex>m</ex>
+ment il trespassa de ce monde et com
+ment leure de son trespas fut reve
+lee a turpin estant lors a vienne Et
+co<ex>m</ex>ment les sarrasins reconquirent
+espaigne.</rubric>
+
+<pb n="126v"/>
+<cb n="c"/>
+<rubric>Cy parle des meurs et des
+condicions de lempereur loeys le
+debonnaire de sa lignie et de ses fais
+et dist co<ex>m</ex>ment par ses enfans mes
+mes il fut demis et desposes de sa
+seignourie et co<ex>m</ex>ment il fut depuiz
+restablis Puiz dist co<ex>m</ex>ment il tres
+passa de ce monde.</rubric>
+
+<pb n="128v"/>
+<cb n="c"/>
+<rubric>Cy parle des trois filz de lempereur loeys
+et dist co<ex>m</ex>ment ilz departire<ex>n</ex>t les terres
+de leur pere entre eulz trois et co<ex>m</ex>ment
+charle le caulve le mai<ex>n</ex>sne deulz trois
+eut sa sa <note resp="Kim">ok</note> part le royaulme de fra<ex>n</ex>ce puiz
+parle de pluseurs choses qui advin
+drent en leur temps.</rubric>
+
+<pb n="130r"/>
+<¢b n="a"/>
+<rubric>Cy co<ex>m</ex>mence lystore de monseigneur
+gerard de roussillon jadis duc et con
+te de bourgoingne et dacquitaine et
+dist premiereme<ex>n</ex>t co<ex>m</ex>ment les wan
+deles destruisirent le chastel de laccoiz
+et co<ex>m</ex>ment tantost aprez par divin
+jugement ilz se entretuerent tous</rubric>
+
+<pb n="131r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le chastel de laccois
+fut refais et repares et fut no<ex>m</ex>mes
+tousjours depuiz roussillon puiz dist
+co<ex>m</ex>ment la guerre co<ex>m</ex>menca entre
+les trois filz de lempereur loeys le
+debo<ex>n</ex>naire qui fut occasion de la
+guerre qui fut depuiz entre le roy
+charles le chaulve et monseigneur
+gerard de roussillon.</rubric>
+
+<pb n="132r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment la guerre co<ex>m</ex>enca
+entre le roy et le duc pour la conte
+de sens et parle des paroles injurieu
+ses quilz dirent lun a laultre.</rubric>
+
+<pb n="132v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy charles par sa
+cautele fist seduire les subgectz de ge
+rard de roussillon tellement quilz fail
+lirent de tous pointz a leur seigneur
+qua<ex>n</ex>t il eut besoing de leur ayde.</rubric>
+
+<pb n="133r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy prind les villes
+et les chasteaulz de bourgoingne
+Puiz parle des notables offres que
+gerard offrit au roy et ny peut
+estre receuz.</rubric>
+
+<pb n="134r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment gerard a petite co<ex>m</ex>
+paignie se prind a deffendre son pays
+contre le roy et co<ex>m</ex>ment il fut des
+confiz en la premiere bataille puiz
+dist co<ex>m</ex>ment le roy le print a pour
+sieuvir.</rubric>
+
+<pb n="135r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy fist gerard
+bannir de tous ses pays puiz parle
+de pluseurs adventures meveil
+leuses<note resp="Kim">ok</note> qui advindrent a gerard
+durant son exil.</rubric>
+
+<pb n="136r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment gerard se desconfor
+ta pour ses pertes et co<ex>m</ex>ment ung sai<ex>n</ex>t
+hermite le reconforta et convertit
+tellement quil porta sa penitance
+en bonne pacience par le terme de
+sept ans entiers.</rubric>
+
+<pb n="136v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment gerard en faisant
+sa penitance qui lui dura sept ans
+fut vallet de charbonnier et co<ex>m</ex>ment
+il se venga dun ribault qui le moqua
+une fois.</rubric>
+
+<pb n="137v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment la royne de france fist
+la paix entre le roy son mary et ge
+rard Et co<ex>m</ex>ment gerard et berte sa fe<ex>m</ex>
+me revindrent ala court du roy en
+estat de povres pelerins.</rubric>
+
+<pb n="138v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy pardo<ex>n</ex>na tout
+meffais a gerard et co<ex>m</ex>ment gerard
+rentra en ses terres et seignouries et se
+prindrent a vivre sainteme<ex>n</ex>t lui et
+sa femme.</rubric>
+
+<pb n="139v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment gerard fut rapelles
+a la court du roy et co<ex>m</ex>ment tantost
+aprez la guerre reco<ex>m</ex>menca entre
+eulz deux laquelle guerre dura lon
+guement a grant perte de donmage<note resp="Kim">il y a définitivement seulement 5 jambages</note>
+des deux parties.</rubric>
+
+<pb n="140r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy a grant ost en
+tra en bourgoingne et poursieuvit
+gerard si quil lala asseger en flan
+dres en ung chastel Puiz dist les
+offres raisonnables que gerard
+offrit au roy lesquelles neentmai<ex>n</ex>s
+il refusa.</rubric>
+
+<pb n="141v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy fut desconfiz
+en bataille devant le chastel de fla<ex>n</ex>
+dres et co<ex>m</ex>ment le roy rassembla
+gens et fut de rechief desconfiz en
+la valee de suessons.</rubric>
+
+<pb n="142r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy manda a ge
+rard jour de bataille en la valee de
+bethun puiz parle des proesses et de
+la grande occision qui furent fai
+tes en celle bataille et co<ex>m</ex>ment dieu
+par miracle fist celle bataille cesser</rubric>
+
+<pb n="143r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment aprez celle grande
+desconfiture le roy hosta de la ri
+gueur de son corage et co<ex>m</ex>ment il sen
+retourna en france.</rubric>
+
+<pb n="143v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment les <ex>crest</ex>iens qui morure<ex>n</ex>t
+en celle grant bataille furent enterres
+en noble sarcus que dieu par miracle
+envoia en celle place Et comment
+gerard se prind a fonder eglises et
+monasteres</rubric>
+
+<pb n="144r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment gerard envoia quer
+re en prouve<ex>n</ex>ce le corps de la glorieuse</rubric>
+
+<pb n="144v"/>
+<cb n="c"/>
+<rubric>marie magdalaine et le fist mettre et
+poser en labbaye de vezelay quil eut
+nouvellement fondee.</rubric>
+
+<pb n="145r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment par mauvais conseil
+le roy reco<ex>m</ex>menca la guerre contre ge
+rard et co<ex>m</ex>ment par trayson le chas
+tel de roussillon fut delivrez au roy puiz
+dist co<ex>m</ex>ment gerard eschapa et co<ex>m</ex>ment
+il vainqui le roy en bataille</rubric>
+
+<pb n="146v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy fut derechief
+par gerard desconfiz en bataille et
+co<ex>m</ex>ment gerard se tira jusques en la
+cite de sens affin que le roy le trou
+vast plus prest et quil preservast son
+pays de doumage.</rubric>
+
+<pb n="147r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy revint a bataille
+contre gerard en la quelle bataille ge
+rard fut prins et rescoux Puiz dist
+co<ex>m</ex>ment le roy fut desconfiz Et
+co<ex>m</ex>ment monseigneur le poursieu
+vit jusques a paris.</rubric>
+
+<pb n="148r"/>
+<cb n="a"/>
+<rubric>Cy dist comment gerard assiega
+le roy charles dedens sa cite de pa
+ris Et comment finablement dieu
+les apaisa tellement celle foiz quilz
+neurent onques puiz guerre lun
+a laultre</rubric>
+
+<pb n="148v"/>
+<cb n="d"/>
+<rubric>Cy parle des eglises et des abbayes que
+gerard fonda quant celle guerre lui
+fut faillie puiz parle daulcuns mira
+cles qui advindrent en edefiant aul
+cunes dicelles eglises.</rubric>
+
+<pb n="!50r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment monseigneur ge
+rard et madame berte sa fe<ex>m</ex>me
+trespasserent de ce monde Puiz par
+le daulcu<ex>n</ex>s miracles qui lors ad
+vindrent par leur merite.</rubric>
+
+<pb n="150v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le corps saint de ge
+rard fut translates en labbaye de poul
+tieres la ou il fut enterres de coste ma
+dame sainte berte sa fe<ex>m</ex>me puiz parle
+daulcuns miracles qui advindre<ex>n</ex>t
+illec par son merite</rubric>
+
+<pb n="151v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment ung evesque de lengres
+no<ex>m</ex>me regnart destruisit et gasta la vil
+le et leglise de poultieres puiz parle daul
+cuns miracles qui y advindrent.</rubric>
+
+<pb n="152r"/>
+<cb n="a"/>
+<rubric>Cy parle daulcuns miracles advenus
+en leglise de poultieres par le merite
+de madame sainte berte jadis fe<ex>m</ex>me
+et espeuse de monseigneur saint
+gerard de roussillon.</rubric>
+
+<pb n="153r"/>
+<cb n="a"/>
+<rubric>Cy parle par incident de pluseurs
+choses et diversses qui advindrent
+au temps de lors.</rubric>
+
+<pb n="154v"/>
+<cb n="c"/>
+<rubric>Cy parle en brief du roy de france
+no<ex>m</ex>me loeys le baube qui fut filz du
+roy charles le chaulve.</rubric>
+
+<pb n="154v"/>
+<cb n="d"/>
+<rubric>Cy parle du couro<ex>n</ex>nement des deux
+filz du roy loeys le baube et de pluseurs
+aultres roys qui regnerent en france
+aprez eulz puiz parle du roy charles
+le simple au temps du quel les
+normans conquirent la duchie
+de normandie puiz dist co<ex>m</ex>ment
+il morut en prison a perdune.</rubric>
+
+<pb n="156r"/>
+<cb n="b"/>
+<rubric>Cy parole par incident de pluseurs choses
+qui advindrent au temps de lors.</rubric>
+
+<pb n="157r"/>
+<cb n="b"/>
+<rubric>Cy parle des empereurs dalemaigne
+qui furent au temps de lors et daul
+cunes aultres choses qui advindre<ex>n</ex>t
+en leur temps.</rubric>
+
+<pb n="157v"/>
+<cb n="d"/>
+<rubric>Cy parle du roy loeys et des besongnes
+qui furent en son temps entre lui et
+les danois qui tenoient lors la du
+chie de normandie.</rubric>
+
+<pb n="158v"/>
+<cb n="c"/>
+<rubric>Cy parle de lempereur othon premier de
+ce nom puiz dist co<ex>m</ex>ment le conte de
+flandres fist tuer le duc de normandie
+et co<ex>m</ex>ment le duc richart son filz fut en
+uyez <ex>et</ex> assaillis du roy loeys et du conte
+de chartres et co<ex>m</ex>ment il manda les
+normans qui le secoururent au gra<ex>n</ex>t
+doumage du royaulme.</rubric>
+
+<pb n="158v"/>
+<cb n="d"/>
+<rubric>Cy parle par incident daulcunes cho
+ses qui advindrent au temps de lors.</rubric>
+
+<pb n="159v"/>
+<cb n="d"/>
+<rubric>Cy parle du roy lothaire de france qui
+quitta a lempire tout le droit que la cou
+ro<ex>n</ex>ne de france pooit avoir en loherrai
+ne puiz dist co<ex>m</ex>ment hue capet vint
+a la couro<ex>n</ex>ne de france</rubric>
+
+<pb n="160r"/>
+<cb n="a"/>
+<rubric>Cy parle en brief du bon roy robert qui fut
+filz du roy hue cappet et dist co<ex>m</ex>ment il
+fist rendre le chastel de meleun au co<ex>n</ex>
+te bouchart qui lavoit perdu par la
+trayson dun sien chevalier.</rubric>
+
+<pb n="160r"/>
+<cb n="b"/>
+<rubric>Cy parle en brief de pluseurs empe
+reurs dalemaigne qui furent au 
+temps de lors et parle de pluseurs cho
+ses qui advindrent en leur temps.</rubric>
+
+<pb n="161v"/>
+<cb n="c"/>
+<rubric>cy parle de henry roy de france qui
+fut hardy et vaillant et dist co<ex>m</ex>ment
+par mauvais conseil il mut guer
+re contre le duc guillame de nor
+mandie Et co<ex>m</ex>ment ilz sappaisere<ex>n</ex>t
+depuiz.</rubric>
+
+<pb n="162r"/>
+<cb n="a"/>
+<rubric>Cy parle de la fondacion de labbaye de
+clugny et de la co<ex>n</ex>version de ceulz de
+hongrie a la foy catholique et de plu
+seurs aultres notables incidens qui
+advindrent au temps des roys et des
+empereurs dessuz no<ex>m</ex>mes.</rubric>
+
+<pb n="163v"/>
+<¢b n="d"/>
+<rubric>Cy parle du roy phelippe de france le pre
+mier de ce nom qui flourit en grant
+paix et de monseigneur loeys son filz
+qui tant fut preu et vaillant et parle
+des choses quil fist du vivant de son
+pere.</rubric>
+
+<pb n="165r"/>
+<cb n="a"/>
+<rubric>Cy parle en brief des nobles fais du preu
+robert guichart et dist co<ex>m</ex>ment en ung mes
+mes jour il vainquit en bataille lempereur
+dalemaigne et son filz vainquit lempe
+reur de grece puiz parle des nobles fais
+de roderic de durace.</rubric>
+
+<pb n="165v"/>
+<cb n="d"/>
+<rubric>De roderic de durace.</rubric>
+
+<pb n="166v"/>
+<cb n="d"/>
+<rubric>Cy parle du saint voiage doultre mer
+et parle tout premierement de ceulz
+qui se croiserent pour y aler dont go
+deffroy de buillon fut le chief et dist
+co<ex>m</ex>ment ilz passerent par hongrie et
+par grece et parle de leurs premieres
+batailles et adventures.</rubric>
+
+<pb n="168r"/>
+<cb n="a"/>
+<rubric>Cy parle en brief des conquestes que
+firent en la terre sainte godeffroy de
+buillon et les aultrez <ex>crest</ex>iens qui alere<ex>n</ex>t
+celle fois oultremer et dist co<ex>m</ex>ment
+icellui godeffroy fut couronne roy de
+jherusalem et co<ex>m</ex>ment len le fist mo
+rir par venin Puiz fut roy de jherusa
+lem bauduyn son frere qui fut ung
+grant conquerant.</rubric>
+
+<pb n="169v"/>
+<¢b n="c"/>
+<rubric>Cy parle des fais du roy loeys le gros
+qui tant eut daffaires par enuye et
+par hayne et dist co<ex>m</ex>ment par sa di
+ligence et par sa vaillance il acheva
+tous ses affaires et en vint a son ho<ex>n</ex>
+neur nonobstant quil eust en son
+temps ennemis lempereur dalemai
+gne le roy dangleterre le conte de
+chartres et pluseurs aultres gra<ex>n</ex>s
+barons.</rubric>
+
+<pb n="172r"/>
+<cb n="a"/>
+<rubric>Cy parle des premiers fais du roy loeys
+le debonnaire filz du vaillant roy loeys
+le groz et parle des dissencions qui
+furent adont en lempire Puiz dist co<ex>m</ex>
+ment lempereur conrard et ce roy lo
+eys alerent ou saint voiage doultre
+mer a peu de leur prouffit.</rubric>
+
+<pb n="173v"/>
+<cb n="c"/>
+<rubric>Cy dist la maniere co<ex>m</ex>ment les <ex>crest</ex>iens
+alerent devant damas et co<ex>m</ex>ment
+ilz furent trahis par ceulz mesmes
+qui les devoient conduire par quoy
+larmee fut rompue et retournere<ex>n</ex>t
+chascun en sa place Puiz parle en
+brief des fais de ce roy loeys le
+debonnaire.</rubric>
+
+<pb n="175r"/>
+<cb n="b"/>
+<rubric>Cy parle du trespas du bon roy
+loeys le debonnaire Puiz parle
+en brief des meurs et des con
+dicions et des premiers fais
+du roy phelippe son filz qui fut
+surnomme dieu donne et qui
+fut en son temps ung grant
+conquerant.</rubric>
+
+<pb n="177r"/>
+<cb n="a"/>
+<rubric>Cy parle de pluseurs et diverses cho
+ses qui advindrent au temps de lors.</rubric>
+
+<pb n="177r"/>
+<cb n="b"/>
+<rubric>Cy parle en brief des fais du roy phe
+lippe dieu donne qui tant fut hardi
+et conquerant et parle du co<ex>m</ex>men
+cement de la guerre qui fut entre
+les francois et les angloiz qui ne
+faillit onques puiz.</rubric>
+
+<pb n="178r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le royaulme de jheru
+salem vint a guy de lesignen a cause
+de sa fe<ex>m</ex>me et co<ex>m</ex>ment salhadin usur
+pa la monarchie dorient et recon
+quist sur les <ex>crest</ex>iens toute la terre
+sainte et mesmement la cite de jhe
+rusalem Puiz parle des princes <ex>crest</ex>iens
+qui se croiserent pour y aler.</rubric>
+
+<pb n="180r"/>
+<cb n="a"/>
+<rubric>Cy dsit co<ex>m</ex>ment par la mauvaistie
+du roy richart il convint le roy phelip
+pe retourner du saint voiage pour
+eviter la mort Et co<ex>m</ex>ment le roy ri
+chart et tous ceulz qui volrent le
+roy phelippe empoisonner furent</rubric>
+
+<pb n="180r"/>
+<cb n="b"/>
+<rubric>pugnis par vengance divine Puiz
+parle de la guerre qui fut entre les
+deux roys.</rubric>
+
+<pb n="181v"/>
+<cb n="d"/>
+<rubric>cy parle par incident de pluseurs cho
+ses diverses et merveilleuses qui advi<ex>n</ex>
+drent au temps de lors.</rubric>
+
+<pb n="183r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le conte bauduyn de
+flandres fut empereur de constantino
+ble et co<ex>m</ex>ment les <ex>crest</ex>iens qui se furent
+croisiez avec lui le laisserent en son
+empire et passerent oultre et alerent
+assieger la cite de damiette puiz parle
+de leurs fais et de leurs adventures
+qui tournerent a neent Et puiz il parle
+de la vie et de la fin du soudan salhadin.</rubric>
+
+<pb n="184v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment la guerre reco<ex>m</ex>menca 
+entre le roy phelippe et le roy richard
+et co<ex>m</ex>ment le roy richard fut occis dun
+trait devant ung chastel et fut jehan
+sans terre roy dangleterre aprez lui le
+quel a son co<ex>m</ex>mencement se tint en la
+mour du roy phelippe puiz dist co<ex>m</ex>ment
+les angloiz reco<ex>m</ex>mencerent la guerre
+Et co<ex>m</ex>ment le roy phelippe reconquist
+celle fois toutes les terres de norman
+die et dacquitaine puiz parle de la coi
+seris qui se fist pour reduire le pays des
+Albuois</rubric>
+
+<pb n="186r"/>
+<cb n="a"/>
+<rubric>Cy parle de la guerre qui reco<ex>m</ex>menca en
+france par ung debat qui fut entre le
+conte de saint pol et le conte de boulon
+gne et dist co<ex>m</ex>ment a celle occasion
+othon lempereur Ferrant conte de
+flandres et le roy jehan dangleter
+re guerroierent le roy phelippe Et 
+comment ilz furent par le roy phelippe
+desconfis en bataille au pont de
+bouvines.</rubric>
+
+<pb n="188v"/>
+<cb n="c"/>
+<rubric>Cy parle par incident daulcune choses
+qui advindrent au temps de lors</rubric>
+
+<pb n="188v"/>
+<cb n="d"/>
+<rubric>Cy parle de bauduyn conte de flandres
+qui fut empereur de constantinoble
+et dist co<ex>m</ex>ment il espeusa ung deable
+et co<ex>m</ex>ment sa fille le fist pendre en la
+galle de lille Et parle des premiers
+fais de ferrant de portingal qui fut
+conte de flandres a cause de sa fe<ex>m</ex>me
+fille dicellui conte bauduyn lesquelles
+choses nous avons prinses sur une
+cronique no<ex>m</ex>mee par aulcuns la</rubric>
+
+<pb n="189r"/>
+<cb n="a"/>
+<rubric>cronique de flandres.</rubric>
+
+<pb n="190r"/>
+<cb n="a"/>
+<rubric>Cy dist en ensieuvant celle cronique
+par quelle occasion la guerre co<ex>m</ex>men
+ca de ferrant conte de flandres con
+tre le roy phelippe Et co<ex>m</ex>ment le conte
+ferrant et le conte de saint pol com
+batirent en champ corps a corps puiz
+recite les promesses que ferrant fist
+au roy de non jamais lui faire guerre
+et co<ex>m</ex>ment neentmai<ex>n</ex>s il la reco<ex>m</ex>men
+ca et fut desconfiz et prins.</rubric>
+
+<pb n="192r"/>
+<cb n="a"/>
+<rubric>Cy parle de la guerre que le roy phelippe
+mena contre le conte davignon et dist
+co<ex>m</ex>ment le boulgre davignon fut deceu
+prins et occis Puiz dist coment<note resp="Kim">ok</note> le co<ex>n</ex>
+te ferrant fut delivre de prison et co<ex>m</ex>
+ment il renchut en son mesfait et mo
+rut en prison a noyon puiz parle de
+la generacion de sa fe<ex>m</ex>me contesse
+de flandres.</rubric>
+
+<pb n="193v"/>
+<cb n="d"/>
+<rubric>Cy parle du roy loeys de france filz du roy
+phelippe et pere de monseigneur saint
+loeys puiz parle par recapitulacion des
+roys de france depuiz le roy cloevis
+qui fut le premier roy <ex>crest</ex>ien jusques
+au roy saint loeys puiz parle des fais
+de ce roy loeys.</rubric>
+
+<pb n="194v"/>
+<cb n="c"/>
+<rubric>Cy parle des fais de monseigneur sai<ex>n</ex>t
+loyes roy de france et dist co<ex>m</ex>ment plu
+seurs princes de france ne lui volre<ex>n</ex>t
+a son co<ex>m</ex>menceme<ex>n</ex>t obeir et co<ex>m</ex>ment
+il en vint a son ho<ex>n</ex>neur puiz parle de
+pluseurs diverses et merveilleuses
+choses qui advindrent lors en son
+temps en divers lieux.</rubric>
+
+<pb n="197v"/>
+<cb n="d"/>
+<rubric>Cy parle du voiage doultre mer que
+fist monseigneur saint loeys a noble
+chevalerie et dist co<ex>m</ex>ment il print la
+cite de damiette et co<ex>m</ex>ment tantost
+aprez ilz furent tous ou mors ou prins
+par male adventure.</rubric>
+
+<pb n="199r"/>
+<cb n="a"/>
+<rubric>Cy parle par incident de pluseurs
+choses qui lors advindrent.</rubric>
+
+<pb n="200r"/>
+<cb n="a"/>
+<rubric>Cy parle des meurs et des condicions
+de mons<ex>eigneu</ex>r saint loeys roy de france
+et co<ex>m</ex>ment il gouverna son royaul</rubric>
+
+<pb n="200r"/>
+<cb n="b"/>
+<rubric>me justement et saintement et par
+le aussi des biens et des aumosnes
+des penitances et des austerites q<ex>u</ex>il
+fist en son temps pour faire a dieu
+service agreable</rubric>
+
+<pb n="201v"/>
+<cb n="c"/>
+<rubric>Cy parle par incident de pluseurs cho
+ses qui advindrent au temps de lors</rubric>
+
+<pb n="202r"/>
+<cb n="a"/>
+<rubric>Cy parle par incident de la guerre qui
+fut entre mamfroy le bastard de
+lempereur fedric et charles le duc
+dangou pour le royaulme de sezile
+et dist co<ex>m</ex>ment charles fut roy de se
+zile Et comment il obtint contre
+ses ennemis.</rubric>
+
+<pb n="203r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy saint loeys se croisa
+pour aler de recief<note resp="kim">ok</note> oultre mer et co<ex>m</ex>ment
+ilz arriverent en auffrique et prindre<ex>n</ex>t
+carthage en leur venir puiz dist co<ex>m</ex>me<ex>n</ex>t
+la mortalite print en leur ost et com
+me<ex>n</ex>t le roy mesmes trespassa illec par
+griefve maladie.</rubric>
+
+<pb n="204r"/>
+<cb n="a"/>
+<rubric>Cy dist par une aultre maniere prinse
+sur celle cronique de flandres co<ex>m</ex>ment
+le roy saint loeys ala oultre mer la
+premiere fois et parle daulcunes ba
+tailles et haultes besongnes dont cy
+dessuz nest faite aulcune mencion
+puiz parle du trespas de saint loeys
+qui fut oultre mer quant il y ala
+la seconde fois.</rubric>
+
+<pb n="205r"/>
+<cb n="a"/>
+<rubric>Cy parle de larmee des <ex>crest</ex>iens qui
+demoura devant thunes Et dist
+co<ex>m</ex>ment les sarrasins traitterent
+avec eulz puiz sen retournerent
+en france et aulcuns passerent
+en surie avec edouard le filz du
+roy dangleterre.</rubric>
+
+<pb n="206r"/>
+<cb n="b"/>
+<rubric>Cy parle des fais du roy phelippe filz
+de saint loeys et touche de pierre de la
+brosse chambellain du roy qui depuiz
+fut par ses demerites traynes et
+pendus Puiz parle dune guerre
+qui mut entre ce roy phelippe et
+le roy despaigne et dist assez co<ex>m</ex>
+ment ilz furent rapaisiez.</rubric>
+
+<pb n="206v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy pierre darra
+gon contre le gre du pape con
+quist sur le roy charles le royau
+me de sezile puiz parle de pluseurs
+aultres choses qui advindrent
+au temps de lors.</rubric>
+
+<pb n="207v"/>
+<cb n="c"/>
+<rubric>Cy parle de la guerre que mena le</rubric>
+
+<pb n="207v"/>
+<cb n="d"/>
+<rubric>roy phelippe contre le roy darragon et
+co<ex>m</ex>ment en celle guerre le roy darra
+gon fut occis.</rubric>
+
+<pb n="208v"/>
+<cb n="c"/>
+<rubric>Cy parle de jehan tristran et dist com
+ment par merveilleuse adventure
+il fut retrouves et co<ex>m</ex>ment il e<ex>m</ex>mena
+larmee de france oultre me<note resp="Kim">ok</note> puiz dist
+co<ex>m</ex>ment il fut prins devant la cite de
+tharse et en dangier de mort et co<ex>m</ex>
+ment il fut rescoux par merveil
+leuse adventure.</rubric>
+
+<pb n="210v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment robert de bethune
+tua sa fe<ex>m</ex>me et co<ex>m</ex>ment il en fut
+apelles en cha<ex>m</ex>p par le duc de bourgoi<ex>n</ex>
+gne puiz dist co<ex>m</ex>ment robert fut
+en dangier destre pendus et co<ex>m</ex>ment
+il en fut saulve.</rubric>
+
+<pb n="211v"/>
+<cb n="c"/>
+<rubric>Cy parle en brief des fais du roy phelip
+pe le bel roy de france et dist co<ex>m</ex>ment
+en son commencement il eut guer
+re contre les flamengs et contre
+les angloiz puiz eurent treves en
+semble a deux ans.</rubric>
+
+<pb n="211v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le duc de brabant
+desconfit en bataille le duc de luxem
+bourt puiz parle de pluseurs haul
+tes besongnes qui lors advindrent
+en divers lieux et parle du co<ex>m</ex>mence
+ment des guerres de flandres.</rubric>
+
+<pb n="213r"/>
+<cb n="b"/>
+<rubric>Cy parle de la piteuse desconfiture
+des francois faite par les flame<ex>n</ex>gz
+devant la ville de courtray Puiz
+dist comment ceulz de bordeaux
+se rendirent lors de tous points
+aux angloiz.</rubric>
+
+<pb n="213v"/>
+<cb n="c"/>
+<rubric>Cy parle de pluseurs haultes besongnes
+qui lors advindrent en divers lieux
+en france en alemaigne en ytalie en
+sezile et en angleterre Et dist co<ex>m</ex>ment
+lordre des templiers fut destruit par
+leurs demerites.</rubric>
+
+<pb n="215r"/>
+<cb n="a"/>
+<rubric>Cy parle de la guerre qui fut en gascoin
+gne entre francois et angloiz au temps
+du roy phelippe le hardy et dist com
+ment angloiz furent desconfiz et leur
+roy edouard prins et pluseurs grans
+barons dangleterre Et co<ex>m</ex>ment aprez
+le trespas de ces deux roys edouard
+reco<ex>m</ex>menca la guerre.</rubric>
+
+<pb n="216r"/>
+<cb n="b"/>
+<rubric>Cy parle de la guerre qui fut entre le
+conte de flandres et le conte de hay
+nau puiz dist co<ex>m</ex>ment le conte de fla<ex>n</ex>
+dres prind aliances aux estrangiers
+pour guerroier le roy phelippe le bel et
+co<ex>m</ex>ment le roy phelippe assiega la
+ville de lille puiz parle de pluseurs
+choses qui lors advindrent.</rubric>
+
+<pb n="220v"/>
+<cb n="d"/>
+<rubric>Cy parle du demourant de celle guerre
+de flandres et dist co<ex>m</ex>ment les flame<ex>n</ex>gz
+doumagerent la<note resp="Kim">ok</note> conte dartois par
+pluseurs fois et co<ex>m</ex>ment ilz furent
+desconfiz a monts en peure puiz
+fut la paix faite.</rubric>
+
+<pb n="222v"/>
+<cb n="c"/>
+<rubric>Cy parle du roy loeys filz du roy phelip
+pe le bel et dist co<ex>m</ex>ment enguerran de
+marigny qui tant eut en donneur
+en son temps fut pendus honteuse
+ment puiz parle de pluseurs diverses
+choses qui lors advindre<ex>n</ex>t et du tres
+passement de ce roy loeys.</rubric>
+
+<pb n="223r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment phelippe de poitiers fut
+roy de france aprez loeys son frere
+et fut no<ex>m</ex>me phelippe le long qui fut
+ung prince sage et prudent et qui tint
+son royaulme en paix.</rubric>
+
+<pb n="223v"/>
+<cb n="d"/>
+<rubric>Cy parle du roy charles le bel frere
+du roy phelippe le long et de plu
+seurs diverses besongnes qui advi<ex>n</ex>
+drent en son temps.</rubric>
+
+<pb n="225v"/>
+<cb n="c"/>
+<rubric>Cy parle du roy loeys filz du roy phe
+lippe le bel et du roy phelippe son frere
+qui regna aprez lui et puiz du roy
+charles leur frere qui regna aprez
+eulz au temps du quel fut en flan
+dre ung paillart no<ex>m</ex>me clay zan
+dequin qui mist en grant trouble
+la conte de flandres.</rubric>
+
+<pb n="226v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment phelippe de valois
+vint a estre roy de france Et com
+ment il ala en flandres et vai<ex>n</ex>quit
+les flamengz sur le mont de cas
+sel puiz parle de pluseurs aul
+tres choses qui lors advindrent
+en divers lieux.</rubric>
+
+<pb n="227v"/>
+<cb n="c"/>
+<rubric>Cy parle de robert dartois et dist co<ex>m</ex>ment
+il fut bannys du royaulme de france
+et co<ex>m</ex>ment il sen ala en anglerre<note resp="Kim">ok</note> es
+mouvoir la guerre des deux royaul
+mes dont tant de maulz que sans
+nombre advindrent depuiz Puiz dist
+co<ex>m</ex>ment les flamengs se tournerent
+avec les angloiz.</rubric>
+
+<pb n="228v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy edouard dan
+gleterre vint en france a grosse ar
+mee par lenhort de robert dartois
+puiz parle de pluseurs haultes beson
+gnes et desco<ex>n</ex>fitures lors faittes puiz su
+lune partie et puiz sur laultre.</rubric>
+
+<pb n="230v"/>
+<cb n="d"/>
+<rubric>Cy parle par incident daulcunes haul
+tes besongnes qui lors advindrent en
+espaigne en bretaigne et aultre part.</rubric>
+
+<pb n="231v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy edouard dan
+gleterre reco<ex>m</ex>menca la guerre contre
+le roy phelippe de france et parle de
+pluseurs haultes besongnes qui ad
+vindrent au temps de lors puiz dist
+co<ex>m</ex>ment le roy dangleterre retourna
+en normandie A<note resp="Kim">ok</note> une tresgrosse
+puissance.</rubric>
+
+<pb n="232v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy phelippe de france
+se disposa pour soy deffendre contre
+les angloiz puiz parle de la bataille
+de cressy En laquelle francois fu
+rent desconfiz et puis du siege de ca
+lais et dist co<ex>m</ex>ment calais fut prinse
+par deffaulte de secours.</rubric>
+
+<pb n="234v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy jehan fist la
+teste coper au conte deu et de guisnes 
+lors co<ex>n</ex>nestable de france et co<ex>m</ex>ment
+la guerre se demena entre francois
+et angloiz Puiz dist co<ex>m</ex>ment le roy je
+han print le roy de navarre et ses co<ex>m</ex>
+plices ou chasteau de rouen et en
+fist justice.</rubric>
+
+<pb n="235v"/>
+<cb n="d"/>
+<rubric>Cy parle de la bataille de poitiers et dist
+co<ex>m</ex>ment les francois furent desconfiz
+et le roy jehan prins puiz parle plu
+seurs haultes besongnes qui lors fure<ex>n</ex>t
+faites en france par les grans divisio<ex>n</ex>s
+qui furent entre les princes et aultrez
+gens et parle des navarrois et des 
+jaques de beauvoisis qui firent
+lors maint mal en france.</rubric>
+
+<pb n="237v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy de navarre fut esleu
+capitaine de paris et co<ex>m</ex>ment les co<ex>m</ex>munes
+de paris se mirent suz et firent de grans
+oultrages puiz dist co<ex>m</ex>ment les navar
+rois et les angloiz se demenere<ex>n</ex>t lors
+au grant doumage du royaulme de fran
+ce Et parle des fais dun angloiz no<ex>m</ex>
+me robert canole</rubric>
+
+<pb n="239v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy de navarre
+faignit destre bon amy du royaul
+me de france Et comment le roy
+dangleterre et ses angloiz durent
+devant rains par quarante jours
+Puiz traverserent le royaulme de
+france sans nul quelconque con
+tredit.</rubric>
+
+<pb n="240v"/>
+<cb n="c"/>
+<rubric>Co<ex>m</ex>ment le traittie fut fait entre le
+roy jehan et le roy dangleterre pour
+la delivrance du roy du roy<note resp="Kim">Ok</note> jehan
+Et co<ex>m</ex>ment aprez la paix faitte le
+roy jehan retourna dangleterre
+Puiz parle des grans douma
+ges que firent lors les gens des
+grans compaignies.</rubric>
+
+<pb n="242r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy jehan retourna
+en angleterre pour la delivra<ex>n</ex>ce de ses
+hostages et co<ex>m</ex>ment il trespassa tantost
+aprez par maladie et fut son corps
+raportes en france ou il fut moult
+plaint et ploure.</rubric>
+
+<pb n="242r"/>
+<cb n="b"/>
+<rubric>Cy parle du roy charles le quint de
+ce nom et des fais de messire bertran
+du claiaquin qui ta<ex>n</ex>t fut preu et vail
+lant et dist co<ex>m</ex>ment il tira hors de fra<ex>n</ex>
+ce les gens des co<ex>m</ex>paignies et les mena
+en espaigne la ou ilz conquirent le
+royaulme de castelle Puiz le leur tol
+lit le prince de galles.</rubric>
+
+<pb n="245r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment robert canole a petite
+compaignie dangloiz passa et rapassa
+par my le royaulme de france au gra<ex>n</ex>t
+doumage du royaulme et au grant
+desho<ex>n</ex>neur des barons de france et
+co<ex>m</ex>ment en fin messire bertran les
+tua tous juz Puiz parle de pluseurs
+besongnes qui furent adont faites
+en divers lieux.</rubric>
+
+<pb n="246v"/>
+<cb n="c"/>
+<rubric>Cy dist co<ex>m</ex>ment le duc dangou print
+adont la rochelle Et co<ex>m</ex>ment len as
+sambla a bruges pour trover paix et
+traittie entre les deux roys et ny
+peut estre trouvee puiz parle de plus
+seurs haultes besongnes qui lors
+furent faites en france en auver
+gne et en guienne.</rubric>
+
+<pb n="247v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment lempereur dalemai
+gne voult venir en france veyr son
+parente et co<ex>m</ex>ment le roy le rechut et
+le festoia gra<ex>n</ex>dement et parle de la
+grant feste que le roy fist a lui et a
+ses gens.</rubric>
+
+<pb n="248r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy charles recou
+vra toutes les fortresses que le roy de
+navarre tenoit adont en norman
+die fors chierebourc seulement puiz
+dist co<ex>m</ex>ment jehan de montfort retour
+na dangleterre en bretaigne et com
+ment les flamengs se rebellerent et
+furent rapaisiez Et puiz il parle
+du trespas dicellui roy charles.</rubric>
+
+<pb n="249v"/>
+<cb n="c"/>
+<rubric>Cy parle du roys charles <num>vi<g type="exposant">e</g></num> de ce nom
+et dist co<ex>m</ex>ment le royaulme fut en son
+temps divise par ses princes mesmes
+qui sentrecheoient mortelement puiz
+parle du voiage quil fist en flandres
+a son co<ex>m</ex>mencement et de la descon
+fiture des flamengs qui fut a la
+bataille de rosebecque.</rubric>
+
+<pb n="252r"/>
+<cb n="a"/>
+<rubric>Cy dist selon la cronique de flandres
+co<ex>m</ex>ment phelippe de valois vint ala
+couro<ex>n</ex>ne de france et co<ex>m</ex>ment a son
+co<ex>m</ex>mencement il vainquit les fla
+me<ex>n</ex>gz au mont de cassel puiz parle
+de la guerre quil eut encontre le
+roy dangleterre et co<ex>m</ex>ment les fla
+me<ex>n</ex>gz se alierent aux angloiz et
+co<ex>n</ex>tinue lacteur la matere cy ap<ex>re</ex>z
+jusques en la fin du livre selon cel
+le cronique de flandres.</rubric>
+
+<pb n="253v"/>
+<cb n="d"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy edouard desconfist
+les francois au port de lescluse et com
+ment les francois desconfirent les fla
+mengz devant saint aumer Puiz
+dist comment la guerre co<ex>m</ex>menca
+en bretaigne pour la duchie et com
+ment angloiz tirerent celle part</rubric>
+
+<pb n="256r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy edouard arri
+va en bretaigne et co<ex>m</ex>ment le roy phe
+lippe envoia contre lui grans gens
+Et puiz co<ex>m</ex>ment le roy edouard en
+voia grant armee en gascoingne
+et en flandres.</rubric>
+
+<pb n="262r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy phelippe fist
+son armee pour lever le siege de ca
+lais et co<ex>m</ex>ment neentmains calais
+fut prinse puiz parle du trepas du 
+roy phelippe</rubric>
+
+<pb n="262v"/>
+<cb n="d"/>
+<rubric>Cy parle du roy jehan et de sa genera
+cion et de la guerre quil eut contre
+angloiz navarrois et normans puiz
+parle de la bataille de poitiers et de la
+prinse du roy jehan et puiz des terri
+bles maulz qui lors furent perpetres
+en france par les navarrois et par
+les co<ex>m</ex>munes de paris et de beauvoisis.</rubric>
+
+<pb n="268r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment le roy edouard passa
+lors par my le moyen du royaulme
+de france sans contredit lui et son
+ost et co<ex>m</ex>ment le traittie fut fais et
+retourna le roy jehan de prison puiz
+retourna en angleterre pour affiner
+ses besongnes la ou il trespassa tan
+tost aprez.</rubric>
+
+<pb n="268v"/>
+<cb n="c"/>
+<rubric>Cy parle de la guerre qui fut adont
+en bretaigne en la quelle morut
+charles de bloiz et de la guerre qui
+fut en espaigne contre le roy pietre
+Puiz dist co<ex>m</ex>ment le prince de gal
+les secourut le roy pietre et le resti
+tua en son royaulme lequel neent
+mains lui fut tollut tantost aprez.</rubric>
+
+<pb n="272r"/>
+<cb n="a"/>
+<rubric>Cy dist co<ex>m</ex>ment les francois recon
+quirent tout le pays de poitou et
+dillec environ et puiz co<ex>m</ex>ment
+lannee ensieuvant ilz alerent</rubric>
+
+<pb n="272r"/>
+<cb n="b"/>
+<rubric>en guie<ex>n</ex>ne ou ilz conquirent
+pluseurs villes et chasteaux.</rubric>
+
+<pb n="276r"/>
+<cb n="b"/>
+<rubric>Cy dist co<ex>m</ex>ment il convint messire
+jaques de saint pol issir de bruges has
+tivement Puiz parle de la bataille
+de courtray Ou furent mors le
+vaillant contre dartois et plu
+seurs aultrez grans seigneurs
+barons chevaliers et escuiers.</rubric>
+
+<pb n="278r"/>
+<cb n="a"/>
+<rubric>Cest la fin et la conclusion de
+ce present volume par quoy len
+peut congnoistre les noms de
+lacteur et du livre.</rubric>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
