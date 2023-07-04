@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html>
+
+    @@include('@@webRoot/fragments/head.html' {
+"description": "Histoires universelles en français au XVe siècle : Chronique universelle, Présentation"
+})
+
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header + Menu -->
+					@@include('@@webRoot/fragments/header.html')
+
+				 <!-- One -->
+        <section id="one">
+          <div class="inner">
+            <header class="major">
+              <h1>Présentation: <br />
+                <em>Chronique universelle</em></h1>
+            </header>
+            <span class="image main"><img src="@@webRoot/assets/images/672-besancon.jpg" alt="" alt="" /></span>
+
+<h2>Identification</h2>
+              
+<dl>
+     <dd>Auteur: </dd>
+     <dd>Titre:</dd>
+</dl>
+
+<h3 id="datation-location">Datation &amp; localisation</h3>
+
+<dl>
+      <dd>Localisation: .</dd>
+      <dd>Date de composition : </dd>
+</dl>
+
+<h3 id="analyse-du-texte">Analyse du texte</h3>
+
+<dl>
+<dt>Incipit:</dt>
+       <dd></dd>
+
+<dt>Incipit repère: </dt>
+       <dd></dd>
+
+<dt>Excipit:</dt>
+       <dd></dd>
+</dl>
+
+<hr class="major" />
+
+<h2 id="description">Description</h2>
+
+<hr class="major" />
+
+<dl>
+<dt>Liste des témoins et lien vers la numérisation quand elle existe [mss]</dt>
+    <dd>Besançon, Bibliothèque municipale, 672</dd>
+
+<dt>Fiches codicologiques</dt>
+    <dd>Besançon, Bibliothèque municipale, 672</dd>
+				
+<dt>Tables des rubriques</dt>
+    <dd>Aucune rubrique</dd>
+				
+<dt>Tables des enluminures</dt>
+    <dd>Aucune enluminure</dd>
+
+<dt>Bibliographie</dt>
+    <dd><a href="https://jonas.irht.cnrs.fr/consulter/oeuvre/detail_oeuvre.php?oeuvre=17945">Fiche bibliographique dans Jonas</a></dd>
+
+<dt>Bibliographie sur les manuscrits</dt>
+</dl>
+
+            </div>
+</section>
+        </div>
+
+          <div id="cetei">
+
+                </div>
+
+        <div id="wrapper">
+
+                @@include('@@webRoot/fragments/footer.html')
+
+</div>
+
+        <!-- Scripts -->
+            <script src="@@webRoot/assets/js/jquery.min.js"></script>
+			<script src="@@webRoot/assets/js/jquery.scrolly.min.js"></script>
+			<script src="@@webRoot/assets/js/jquery.scrollex.min.js"></script>
+			<script src="@@webRoot/assets/js/browser.min.js"></script>
+			<script src="@@webRoot/assets/js/breakpoints.min.js"></script>
+			<script src="@@webRoot/assets/js/util.js"></script>
+			<script src="@@webRoot/assets/js/main.js"></script>
+
+
+                     <script src="../../assets/js/CETEI.js"></script>
+
+        <script>
+        var CETEIcean = new CETEI()
+
+
+    CETEIcean.getHTML5(biblio, function(data){
+        document.getElementById("cetei").innerHTML ="";
+        document.getElementById("cetei").appendChild(data);
+        CETEIcean.addStyle(document, data);
+    });
+  </script>
+
+</body>
+</html>
