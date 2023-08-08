@@ -3459,10 +3459,12 @@ input, select, textarea {
 
 			#banner > .inner header {
 				width: auto;
+                max-width: 100%;
 			}
 
 				#banner > .inner header > :first-child {
 					width: auto;
+                    max-width: 100%;
 				}
 
 					#banner > .inner header > :first-child:after {
