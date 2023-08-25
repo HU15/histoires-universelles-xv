@@ -162,11 +162,11 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5C2A23 !important; /*#9bf1ff ou C39EA0*/
+			color: #824138 !important; /*#9bf1ff ou C39EA0*/
 		}
 
 		a:active {
-			color: #5C2A23 !important; /*#53e3fb*/
+			color: #824138 !important; /*#53e3fb*/
 		}
 
 	strong, b {
@@ -1783,7 +1783,9 @@ input, select, textarea {
 		width: -webkit-fit-content;
 		width: -ms-fit-content;
 		width: fit-content;
-		margin-bottom: 2em;
+		margin-bottom: 1.5em;
+        margin-top: -2em;
+
 	}
 
 		header.major > :first-child {
@@ -1949,8 +1951,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5C2A23; /*#9bf1ff*/
-			box-shadow: 0 0 0 2px #5C2A23; /*#9bf1ff*/
+			border-color: #824138; /*#9bf1ff*/
+			box-shadow: 0 0 0 2px #824138; /*#9bf1ff*/
 		}
 
 	select {
@@ -2049,14 +2051,14 @@ input, select, textarea {
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			background: #242943; /*#ffffff*/
-			border-color: #5C2A23; /*#9bf1ff*/
+			border-color: #824138; /*#9bf1ff*/
 			content: '\f00c';
 			color: #ffffff; /*#242943*/
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #5C2A23; /*#9bf1ff*/
+			box-shadow: 0 0 0 2px #824138; /*#9bf1ff*/
 		}
 
 	input[type="radio"] + label:before {
@@ -2240,8 +2242,9 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 0 0 -1em 0;
+		margin: 0 0 1em 0;
         padding-left: 1em;
+        padding-top: 1em;
 	}
 
 		ul li {
@@ -2558,8 +2561,8 @@ input, select, textarea {
 		button:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 2px #5C2A23; /*#9bf1ff*/
-			color: #5C2A23; /*#9bf1ff*/
+			box-shadow: inset 0 0 0 2px #824138; /*#9bf1ff*/
+			color: #824138; /*#9bf1ff*/
 		}
 
 		input[type="submit"]:active,
@@ -2568,8 +2571,8 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background-color: rgba(0, 0, 255, 0.1); /*rgba(155, 241, 255, 0.1)*/
-			box-shadow: inset 0 0 0 2px #5C2A23; /*#9bf1ff*/
-			color: #5C2A23; /*#9bf1ff*/
+			box-shadow: inset 0 0 0 2px #824138; /*#9bf1ff*/
+			color: #824138; /*#9bf1ff*/
 		}
 
 		input[type="submit"].icon:before,
@@ -2654,7 +2657,7 @@ input, select, textarea {
 			input[type="button"].next:after,
 			button.next:after,
 			.button.next:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='36px' height='24px' viewBox='0 0 36 24' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %235C2A23%3B stroke-width: 2px%3B %7D%3C/style%3E%3Cline x1='0' y1='12' x2='34' y2='12' /%3E%3Cline x1='25' y1='4' x2='34' y2='12.5' /%3E%3Cline x1='25' y1='20' x2='34' y2='11.5' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='36px' height='24px' viewBox='0 0 36 24' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23824138%3B stroke-width: 2px%3B %7D%3C/style%3E%3Cline x1='0' y1='12' x2='34' y2='12' /%3E%3Cline x1='25' y1='4' x2='34' y2='12.5' /%3E%3Cline x1='25' y1='20' x2='34' y2='11.5' /%3E%3C/svg%3E");
 				opacity: 0;
 				z-index: 1;
 			}
@@ -2702,7 +2705,7 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:hover,
 			.button.primary:active {
-				background-color: #5C2A23; /*#9bf1ff*/
+				background-color: #824138; /*#9bf1ff*/
 				color: #ffffff !important; /*#242943*/
 			}
 
@@ -2711,7 +2714,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #5C2A23; /*#53e3fb*/
+				background-color: #824138; /*#53e3fb*/
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3170,11 +3173,11 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #5C2A23; /*#9bf1ff*/
+				background-color: #824138; /*#9bf1ff*/
 			}
 
 			#header .logo:active strong {
-				background-color: #5C2A23; /*#53e3fb*/
+				background-color: #824138; /*#53e3fb*/
 			}
 
 		#header nav {
@@ -3233,7 +3236,7 @@ input, select, textarea {
 						-webkit-transition: opacity 0.2s ease-in-out;
 						-ms-transition: opacity 0.2s ease-in-out;
 						transition: opacity 0.2s ease-in-out;
-						background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %235C2A23%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
+						background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %23824138%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
 						opacity: 0;
 						z-index: 1;
 					}
@@ -3975,7 +3978,7 @@ input, select, textarea {
 			}
 
 			#menu .close:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %235C2A23%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='20px' height='20px' viewBox='0 0 20 20' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23824138%3B stroke-width: 2%3B %7D%3C/style%3E%3Cline x1='0' y1='0' x2='20' y2='20' /%3E%3Cline x1='20' y1='0' x2='0' y2='20' /%3E%3C/svg%3E");
 				opacity: 0;
 			}
 
