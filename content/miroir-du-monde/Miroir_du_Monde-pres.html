@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
      
-    @@include('../../../fragments/head.html' {
+    @@include('@@webRoot/fragments/head.html' {
 "description": "Histoires universelles en français au XVe siècle: <em>Le Livre des histoires du miroer du monde</em>"
 })
 	
@@ -11,7 +11,7 @@
 	<div id="wrapper">
 
 <!-- Header + Menu -->
-	@@include('../../../fragments/header.html')
+	@@include('@@webRoot/fragments/header.html')
 
 <!-- Main -->
 	<div id="main">
@@ -23,7 +23,7 @@
                 <h1>Présentation: <br />
                 <em>Le Livre des histoires du miroer du monde</em></h1>
             </header>
-            <span class="image main"><img src="../../assets/images/BnF-fr-684.png" alt="" /></span>
+            <span class="image main"><img src="@@webRoot/assets/images/BnF-fr-684.png" alt="" /></span>
     
             <h2>Identification</h2>
 
@@ -138,7 +138,7 @@
 	<script src="@@webRoot/assets/js/util.js"></script>
 	<script src="@@webRoot/assets/js/main.js"></script>
 
-    <script src="../../assets/js/CETEI.js"></script>
+    <script src="@@webRoot/assets/js/CETEI.js"></script>
 
     <script>
         var CETEIcean = new CETEI()
