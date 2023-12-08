@@ -1,0 +1,751 @@
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liste complète des manuscrits</title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Anne Salamon</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>No print source exists: this is an original digital text</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <div>
+                
+                
+                
+                <list>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bern</settlement>
+    <repository>Bibliothèque municipale et universitaire</repository>
+    <idno>31 (LVIII)-32 (LXII)</idno>
+   </msIdentifier>
+   <altIdentifier><repository>Burgerbibliothek</repository></altIdentifier> 
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Besançon</settlement>
+    <repository>Bibliothèque  municipale</repository>
+    <idno>851-852</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Brugge</settlement>
+ <repository>Openbare Bibliotheek</repository>
+ <idno>397</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Baltimore</settlement>
+    <repository>Walters Art Museum</repository>
+    <idno>525</idno>
+    <altIdentifier>Ex Olschki</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Archives générales du royaume</repository>
+    <idno>1411 N</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Bibliothèque des Bollandistes</repository>
+    <idno>16</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Bibliothèque royale de Belgique</repository>
+    <idno>IV 669</idno>
+    <altIdentifier>Mis en vente par la librairie Denis, Paris, Cat. 67, 1942, n° 1564 (De Poerck, Scriptorium, 7, 1953, p. 261). 
+    </altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item> 
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Bruxelles</settlement>
+ <repository>Bibliothèque royale de Belgique</repository>
+ <idno>9231-9232</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Bibliothèque royale de Belgique</repository>
+    <idno>9233</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Bibliothèque royale de Belgique </repository>
+    <idno>9258-9259</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Bibliothèque royale de Belgique</repository>
+    <idno>9268-9269, 9255-9257, 9260</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ 
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Bruxelles</settlement>
+ <repository>Bibliothèque royale de Belgique</repository>
+ <idno>10515</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>KBR</repository>
+    <idno>10960 (fol. 1; 36)</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Bruxelles</settlement>
+    <repository>Bibliothèque royale de Belgique</repository>
+    <idno>21252-21253</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Cambrai</settlement>
+    <idno>746 (fol. 161r)</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Cambrai</settlement>
+    <repository>Bibliothèque municipale</repository>
+    <idno>859</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Chantilly</settlement>
+    <repository>Musée Condé</repository>
+    <idno>730</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Genève</settlement>
+ <repository>Bibliothèque publique et universitaire</repository>
+ <collection>français</collection>
+ <idno>64</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Gent</settlement>
+ <repository>Bibliotheek der Rijksuniversiteit</repository>
+ <idno>12</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>København</settlement>
+ <repository>Kongelige Bibliothek</repository>
+ <collection>Thott</collection>
+ <idno>568 2<sup>o</sup></idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>København</settlement>
+    <repository>Kongelige Bibliothek</repository>
+    <idno>Acc. 2008/74</idno>
+      <altIdentifier>
+       <settlement>Barrois</settlement>
+       <idno>107</idno>
+      </altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Kortrijk</settlement>
+    <repository>Stadsbibliotheek</repository>
+    <idno>3</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>London</settlement>
+    <repository>British Library</repository>
+    <collection>Royal</collection>
+    <idno>15 D V (fragment) (fol. 218, 259)</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>London</settlement>
+ <repository>British Library</repository>
+ <collection>Royal</collection>
+ <idno>18 E VI</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>London</settlement>
+ <repository>British Library</repository>
+ <collection>Royal</collection>
+ <idno>16. F. VI-VII</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Mons</settlement>
+ <repository>Bibliothèque publique</repository>
+ <idno>167/155</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Mons</settlement>
+ <repository>Bibliothèque publique</repository>
+ <idno>238/358</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Mons</settlement>
+ <repository>Bibliothèque publique</repository>
+ <idno>238/358 bis, t. 1</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>New York</settlement>
+    <repository>Public Library</repository>
+    <collection>Spencer</collection>
+    <idno>79</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Oxford</settlement>
+    <repository>Bodleian Library</repository>
+    <collection>Douce</collection>
+    <idno>333</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>Arsenal</collection>
+    <idno>2048 (fol. 1; 62)</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>Arsenal</collection>
+    <idno>5087-5088</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque de l'Institut de France</repository>
+    <idno>312</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque Mazarine</repository>
+ <idno>1561 (XVII)</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque Mazarine</repository>
+ <idno>1562</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque Mazarine</repository>
+    <idno>1559-1560</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>53</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>54</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>55-57</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>58</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>296-299</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>300</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>302-304</idno>
+</msIdentifier>
+</msDesc>
+</item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>305</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>435</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>679-680</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>681-683</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>720-721</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>727</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>739</idno>
+   </msIdentifier>
+  </msDesc>
+ </item> 
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>911</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Paris</settlement>
+    <repository>Bibliothèque nationale de France</repository>
+    <collection>français</collection>
+    <idno>1834</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository>
+ <collection>français</collection>
+ <idno>20316</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Torino</settlement>
+    <repository>Biblioteca nazionale universitaria,</repository>
+    <idno> L. II. 11</idno>
+    <altIdentifier>(1636)</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Vatican</settlement>
+    <repository>Biblioteca Apostolica Vaticana</repository>
+    <idno>Reg. lat. 967 (fol. 60r: L'istore de la grande cité de Belges- fol.130r: L'istore de Monseigneur Gérard de Roussillon)</idno>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Wien</settlement>
+    <repository>Schottenstift</repository>
+    <idno>139-140</idno>
+    <altIdentifier><idno>(167-168)</idno></altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Collection particulière</settlement>
+    <altIdentifier>Mis en vente par Jörn Günther: Collecting Miniatures. Brochure nr. 9, Dr.
+     Jörn Günther – Antiquariat, Hamburg 2006, nr. 45</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Collection particulière</settlement>
+    <altIdentifier>mis en vente par Antiquariat Bibermühle AG: Heribert Tenschert [ed.], Leuchtendes Mittelalter.
+     Neue Folge V, Ramsen 2008, p. 158-163, n° 10.</altIdentifier>
+    <altIdentifier>Anciens possesseurs: Beriah Botfield, Marquess of Bath (XXe siècle)</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+
+<header>Version abrégée:</header>
+
+<item>
+<msDesc>
+<msIdentifier>
+ <settlement>Paris</settlement>
+ <repository>Bibliothèque nationale de France</repository> 
+ <collection>français</collection>
+ <idno>6361</idno>
+</msIdentifier>
+</msDesc>
+</item>
+
+
+ <header>Manuscrits à la localisation inconnue</header>
+ 
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Localisation inconnue</settlement>
+     <altIdentifier>
+    <settlement>Philadelphia</settlement>
+    <repository>University of Pennsylvania, Rare Book and Manuscript Library</repository>
+    <collection>Lawrence J. Schoenberg</collection>
+    <idno>LJS 98</idno>
+     </altIdentifier>
+    <altIdentifier>Ex Dietrichstein</altIdentifier>
+    <altIdentifier>mis en vente chez Sotheby's, le 6 juillet 2006, n° 63</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Localisation inconnue</settlement>
+    <altIdentifier>mis en vente chez Christie's, Londres, 11 juillet 2000, n° 88</altIdentifier>
+    <altIdentifier>anciens possesseurs: Baron Du
+     Lude, Foyle, Daillon, Robinson, Phillipps (nr. 4415)</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Localisation inconnue</settlement>
+    <altIdentifier>mis en vente chez Christie’s, Londres, 11 Juillet 2000, n° 86</altIdentifier>
+    <altIdentifier> mis en vente chez Sotheby’s, 3 décembre 1951, n°20
+    </altIdentifier>
+    <altIdentifier>anciens possesseurs: Foyle, Du Chastel, Diane de
+     Poitiers, Bragge, Peckover</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item>
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Localisation inconnue</settlement>
+    <altIdentifier>Château de Warfuzée, près de Liège, collection du comte Jean d'Oultremont</altIdentifier>
+   <altIdentifier>De Poerck, n°18</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item> 
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Localisation inconnue</settlement>
+       <altIdentifier>Degrange: Autographes anciens et modernes... en vente... au cabinet Victor Degrange, 28, rue Serpente, Paris, n° 34, 15 mars 1935, p. 29</altIdentifier>
+    <altIdentifier>De Poerck, n°45</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item> 
+ 
+ <item>
+  <msDesc>
+   <msIdentifier>
+    <settlement>Localisation inconnue</settlement>
+    <altIdentifier>Ms du Duc de la Vallière: Catalogue de la Vallière 1783, vol. III, p. 44 (nr. 4563) and vol. IV, p. 34 (nr. 4563) </altIdentifier>
+    <altIdentifier>De Poerck, manuscrit perdu, C</altIdentifier>
+   </msIdentifier>
+  </msDesc>
+ </item> 
+
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

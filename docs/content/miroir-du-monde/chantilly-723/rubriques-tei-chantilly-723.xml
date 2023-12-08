@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+      <title>Rubriques du manuscrit Chantilly, bibliothèque du Château, 723</title>
+   <respStmt>
+    <resp></resp>
+    <name></name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <distributor></distributor>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl></bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+   
+   
+    
+  
+      </div>
+     </body>
+    </text>
+</TEI>

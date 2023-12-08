@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Bibliographie sur le manuscrit Arsenal 3172 du Livre de la Mutacion de Fortune de Christine de Pizan</title>
+   <respStmt>
+    <resp>compiled by</resp>
+    <name>Isabelle Delage-Béland</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <availability></availability>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>No print source exists: this is an original digital text</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+
+       <title>Éditions</title>	
+       
+     <list>
+	
+
+	<item>  
+<bibl>    
+<author>CHRISTINE DE PIZAN</author>, <title>Le livre de la mutacion de Fortune de Christine de Pisan</title>, publié d'après les manuscrits par Suzanne Solente
+<pubPlace>Paris</pubPlace>
+<publisher>Picard</publisher> 
+coll. "Société des anciens textes français",
+<date>1959-1966</date> 
+4 tomes.
+</bibl>
+</item>
+	 
+       </list>	
+
+       <title>Études</title>
+	
+       <list>
+           
+	<item>  
+<bibl>    
+<author>BLONDEAU, Chrystèle</author>, <title>Un conquérant pour quatre ducs. Alexandre le Grand à la cour de Bourgogne</title>
+<pubPlace>Paris</pubPlace>
+<publisher>CTHS-INHA</publisher> 
+coll. "L'art et l'essai",
+<date>2009.</date>    
+</bibl>
+</item>           
+           
+           
+     <item> 
+<bibl>
+<author>DELDICQUE, Mathieu</author>, « Bibliophiles de mère en fille : Marie de Balsac (+1504) et Anne de Graville (+1540) », dans Cynthia J. Brown et Anne-Marie Légaré (dir.), <title>Les femmes, la culture et les arts en Europe entre Moyen Âge et Renaissance</title>
+<pubPlace>Turnhout</pubPlace>
+<publisher>Brepols</publisher> 
+coll. « Texte, codex et contexte », 
+<date>2016</date>
+<biblScope type="pages">p. 73-88.</biblScope>
+</bibl>
+</item> 
+    
+    <item> 
+<bibl>
+<author>DELSAUX, Olivier</author>, « La publication autographe en moyen français : enjeux d’une définition à partir du cas de Christine de Pizan. Une recherche en chantier »,<title>Le Moyen français</title>
+<biblScope type="vol">63</biblScope>
+<date>(2008)</date>
+<biblScope type="pages">p. 9-44.</biblScope>
+</bibl>
+</item> 
+    
+    <item>     
+<bibl>    
+<author>MARTIN, Henri</author>, <title>Catalogue des manuscrits de la Bibliothèque de l'Arsenal. 1885-92</title>
+<pubPlace>Paris</pubPlace>
+<publisher>Plon</publisher> 
+<date>1887</date> 
+3 tomes.
+</bibl>
+</item>
+	
+  <item> 
+<bibl>
+<author>RENO, Christine</author>, « Anne Malet de Graville. A Sixteenth Century Collector Reads (and Writes) Christine », <title>The Profane Arts of the Middle Ages / Les arts profanes du Moyen Âge</title>
+<biblScope type="vol">VII/2</biblScope>
+<date>(1998)</date>
+<biblScope type="pages">p. 170-182.</biblScope>
+</bibl>
+</item> 
+    
+    <item> 
+<bibl>
+<author>VERNET, André</author>, « Les manuscrits de Claude d'Urfé (1501-1558) au château de La Bastie », <title>Comptes rendus des séances de l'Académie des inscriptions et belles lettres</title>
+<biblScope type="vol">CXX/1</biblScope>
+<date>(1976)</date>
+<biblScope type="pages">p. 81-97.</biblScope>
+</bibl>
+</item> 
+
+
+         
+</list>
+   </div>
+  </body>
+ </text>
+</TEI>

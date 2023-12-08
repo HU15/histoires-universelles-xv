@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Table des rubriques du ms Paris, Bibliothèque nationale de France, NAF 14852</title>
+                <respStmt>
+                    <resp></resp>
+                    <name></name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl></bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+    <text>
+        <body>
+            <div>
+
+                <p>
+
+
+<pb n="2r"/>
+<cb n="b"/>
+<rubric>Cy dit comment maynnons le vaillant 
+chevalier fu occis <num>xxvii.</num></rubric>
+
+<pb n="2v"/>
+<cb n="d"/>
+<rubric>Cy devise comment achilles fu occis <num>xxviii</num></rubric>
+
+<pb n="3r"/>
+<cb n="a"/>
+<rubric>Cy commence la table des rubriches 
+de la <num>vii<g type="exposant">e</g></num> partie du livre de la 
+mutacion de fortune qui parle de l’istoire des 
+rommains abrigee, celle de Alixandre et des 
+princes raignans environ laage de la per 
+sonne qui a compile le dit livre</rubric>
+
+<pb n="3r"/>
+<cb n="a"/>
+<rubric>Le premier chappitre parle de eneas 
+qui se party de troye et de la genologie des 
+rommains <num>i.</num></rubric>
+
+<pb n="3v"/>
+<cb n="d"/>
+<rubric>Cy fine la table des rubriches <del rend = "strikethrough">du</del>
+<del rend = "strikethrough">livre</del> de la <num>vii<g type="exposant">e</g>.</num> partie du livre de la
+mutacion de fortune</rubric>
+
+<pb n="3v"/>
+<cb n="d"/>
+<rubric>Cy commence la <num>vii<g type="exposant">e</g>.</num> partie du livre
+de la mutacion de fortune qui parle de 
+listoire des rommains celle de alixan 
+dre et des princes reignans environ 
+laage de la personne q<ex>ui</ex> a compile le dit
+livre</rubric>
+
+<pb n="3v"/>
+<cb n="d"/>
+<rubric>Le preremier chappitre de eneas qui se 
+parti de troye et de la genologie des rom 
+mains <num>.i.</num></rubric>
+
+  </p>
+            </div>
+        </body>
+    </text>
+</TEI>

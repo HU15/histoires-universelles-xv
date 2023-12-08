@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+ <fileDesc>
+  <titleStmt>
+   <title>Bibliographie sur le manuscrit Arsenal 3172 du Livre de la Mutacion de Fortune de Christine de Pizan</title>
+   <respStmt>
+    <resp>compiled by</resp>
+    <name>Kim Labelle</name>
+   </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <availability></availability>
+  </publicationStmt>
+  <sourceDesc>
+   <bibl>No print source exists: this is an original digital text</bibl>
+  </sourceDesc>
+ </fileDesc>
+</teiHeader>
+
+ 
+ <text>
+  <body>
+   <div>
+
+       <title>Éditions</title>	
+       
+     <list>
+	
+
+	 
+       </list>	
+
+       <title>Études</title>
+	
+       <list>
+           
+	
+<item>  
+<bibl>    
+<author>J. VAN DEN GHEYN, E. BACHA et Emile WAGEMANS</author>, <title>Catalogue des manuscrits de la Bibliothèque Royale de Belgique, vol. 5 : Histoire </title>
+<pubPlace>Bruxelles</pubPlace>
+<date>1905</date>    
+<biblScope type="pages">p. 26.</biblScope>
+</bibl>
+</item>
+	
+
+	
+
+<item>  
+<bibl>    
+<author>BLONDEAU, Chrystèle</author>, <title>Un conquérant pour quatre ducs. Alexandre le Grand à la cour de Bourgogne</title>
+<pubPlace>France</pubPlace>
+<publisher>cths-inha</publisher> 
+<date>2009</date>  
+<biblScope type="pages">p. 202-203.</biblScope>
+</bibl>
+</item>  
+    
+     
+    
+<item>  
+<bibl>    
+    <author>WIJSMAN, Hanno</author>, <title>"ms. 10478-79 - Gilles le Bel, Chronique; Chronique abrégée dite de Baudouin d’Avesnes ; Récits d’un ménestrel de Reims"</title>, dans VAN HOOREBEECK, Céline, Bernard BOUSMANNE et Tania VAN HEMELRYCK (dir.), <title><i>La librairie des ducs de Bourgogne. Manuscrits conservés à la Bibliothèque royale de Belgique</i></title>,
+<biblScope type="vol">4</biblScope>,
+<date>2009</date>,
+<biblScope type="pages">p. 213-222.</biblScope>
+</bibl>
+</item>
+
+
+         
+</list>
+   </div>
+  </body>
+ </text>
+</TEI>
